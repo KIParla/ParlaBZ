@@ -1,0 +1,87 @@
+{
+  "transcript": "BZA5001",
+  "speakers": {
+    "BZ001": {
+      "TUs": 143,
+      "time": 412.55799999999994,
+      "tokens": 1500,
+      "tokens-ling": 1443,
+      "tokens-unk": 0,
+      "tokens-anonym": 0,
+      "tokens-nvb": 4,
+      "tokens-pause": 52,
+      "tokens-err": 1,
+      "code-switching": 0
+    },
+    "BZ002": {
+      "TUs": 238,
+      "time": 819.6569999999994,
+      "tokens": 2743,
+      "tokens-ling": 2663,
+      "tokens-unk": 2,
+      "tokens-anonym": 0,
+      "tokens-nvb": 13,
+      "tokens-pause": 64,
+      "tokens-err": 1,
+      "code-switching": 0
+    }
+  },
+  "TUs": 381,
+  "removed_TUs": 0,
+  "overlaps": 94,
+  "WARNINGS": {
+    "SWITCHES": 102,
+    "META_TAGS": 17,
+    "MISMATCHING_OVERLAPS": 4,
+    "MOVED_BOUNDARIES": 4,
+    "TRIM_PROSODICLINKS": 2,
+    "WORD_CORRECTIONS": 3,
+    "UNEVEN_SPACES": 1
+  },
+  "ERRORS": {
+    "UNBALANCED_GUESS": 2,
+    "OVERLAPS:MISSING_ANNOTATION": 2
+  },
+  "ERROR_DETAILS": [
+    {
+      "rule": "UNBALANCED_GUESS",
+      "tu_id": 43,
+      "speaker": "BZ001",
+      "text": "e tu ci provi? (.) a parlare napole[tano)]"
+    },
+    {
+      "rule": "OVERLAPS:MISSING_ANNOTATION",
+      "tu_id": 68,
+      "speaker": "BZ002",
+      "text": "no quello no."
+    },
+    {
+      "rule": "OVERLAPS:MISSING_ANNOTATION",
+      "tu_id": 69,
+      "speaker": "BZ001",
+      "text": "mai, mh."
+    },
+    {
+      "rule": "UNBALANCED_GUESS",
+      "tu_id": 142,
+      "speaker": "BZ002",
+      "text": "[(mh=mh. (.) è anche un po' quello],"
+    }
+  ],
+  "ERROR_TOKENS": [
+    {
+      "tu_id": 101,
+      "speaker": "BZ002",
+      "span": "ritmo,.",
+      "form": "ritmo,.",
+      "context": "e adesso ri- mh penso fra poco inizierò anche sempre con l'università di pechino, il corso per l'hsk due perché era fatto bene e poi mi dà un po' più di ritmo,. h"
+    },
+    {
+      "tu_id": 277,
+      "speaker": "BZ001",
+      "span": "elle1<",
+      "form": "elle1",
+      "context": "spesso c'erano: (.) mh questi caffè linguistici però (.) a due sempre no? [quindi una perso]na di una elle uno una persona >di un'altra elle1< che si incontra[vano per per parlare]."
+    }
+  ]
+}

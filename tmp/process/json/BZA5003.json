@@ -1,0 +1,46 @@
+{
+  "transcript": "BZA5003",
+  "speakers": {
+    "BZ001": {
+      "TUs": 245,
+      "time": 311.8279999999998,
+      "tokens": 1102,
+      "tokens-ling": 1075,
+      "tokens-unk": 1,
+      "tokens-anonym": 0,
+      "tokens-nvb": 14,
+      "tokens-pause": 12,
+      "tokens-err": 0,
+      "code-switching": 0
+    },
+    "BZ004": {
+      "TUs": 386,
+      "time": 1130.776999999999,
+      "tokens": 3289,
+      "tokens-ling": 3181,
+      "tokens-unk": 2,
+      "tokens-anonym": 4,
+      "tokens-nvb": 15,
+      "tokens-pause": 87,
+      "tokens-err": 0,
+      "code-switching": 0
+    }
+  },
+  "TUs": 631,
+  "removed_TUs": 0,
+  "overlaps": 122,
+  "WARNINGS": {
+    "SWITCHES": 121,
+    "TRIM_PROSODICLINKS": 51,
+    "MISMATCHING_OVERLAPS": 12,
+    "MOVED_BOUNDARIES": 54,
+    "META_TAGS": 29,
+    "WORD_CORRECTIONS": 5,
+    "MULTIPLE_SPACES": 1,
+    "EMPTY_SPANS": 1,
+    "UNEVEN_SPACES": 1
+  },
+  "ERRORS": {},
+  "ERROR_DETAILS": [],
+  "ERROR_TOKENS": []
+}

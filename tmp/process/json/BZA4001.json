@@ -1,0 +1,269 @@
+{
+  "transcript": "BZA4001",
+  "speakers": {
+    "BZ012": {
+      "TUs": 266,
+      "time": 439.772,
+      "tokens": 1385,
+      "tokens-ling": 1350,
+      "tokens-unk": 11,
+      "tokens-anonym": 0,
+      "tokens-nvb": 21,
+      "tokens-pause": 2,
+      "tokens-err": 1,
+      "code-switching": 0
+    },
+    "BZ009": {
+      "TUs": 419,
+      "time": 701.9409999999996,
+      "tokens": 2229,
+      "tokens-ling": 2181,
+      "tokens-unk": 11,
+      "tokens-anonym": 0,
+      "tokens-nvb": 18,
+      "tokens-pause": 18,
+      "tokens-err": 1,
+      "code-switching": 0
+    }
+  },
+  "TUs": 685,
+  "removed_TUs": 0,
+  "overlaps": 125,
+  "WARNINGS": {
+    "SWITCHES": 111,
+    "META_TAGS": 39,
+    "WORD_CORRECTIONS": 4,
+    "TRIM_PROSODICLINKS": 50,
+    "MOVED_BOUNDARIES": 24,
+    "MISMATCHING_OVERLAPS": 30,
+    "SYMBOL_NOT_ALLOWED": 6,
+    "UNEVEN_SPACES": 3
+  },
+  "ERRORS": {
+    "OVERLAPS:MISSING_ANNOTATION": 31,
+    "UNBALANCED_GUESS": 1,
+    "MISMATCHING_OVERLAPS": 2
+  },
+  "ERROR_DETAILS": [
+    {
+      "rule": "OVERLAPS:MISSING_ANNOTATION",
+      "tu_id": 73,
+      "speaker": "BZ012",
+      "text": "sono loro che tra un po' fanno da ciceroni a chi va a napoli."
+    },
+    {
+      "rule": "OVERLAPS:MISSING_ANNOTATION",
+      "tu_id": 74,
+      "speaker": "BZ009",
+      "text": "be' insomma,"
+    },
+    {
+      "rule": "OVERLAPS:MISSING_ANNOTATION",
+      "tu_id": 141,
+      "speaker": "BZ012",
+      "text": "sì:,"
+    },
+    {
+      "rule": "OVERLAPS:MISSING_ANNOTATION",
+      "tu_id": 142,
+      "speaker": "BZ009",
+      "text": "non sono più come quelle di una volta che avevano due posti e poi il baule,"
+    },
+    {
+      "rule": "OVERLAPS:MISSING_ANNOTATION",
+      "tu_id": 243,
+      "speaker": "BZ012",
+      "text": "no sono fido, ((ride))"
+    },
+    {
+      "rule": "OVERLAPS:MISSING_ANNOTATION",
+      "tu_id": 244,
+      "speaker": "BZ009",
+      "text": "fido."
+    },
+    {
+      "rule": "OVERLAPS:MISSING_ANNOTATION",
+      "tu_id": 348,
+      "speaker": "BZ012",
+      "text": "((ride))"
+    },
+    {
+      "rule": "OVERLAPS:MISSING_ANNOTATION",
+      "tu_id": 349,
+      "speaker": "BZ009",
+      "text": "fido pianta- <madonna> guarda."
+    },
+    {
+      "rule": "OVERLAPS:MISSING_ANNOTATION",
+      "tu_id": 396,
+      "speaker": "BZ012",
+      "text": "che non prenda freddo per niente guarda che vento che c'è fuori,"
+    },
+    {
+      "rule": "OVERLAPS:MISSING_ANNOTATION",
+      "tu_id": 397,
+      "speaker": "BZ009",
+      "text": "facciamo così sì."
+    },
+    {
+      "rule": "OVERLAPS:MISSING_ANNOTATION",
+      "tu_id": 427,
+      "speaker": "BZ009",
+      "text": "vero?"
+    },
+    {
+      "rule": "OVERLAPS:MISSING_ANNOTATION",
+      "tu_id": 428,
+      "speaker": "BZ012",
+      "text": "davvero?"
+    },
+    {
+      "rule": "OVERLAPS:MISSING_ANNOTATION",
+      "tu_id": 431,
+      "speaker": "BZ012",
+      "text": "digli un angelo come me?"
+    },
+    {
+      "rule": "OVERLAPS:MISSING_ANNOTATION",
+      "tu_id": 432,
+      "speaker": "BZ009",
+      "text": "ah: sì sì."
+    },
+    {
+      "rule": "OVERLAPS:MISSING_ANNOTATION",
+      "tu_id": 433,
+      "speaker": "BZ012",
+      "text": "un angelo,"
+    },
+    {
+      "rule": "OVERLAPS:MISSING_ANNOTATION",
+      "tu_id": 453,
+      "speaker": "BZ012",
+      "text": "da un programma all'altro:"
+    },
+    {
+      "rule": "OVERLAPS:MISSING_ANNOTATION",
+      "tu_id": 454,
+      "speaker": "BZ009",
+      "text": "eh per forza."
+    },
+    {
+      "rule": "OVERLAPS:MISSING_ANNOTATION",
+      "tu_id": 521,
+      "speaker": "BZ009",
+      "text": "al con- come si chiama lì,"
+    },
+    {
+      "rule": "OVERLAPS:MISSING_ANNOTATION",
+      "tu_id": 522,
+      "speaker": "BZ012",
+      "text": "devo andare all'anagrafe,"
+    },
+    {
+      "rule": "OVERLAPS:MISSING_ANNOTATION",
+      "tu_id": 574,
+      "speaker": "BZ012",
+      "text": "((ride))"
+    },
+    {
+      "rule": "OVERLAPS:MISSING_ANNOTATION",
+      "tu_id": 575,
+      "speaker": "BZ009",
+      "text": "vero?"
+    },
+    {
+      "rule": "OVERLAPS:MISSING_ANNOTATION",
+      "tu_id": 580,
+      "speaker": "BZ012",
+      "text": "no mi fa morire perché ti guarda,"
+    },
+    {
+      "rule": "OVERLAPS:MISSING_ANNOTATION",
+      "tu_id": 581,
+      "speaker": "BZ009",
+      "text": "grazie."
+    },
+    {
+      "rule": "UNBALANCED_GUESS",
+      "tu_id": 587,
+      "speaker": "BZ012",
+      "text": "a:h. ((sorta di sospiro)"
+    },
+    {
+      "rule": "OVERLAPS:MISSING_ANNOTATION",
+      "tu_id": 642,
+      "speaker": "BZ012",
+      "text": "in d- eh eh sotto il lavandino lì sei dove ci sono i bidoncini, se te l'-"
+    },
+    {
+      "rule": "MISMATCHING_OVERLAPS",
+      "tu_id": 643,
+      "speaker": "BZ009",
+      "text": "(putain ne pas posible [travale avec de la brute] comme ça)"
+    },
+    {
+      "rule": "OVERLAPS:MISSING_ANNOTATION",
+      "tu_id": 651,
+      "speaker": "BZ009",
+      "text": "ecco, e lo stesso vale anche per voi eh del cantiere"
+    },
+    {
+      "rule": "OVERLAPS:MISSING_ANNOTATION",
+      "tu_id": 652,
+      "speaker": "BZ012",
+      "text": "((ride))"
+    },
+    {
+      "rule": "OVERLAPS:MISSING_ANNOTATION",
+      "tu_id": 659,
+      "speaker": "BZ012",
+      "text": "eh s'è ben strano"
+    },
+    {
+      "rule": "OVERLAPS:MISSING_ANNOTATION",
+      "tu_id": 660,
+      "speaker": "BZ009",
+      "text": "sweet valley sweet valley ah: ((cantando)) ((ride)) guardalo."
+    },
+    {
+      "rule": "MISMATCHING_OVERLAPS",
+      "tu_id": 662,
+      "speaker": "BZ009",
+      "text": "[sweet] valley sweet valley ((cantando))"
+    },
+    {
+      "rule": "OVERLAPS:MISSING_ANNOTATION",
+      "tu_id": 663,
+      "speaker": "BZ012",
+      "text": "pier hai visto della lego la fontana di trevi?"
+    },
+    {
+      "rule": "OVERLAPS:MISSING_ANNOTATION",
+      "tu_id": 682,
+      "speaker": "BZ009",
+      "text": "eh: sì,"
+    },
+    {
+      "rule": "OVERLAPS:MISSING_ANNOTATION",
+      "tu_id": 683,
+      "speaker": "BZ012",
+      "text": "e secondo me è difficilissima perché praticamente è bianca e azzurra. basta."
+    }
+  ],
+  "ERROR_TOKENS": [
+    {
+      "tu_id": 55,
+      "speaker": "BZ009",
+      "span": "fare?)]?",
+      "form": "fare??",
+      "context": "e perché non vuole andare giù [(cosa deve fare?)]?"
+    },
+    {
+      "tu_id": 642,
+      "speaker": "BZ012",
+      "span": "l'-",
+      "form": "l'-",
+      "context": "in d- eh eh sotto il lavandino lì sei dove ci sono i bidoncini, se te l'-"
+    }
+  ]
+}

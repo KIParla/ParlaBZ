@@ -1,7 +1,7 @@
 type: dataset
 cff-version: 1.2.0
 message: "If you use this data, please cite it as below."
-title: "MODULE_TITLE"
+title: "ParlaBZ"
 authors:
 - family-names: "FAMILY_NAME"
   given-names: "GIVEN_NAME"
@@ -12,5 +12,5 @@ identifiers:
     type: doi
     value: XXXXXXXX
 date-released: YYYY-MM-DD
-repository-code: "https://github.com/KIParla/MODULE_REPO"
+repository-code: "https://github.com/KIParla/ParlaBZ"
 license: CC-BY-NC-SA-4.0

@@ -1,0 +1,52 @@
+{
+  "transcript": "BZA5002",
+  "speakers": {
+    "BZ001": {
+      "TUs": 71,
+      "time": 239.36299999999986,
+      "tokens": 832,
+      "tokens-ling": 807,
+      "tokens-unk": 0,
+      "tokens-anonym": 0,
+      "tokens-nvb": 5,
+      "tokens-pause": 20,
+      "tokens-err": 0,
+      "code-switching": 0
+    },
+    "BZ003": {
+      "TUs": 378,
+      "time": 1331.1799999999994,
+      "tokens": 3683,
+      "tokens-ling": 3597,
+      "tokens-unk": 0,
+      "tokens-anonym": 0,
+      "tokens-nvb": 15,
+      "tokens-pause": 70,
+      "tokens-err": 1,
+      "code-switching": 0
+    }
+  },
+  "TUs": 449,
+  "removed_TUs": 0,
+  "overlaps": 22,
+  "WARNINGS": {
+    "SWITCHES": 30,
+    "MOVED_BOUNDARIES": 4,
+    "TRIM_PROSODICLINKS": 6,
+    "META_TAGS": 20,
+    "UNEVEN_SPACES": 4,
+    "WORD_CORRECTIONS": 2,
+    "MULTIPLE_SPACES": 1
+  },
+  "ERRORS": {},
+  "ERROR_DETAILS": [],
+  "ERROR_TOKENS": [
+    {
+      "tu_id": 121,
+      "speaker": "BZ003",
+      "span": ".",
+      "form": ".",
+      "context": "eh:m che è completamente diverso anche dalla dall'irlandese diciamo inglese. (.) . h ((ridendo))"
+    }
+  ]
+}

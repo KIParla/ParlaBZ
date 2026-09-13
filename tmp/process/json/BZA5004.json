@@ -1,0 +1,142 @@
+{
+  "transcript": "BZA5004",
+  "speakers": {
+    "BZ001": {
+      "TUs": 260,
+      "time": 413.323,
+      "tokens": 1363,
+      "tokens-ling": 1313,
+      "tokens-unk": 0,
+      "tokens-anonym": 0,
+      "tokens-nvb": 27,
+      "tokens-pause": 22,
+      "tokens-err": 1,
+      "code-switching": 0
+    },
+    "BZ005": {
+      "TUs": 507,
+      "time": 1586.8470000000018,
+      "tokens": 4686,
+      "tokens-ling": 4614,
+      "tokens-unk": 4,
+      "tokens-anonym": 2,
+      "tokens-nvb": 23,
+      "tokens-pause": 41,
+      "tokens-err": 2,
+      "code-switching": 0
+    }
+  },
+  "TUs": 767,
+  "removed_TUs": 0,
+  "overlaps": 116,
+  "WARNINGS": {
+    "SWITCHES": 127,
+    "META_TAGS": 50,
+    "WORD_CORRECTIONS": 10,
+    "TRIM_PROSODICLINKS": 31,
+    "MISMATCHING_OVERLAPS": 18,
+    "UNEVEN_SPACES": 4,
+    "MOVED_BOUNDARIES": 32
+  },
+  "ERRORS": {
+    "OVERLAPS:MISSING_ANNOTATION": 11,
+    "UNBALANCED_PACE": 1
+  },
+  "ERROR_DETAILS": [
+    {
+      "rule": "OVERLAPS:MISSING_ANNOTATION",
+      "tu_id": 106,
+      "speaker": "BZ005",
+      "text": "storia di immersione nelle lingue, ((ridendo))"
+    },
+    {
+      "rule": "OVERLAPS:MISSING_ANNOTATION",
+      "tu_id": 107,
+      "speaker": "BZ001",
+      "text": "di,"
+    },
+    {
+      "rule": "UNBALANCED_PACE",
+      "tu_id": 136,
+      "speaker": "BZ005",
+      "text": "<e poi una settimana in spagna>, sempre al liceo<sempre in famiglia."
+    },
+    {
+      "rule": "OVERLAPS:MISSING_ANNOTATION",
+      "tu_id": 384,
+      "speaker": "BZ005",
+      "text": "di russo non ho fatto nulla,"
+    },
+    {
+      "rule": "OVERLAPS:MISSING_ANNOTATION",
+      "tu_id": 447,
+      "speaker": "BZ005",
+      "text": "eh:: in <tedesco>, l'ho fatto solo per la scuola non mi è piaciuto,"
+    },
+    {
+      "rule": "OVERLAPS:MISSING_ANNOTATION",
+      "tu_id": 448,
+      "speaker": "BZ001",
+      "text": "((ride))"
+    },
+    {
+      "rule": "OVERLAPS:MISSING_ANNOTATION",
+      "tu_id": 467,
+      "speaker": "BZ001",
+      "text": "mh=mh,"
+    },
+    {
+      "rule": "OVERLAPS:MISSING_ANNOTATION",
+      "tu_id": 468,
+      "speaker": "BZ005",
+      "text": "che era uscito nel duemilaedodici,"
+    },
+    {
+      "rule": "OVERLAPS:MISSING_ANNOTATION",
+      "tu_id": 537,
+      "speaker": "BZ005",
+      "text": "e invece: sapevano"
+    },
+    {
+      "rule": "OVERLAPS:MISSING_ANNOTATION",
+      "tu_id": 538,
+      "speaker": "BZ001",
+      "text": "okay,"
+    },
+    {
+      "rule": "OVERLAPS:MISSING_ANNOTATION",
+      "tu_id": 615,
+      "speaker": "BZ001",
+      "text": "prima in italiano"
+    },
+    {
+      "rule": "OVERLAPS:MISSING_ANNOTATION",
+      "tu_id": 616,
+      "speaker": "BZ005",
+      "text": "i sogni più strani penso di averli fatti in italiano."
+    }
+  ],
+  "ERROR_TOKENS": [
+    {
+      "tu_id": 296,
+      "speaker": "BZ001",
+      "span": "[h.:]",
+      "form": "h.:",
+      "context": "[h.:]"
+    },
+    {
+      "tu_id": 348,
+      "speaker": "BZ005",
+      "span": "di,.",
+      "form": "di,.",
+      "context": "storia della critica letteraria, lì poi si faceva un'analisi di,. h"
+    },
+    {
+      "tu_id": 497,
+      "speaker": "BZ005",
+      "span": "ortografiche,.",
+      "form": "ortografiche,.",
+      "context": "delle regole ortografiche,. h (.) eh: ai miei genitori per scrivere in rumeno, loro non le sanno."
+    }
+  ]
+}

@@ -1,0 +1,1890 @@
+[
+  {
+    "transcript": "BXA4001",
+    "speakers": {
+      "BX001": {
+        "TUs": 391,
+        "time": 995.9839999999994,
+        "tokens": 2899,
+        "tokens-ling": 2700,
+        "tokens-unk": 17,
+        "tokens-anonym": 0,
+        "tokens-nvb": 64,
+        "tokens-pause": 114,
+        "tokens-err": 4,
+        "code-switching": 0
+      },
+      "BX002": {
+        "TUs": 433,
+        "time": 957.7879999999993,
+        "tokens": 3001,
+        "tokens-ling": 2826,
+        "tokens-unk": 29,
+        "tokens-anonym": 0,
+        "tokens-nvb": 23,
+        "tokens-pause": 123,
+        "tokens-err": 0,
+        "code-switching": 0
+      },
+      "BX003": {
+        "TUs": 278,
+        "time": 625.1840000000003,
+        "tokens": 1900,
+        "tokens-ling": 1772,
+        "tokens-unk": 19,
+        "tokens-anonym": 0,
+        "tokens-nvb": 44,
+        "tokens-pause": 65,
+        "tokens-err": 0,
+        "code-switching": 0
+      },
+      "BX004": {
+        "TUs": 34,
+        "time": 105.372,
+        "tokens": 340,
+        "tokens-ling": 315,
+        "tokens-unk": 12,
+        "tokens-anonym": 0,
+        "tokens-nvb": 2,
+        "tokens-pause": 11,
+        "tokens-err": 0,
+        "code-switching": 0
+      }
+    },
+    "TUs": 1136,
+    "removed_TUs": 0,
+    "overlaps": 376,
+    "WARNINGS": {
+      "META_TAGS": 133,
+      "SWITCHES": 233,
+      "MISMATCHING_OVERLAPS": 65,
+      "MOVED_BOUNDARIES": 64,
+      "MULTIPLE_SPACES": 4,
+      "UNEVEN_SPACES": 9,
+      "TRIM_PROSODICLINKS": 33,
+      "WORD_CORRECTIONS": 16,
+      "ACCENTS": 1,
+      "SYMBOL_NOT_ALLOWED": 1,
+      "EMPTY_SPANS": 2
+    },
+    "ERRORS": {
+      "MISMATCHING_OVERLAPS": 30,
+      "UNBALANCED_OVERLAP": 3,
+      "OVERLAPS:MISSING_ANNOTATION": 9,
+      "OVERLAPS:MISSING_TIME": 2,
+      "UNBALANCED_GUESS": 4
+    },
+    "ERROR_DETAILS": [
+      {
+        "rule": "MISMATCHING_OVERLAPS",
+        "tu_id": 5,
+        "speaker": "BX001",
+        "text": "[(xx)] ((ride))"
+      },
+      {
+        "rule": "MISMATCHING_OVERLAPS",
+        "tu_id": 6,
+        "speaker": "BX002",
+        "text": "(xx) bolivia (.) e io [(xxx)]"
+      },
+      {
+        "rule": "MISMATCHING_OVERLAPS",
+        "tu_id": 7,
+        "speaker": "BX001",
+        "text": "[((ride))]"
+      },
+      {
+        "rule": "MISMATCHING_OVERLAPS",
+        "tu_id": 8,
+        "speaker": "BX002",
+        "text": "cioè io dovevo (.) a volte spegnere la telecamera perché mi veniva da ri[dere, (.) perché]"
+      },
+      {
+        "rule": "UNBALANCED_OVERLAP",
+        "tu_id": 14,
+        "speaker": "BX002",
+        "text": "[eh esatto]. [(.) e io da quella volta,"
+      },
+      {
+        "rule": "OVERLAPS:MISSING_ANNOTATION",
+        "tu_id": 14,
+        "speaker": "BX002",
+        "text": "[eh esatto]. [(.) e io da quella volta,"
+      },
+      {
+        "rule": "UNBALANCED_OVERLAP",
+        "tu_id": 64,
+        "speaker": "BX002",
+        "text": "[((ride))"
+      },
+      {
+        "rule": "OVERLAPS:MISSING_ANNOTATION",
+        "tu_id": 64,
+        "speaker": "BX002",
+        "text": "[((ride))"
+      },
+      {
+        "rule": "MISMATCHING_OVERLAPS",
+        "tu_id": 69,
+        "speaker": "BX003",
+        "text": "[(xxxxxxxx)]"
+      },
+      {
+        "rule": "OVERLAPS:MISSING_ANNOTATION",
+        "tu_id": 288,
+        "speaker": "BX003",
+        "text": "((ride))"
+      },
+      {
+        "rule": "OVERLAPS:MISSING_ANNOTATION",
+        "tu_id": 289,
+        "speaker": "BX001",
+        "text": "((ride))"
+      },
+      {
+        "rule": "MISMATCHING_OVERLAPS",
+        "tu_id": 296,
+        "speaker": "BX001",
+        "text": "cioè il gru- il gruppettino di tre: [e questo che parlava: eh]."
+      },
+      {
+        "rule": "MISMATCHING_OVERLAPS",
+        "tu_id": 414,
+        "speaker": "BX002",
+        "text": "e [volevo guardare] qualcos'altro,"
+      },
+      {
+        "rule": "MISMATCHING_OVERLAPS",
+        "tu_id": 416,
+        "speaker": "BX001",
+        "text": "[xxx] ((ridendo))"
+      },
+      {
+        "rule": "OVERLAPS:MISSING_ANNOTATION",
+        "tu_id": 501,
+        "speaker": "BX002",
+        "text": "dici?"
+      },
+      {
+        "rule": "OVERLAPS:MISSING_ANNOTATION",
+        "tu_id": 502,
+        "speaker": "BX001",
+        "text": "prima che venisse bene."
+      },
+      {
+        "rule": "MISMATCHING_OVERLAPS",
+        "tu_id": 618,
+        "speaker": "BX002",
+        "text": "[col pie-, sì. col pedale]."
+      },
+      {
+        "rule": "OVERLAPS:MISSING_ANNOTATION",
+        "tu_id": 629,
+        "speaker": "BX003",
+        "text": "eh:"
+      },
+      {
+        "rule": "MISMATCHING_OVERLAPS",
+        "tu_id": 630,
+        "speaker": "BX002",
+        "text": "perché [c'è:]"
+      },
+      {
+        "rule": "OVERLAPS:MISSING_TIME",
+        "tu_id": 659,
+        "speaker": "BX003",
+        "text": "sì. con::, tipo un gancio in fer[ro]."
+      },
+      {
+        "rule": "MISMATCHING_OVERLAPS",
+        "tu_id": 660,
+        "speaker": "BX001",
+        "text": "[di] metallo, [(eh sì.)]"
+      },
+      {
+        "rule": "OVERLAPS:MISSING_TIME",
+        "tu_id": 666,
+        "speaker": "BX001",
+        "text": "cioè anche da=da da mia mamma c'è una singer. (.) [anche quel]la::,"
+      },
+      {
+        "rule": "MISMATCHING_OVERLAPS",
+        "tu_id": 668,
+        "speaker": "BX002",
+        "text": "[io non lo so ma (xx)]"
+      },
+      {
+        "rule": "MISMATCHING_OVERLAPS",
+        "tu_id": 686,
+        "speaker": "BX001",
+        "text": "ora c'è un po' anche il boom di questa cosa: retro no? [di di:]"
+      },
+      {
+        "rule": "MISMATCHING_OVERLAPS",
+        "tu_id": 726,
+        "speaker": "BX003",
+        "text": "[no no be'] sembra dav- sembra semplice, ma n- (.) [non lo è. cioè tu dici faccio una cosa bruttissima (co-)]"
+      },
+      {
+        "rule": "MISMATCHING_OVERLAPS",
+        "tu_id": 746,
+        "speaker": "BX001",
+        "text": "da uomo. e faceva solo i i completi no? che all'epoca insomma, [cioè (xx tutti)]"
+      },
+      {
+        "rule": "MISMATCHING_OVERLAPS",
+        "tu_id": 762,
+        "speaker": "BX003",
+        "text": "[sì sì sì enormi e pensatissime che quando tagli:],"
+      },
+      {
+        "rule": "MISMATCHING_OVERLAPS",
+        "tu_id": 763,
+        "speaker": "BX001",
+        "text": "[(e gro- e grossissime) ((ride))]"
+      },
+      {
+        "rule": "UNBALANCED_GUESS",
+        "tu_id": 771,
+        "speaker": "BX002",
+        "text": "[(si è per tagliare (i) xxxx ((ride))]"
+      },
+      {
+        "rule": "OVERLAPS:MISSING_ANNOTATION",
+        "tu_id": 807,
+        "speaker": "BX001",
+        "text": "alè"
+      },
+      {
+        "rule": "MISMATCHING_OVERLAPS",
+        "tu_id": 808,
+        "speaker": "BX003",
+        "text": "sono anche riutilizzabili se [vuoi li usi per dare acqua alle piante] per, (.) bo'"
+      },
+      {
+        "rule": "MISMATCHING_OVERLAPS",
+        "tu_id": 836,
+        "speaker": "BX003",
+        "text": "[proprio quelli. ((ridendo)) ((ride))]"
+      },
+      {
+        "rule": "MISMATCHING_OVERLAPS",
+        "tu_id": 837,
+        "speaker": "BX001",
+        "text": "[((ride))]"
+      },
+      {
+        "rule": "MISMATCHING_OVERLAPS",
+        "tu_id": 842,
+        "speaker": "BX002",
+        "text": "[eh] (.) direi."
+      },
+      {
+        "rule": "UNBALANCED_GUESS",
+        "tu_id": 843,
+        "speaker": "BX001",
+        "text": "[((incomrensibile ((ridendo)) ((ride))]"
+      },
+      {
+        "rule": "MISMATCHING_OVERLAPS",
+        "tu_id": 843,
+        "speaker": "BX001",
+        "text": "[((incomrensibile ((ridendo)) ((ride))]"
+      },
+      {
+        "rule": "UNBALANCED_OVERLAP",
+        "tu_id": 863,
+        "speaker": "BX002",
+        "text": "[e ti- e tipo ce- ((ride)) sì sì"
+      },
+      {
+        "rule": "OVERLAPS:MISSING_ANNOTATION",
+        "tu_id": 863,
+        "speaker": "BX002",
+        "text": "[e ti- e tipo ce- ((ride)) sì sì"
+      },
+      {
+        "rule": "UNBALANCED_GUESS",
+        "tu_id": 873,
+        "speaker": "BX003",
+        "text": "sono i battavei, sono delle: [(delle xxx dialetto, ((ride)) sì:]"
+      },
+      {
+        "rule": "MISMATCHING_OVERLAPS",
+        "tu_id": 960,
+        "speaker": "BX003",
+        "text": "[ramazza]."
+      },
+      {
+        "rule": "MISMATCHING_OVERLAPS",
+        "tu_id": 964,
+        "speaker": "BX004",
+        "text": "no eh da noi è la: la ramassa, [(incomprensibile)]"
+      },
+      {
+        "rule": "MISMATCHING_OVERLAPS",
+        "tu_id": 966,
+        "speaker": "BX001",
+        "text": "[ah. ((ride)) (.) (eccoci)]"
+      },
+      {
+        "rule": "MISMATCHING_OVERLAPS",
+        "tu_id": 1004,
+        "speaker": "BX003",
+        "text": "((ride)) [è proprio (.) è (.) è proprio ((ridendo)) (loro sono della) xx] mantovana"
+      },
+      {
+        "rule": "MISMATCHING_OVERLAPS",
+        "tu_id": 1005,
+        "speaker": "BX001",
+        "text": "[c'è proprio (.) quella gentaglia ((ridendo)) ((ride))]"
+      },
+      {
+        "rule": "MISMATCHING_OVERLAPS",
+        "tu_id": 1098,
+        "speaker": "BX001",
+        "text": "[((ride))]"
+      },
+      {
+        "rule": "MISMATCHING_OVERLAPS",
+        "tu_id": 1099,
+        "speaker": "BX002",
+        "text": "come no: [xxx]"
+      },
+      {
+        "rule": "MISMATCHING_OVERLAPS",
+        "tu_id": 1119,
+        "speaker": "BX003",
+        "text": "e c'è sono paper da scrivere, [quel- l'unico che non hai da scrivere],"
+      },
+      {
+        "rule": "UNBALANCED_GUESS",
+        "tu_id": 1132,
+        "speaker": "BX003",
+        "text": "[(lo so però (.) non ho capito se non sanno],"
+      }
+    ],
+    "ERROR_TOKENS": [
+      {
+        "tu_id": 100,
+        "speaker": "BX001",
+        "span": ".",
+        "form": ".",
+        "context": "cioè già a bogotà, (.) quando tu scendi in aeroporto, cioè appena: appena scendi da dall'aereo, (.) ci sono le postazioni di ossigeno. (.) per le persone un po' più grandi, (.) . che si devono mettere a sedere e si mettono l'ossigeno."
+      },
+      {
+        "tu_id": 410,
+        "speaker": "BX001",
+        "span": ".",
+        "form": ".",
+        "context": "((ride)) hai già finito ((ridendo)) . ah no ma c'è la: la stagione quella [dopo]."
+      },
+      {
+        "tu_id": 435,
+        "speaker": "BX001",
+        "span": "be':",
+        "form": "be':",
+        "context": "che dopo un po':: dici va be': okay e: però comunqe è molto:"
+      },
+      {
+        "tu_id": 631,
+        "speaker": "BX001",
+        "span": "be':]",
+        "form": "be':",
+        "context": "[eh va be':]"
+      }
+    ]
+  },
+  {
+    "transcript": "BZA4001",
+    "speakers": {
+      "BZ012": {
+        "TUs": 266,
+        "time": 439.772,
+        "tokens": 1385,
+        "tokens-ling": 1350,
+        "tokens-unk": 11,
+        "tokens-anonym": 0,
+        "tokens-nvb": 21,
+        "tokens-pause": 2,
+        "tokens-err": 1,
+        "code-switching": 0
+      },
+      "BZ009": {
+        "TUs": 419,
+        "time": 701.9409999999996,
+        "tokens": 2229,
+        "tokens-ling": 2181,
+        "tokens-unk": 11,
+        "tokens-anonym": 0,
+        "tokens-nvb": 18,
+        "tokens-pause": 18,
+        "tokens-err": 1,
+        "code-switching": 0
+      }
+    },
+    "TUs": 685,
+    "removed_TUs": 0,
+    "overlaps": 125,
+    "WARNINGS": {
+      "SWITCHES": 111,
+      "META_TAGS": 39,
+      "WORD_CORRECTIONS": 4,
+      "TRIM_PROSODICLINKS": 50,
+      "MOVED_BOUNDARIES": 24,
+      "MISMATCHING_OVERLAPS": 30,
+      "SYMBOL_NOT_ALLOWED": 6,
+      "UNEVEN_SPACES": 3
+    },
+    "ERRORS": {
+      "OVERLAPS:MISSING_ANNOTATION": 31,
+      "UNBALANCED_GUESS": 1,
+      "MISMATCHING_OVERLAPS": 2
+    },
+    "ERROR_DETAILS": [
+      {
+        "rule": "OVERLAPS:MISSING_ANNOTATION",
+        "tu_id": 73,
+        "speaker": "BZ012",
+        "text": "sono loro che tra un po' fanno da ciceroni a chi va a napoli."
+      },
+      {
+        "rule": "OVERLAPS:MISSING_ANNOTATION",
+        "tu_id": 74,
+        "speaker": "BZ009",
+        "text": "be' insomma,"
+      },
+      {
+        "rule": "OVERLAPS:MISSING_ANNOTATION",
+        "tu_id": 141,
+        "speaker": "BZ012",
+        "text": "sì:,"
+      },
+      {
+        "rule": "OVERLAPS:MISSING_ANNOTATION",
+        "tu_id": 142,
+        "speaker": "BZ009",
+        "text": "non sono più come quelle di una volta che avevano due posti e poi il baule,"
+      },
+      {
+        "rule": "OVERLAPS:MISSING_ANNOTATION",
+        "tu_id": 243,
+        "speaker": "BZ012",
+        "text": "no sono fido, ((ride))"
+      },
+      {
+        "rule": "OVERLAPS:MISSING_ANNOTATION",
+        "tu_id": 244,
+        "speaker": "BZ009",
+        "text": "fido."
+      },
+      {
+        "rule": "OVERLAPS:MISSING_ANNOTATION",
+        "tu_id": 348,
+        "speaker": "BZ012",
+        "text": "((ride))"
+      },
+      {
+        "rule": "OVERLAPS:MISSING_ANNOTATION",
+        "tu_id": 349,
+        "speaker": "BZ009",
+        "text": "fido pianta- <madonna> guarda."
+      },
+      {
+        "rule": "OVERLAPS:MISSING_ANNOTATION",
+        "tu_id": 396,
+        "speaker": "BZ012",
+        "text": "che non prenda freddo per niente guarda che vento che c'è fuori,"
+      },
+      {
+        "rule": "OVERLAPS:MISSING_ANNOTATION",
+        "tu_id": 397,
+        "speaker": "BZ009",
+        "text": "facciamo così sì."
+      },
+      {
+        "rule": "OVERLAPS:MISSING_ANNOTATION",
+        "tu_id": 427,
+        "speaker": "BZ009",
+        "text": "vero?"
+      },
+      {
+        "rule": "OVERLAPS:MISSING_ANNOTATION",
+        "tu_id": 428,
+        "speaker": "BZ012",
+        "text": "davvero?"
+      },
+      {
+        "rule": "OVERLAPS:MISSING_ANNOTATION",
+        "tu_id": 431,
+        "speaker": "BZ012",
+        "text": "digli un angelo come me?"
+      },
+      {
+        "rule": "OVERLAPS:MISSING_ANNOTATION",
+        "tu_id": 432,
+        "speaker": "BZ009",
+        "text": "ah: sì sì."
+      },
+      {
+        "rule": "OVERLAPS:MISSING_ANNOTATION",
+        "tu_id": 433,
+        "speaker": "BZ012",
+        "text": "un angelo,"
+      },
+      {
+        "rule": "OVERLAPS:MISSING_ANNOTATION",
+        "tu_id": 453,
+        "speaker": "BZ012",
+        "text": "da un programma all'altro:"
+      },
+      {
+        "rule": "OVERLAPS:MISSING_ANNOTATION",
+        "tu_id": 454,
+        "speaker": "BZ009",
+        "text": "eh per forza."
+      },
+      {
+        "rule": "OVERLAPS:MISSING_ANNOTATION",
+        "tu_id": 521,
+        "speaker": "BZ009",
+        "text": "al con- come si chiama lì,"
+      },
+      {
+        "rule": "OVERLAPS:MISSING_ANNOTATION",
+        "tu_id": 522,
+        "speaker": "BZ012",
+        "text": "devo andare all'anagrafe,"
+      },
+      {
+        "rule": "OVERLAPS:MISSING_ANNOTATION",
+        "tu_id": 574,
+        "speaker": "BZ012",
+        "text": "((ride))"
+      },
+      {
+        "rule": "OVERLAPS:MISSING_ANNOTATION",
+        "tu_id": 575,
+        "speaker": "BZ009",
+        "text": "vero?"
+      },
+      {
+        "rule": "OVERLAPS:MISSING_ANNOTATION",
+        "tu_id": 580,
+        "speaker": "BZ012",
+        "text": "no mi fa morire perché ti guarda,"
+      },
+      {
+        "rule": "OVERLAPS:MISSING_ANNOTATION",
+        "tu_id": 581,
+        "speaker": "BZ009",
+        "text": "grazie."
+      },
+      {
+        "rule": "UNBALANCED_GUESS",
+        "tu_id": 587,
+        "speaker": "BZ012",
+        "text": "a:h. ((sorta di sospiro)"
+      },
+      {
+        "rule": "OVERLAPS:MISSING_ANNOTATION",
+        "tu_id": 642,
+        "speaker": "BZ012",
+        "text": "in d- eh eh sotto il lavandino lì sei dove ci sono i bidoncini, se te l'-"
+      },
+      {
+        "rule": "MISMATCHING_OVERLAPS",
+        "tu_id": 643,
+        "speaker": "BZ009",
+        "text": "(putain ne pas posible [travale avec de la brute] comme ça)"
+      },
+      {
+        "rule": "OVERLAPS:MISSING_ANNOTATION",
+        "tu_id": 651,
+        "speaker": "BZ009",
+        "text": "ecco, e lo stesso vale anche per voi eh del cantiere"
+      },
+      {
+        "rule": "OVERLAPS:MISSING_ANNOTATION",
+        "tu_id": 652,
+        "speaker": "BZ012",
+        "text": "((ride))"
+      },
+      {
+        "rule": "OVERLAPS:MISSING_ANNOTATION",
+        "tu_id": 659,
+        "speaker": "BZ012",
+        "text": "eh s'è ben strano"
+      },
+      {
+        "rule": "OVERLAPS:MISSING_ANNOTATION",
+        "tu_id": 660,
+        "speaker": "BZ009",
+        "text": "sweet valley sweet valley ah: ((cantando)) ((ride)) guardalo."
+      },
+      {
+        "rule": "MISMATCHING_OVERLAPS",
+        "tu_id": 662,
+        "speaker": "BZ009",
+        "text": "[sweet] valley sweet valley ((cantando))"
+      },
+      {
+        "rule": "OVERLAPS:MISSING_ANNOTATION",
+        "tu_id": 663,
+        "speaker": "BZ012",
+        "text": "pier hai visto della lego la fontana di trevi?"
+      },
+      {
+        "rule": "OVERLAPS:MISSING_ANNOTATION",
+        "tu_id": 682,
+        "speaker": "BZ009",
+        "text": "eh: sì,"
+      },
+      {
+        "rule": "OVERLAPS:MISSING_ANNOTATION",
+        "tu_id": 683,
+        "speaker": "BZ012",
+        "text": "e secondo me è difficilissima perché praticamente è bianca e azzurra. basta."
+      }
+    ],
+    "ERROR_TOKENS": [
+      {
+        "tu_id": 55,
+        "speaker": "BZ009",
+        "span": "fare?)]?",
+        "form": "fare??",
+        "context": "e perché non vuole andare giù [(cosa deve fare?)]?"
+      },
+      {
+        "tu_id": 642,
+        "speaker": "BZ012",
+        "span": "l'-",
+        "form": "l'-",
+        "context": "in d- eh eh sotto il lavandino lì sei dove ci sono i bidoncini, se te l'-"
+      }
+    ]
+  },
+  {
+    "transcript": "BZA5001",
+    "speakers": {
+      "BZ001": {
+        "TUs": 143,
+        "time": 412.55799999999994,
+        "tokens": 1500,
+        "tokens-ling": 1443,
+        "tokens-unk": 0,
+        "tokens-anonym": 0,
+        "tokens-nvb": 4,
+        "tokens-pause": 52,
+        "tokens-err": 1,
+        "code-switching": 0
+      },
+      "BZ002": {
+        "TUs": 238,
+        "time": 819.6569999999994,
+        "tokens": 2743,
+        "tokens-ling": 2663,
+        "tokens-unk": 2,
+        "tokens-anonym": 0,
+        "tokens-nvb": 13,
+        "tokens-pause": 64,
+        "tokens-err": 1,
+        "code-switching": 0
+      }
+    },
+    "TUs": 381,
+    "removed_TUs": 0,
+    "overlaps": 94,
+    "WARNINGS": {
+      "SWITCHES": 102,
+      "META_TAGS": 17,
+      "MISMATCHING_OVERLAPS": 4,
+      "MOVED_BOUNDARIES": 4,
+      "TRIM_PROSODICLINKS": 2,
+      "WORD_CORRECTIONS": 3,
+      "UNEVEN_SPACES": 1
+    },
+    "ERRORS": {
+      "UNBALANCED_GUESS": 2,
+      "OVERLAPS:MISSING_ANNOTATION": 2
+    },
+    "ERROR_DETAILS": [
+      {
+        "rule": "UNBALANCED_GUESS",
+        "tu_id": 43,
+        "speaker": "BZ001",
+        "text": "e tu ci provi? (.) a parlare napole[tano)]"
+      },
+      {
+        "rule": "OVERLAPS:MISSING_ANNOTATION",
+        "tu_id": 68,
+        "speaker": "BZ002",
+        "text": "no quello no."
+      },
+      {
+        "rule": "OVERLAPS:MISSING_ANNOTATION",
+        "tu_id": 69,
+        "speaker": "BZ001",
+        "text": "mai, mh."
+      },
+      {
+        "rule": "UNBALANCED_GUESS",
+        "tu_id": 142,
+        "speaker": "BZ002",
+        "text": "[(mh=mh. (.) è anche un po' quello],"
+      }
+    ],
+    "ERROR_TOKENS": [
+      {
+        "tu_id": 101,
+        "speaker": "BZ002",
+        "span": "ritmo,.",
+        "form": "ritmo,.",
+        "context": "e adesso ri- mh penso fra poco inizierò anche sempre con l'università di pechino, il corso per l'hsk due perché era fatto bene e poi mi dà un po' più di ritmo,. h"
+      },
+      {
+        "tu_id": 277,
+        "speaker": "BZ001",
+        "span": "elle1<",
+        "form": "elle1",
+        "context": "spesso c'erano: (.) mh questi caffè linguistici però (.) a due sempre no? [quindi una perso]na di una elle uno una persona >di un'altra elle1< che si incontra[vano per per parlare]."
+      }
+    ]
+  },
+  {
+    "transcript": "BZA5002",
+    "speakers": {
+      "BZ001": {
+        "TUs": 71,
+        "time": 239.36299999999986,
+        "tokens": 832,
+        "tokens-ling": 807,
+        "tokens-unk": 0,
+        "tokens-anonym": 0,
+        "tokens-nvb": 5,
+        "tokens-pause": 20,
+        "tokens-err": 0,
+        "code-switching": 0
+      },
+      "BZ003": {
+        "TUs": 378,
+        "time": 1331.1799999999994,
+        "tokens": 3683,
+        "tokens-ling": 3597,
+        "tokens-unk": 0,
+        "tokens-anonym": 0,
+        "tokens-nvb": 15,
+        "tokens-pause": 70,
+        "tokens-err": 1,
+        "code-switching": 0
+      }
+    },
+    "TUs": 449,
+    "removed_TUs": 0,
+    "overlaps": 22,
+    "WARNINGS": {
+      "SWITCHES": 30,
+      "MOVED_BOUNDARIES": 4,
+      "TRIM_PROSODICLINKS": 6,
+      "META_TAGS": 20,
+      "UNEVEN_SPACES": 4,
+      "WORD_CORRECTIONS": 2,
+      "MULTIPLE_SPACES": 1
+    },
+    "ERRORS": {},
+    "ERROR_DETAILS": [],
+    "ERROR_TOKENS": [
+      {
+        "tu_id": 121,
+        "speaker": "BZ003",
+        "span": ".",
+        "form": ".",
+        "context": "eh:m che è completamente diverso anche dalla dall'irlandese diciamo inglese. (.) . h ((ridendo))"
+      }
+    ]
+  },
+  {
+    "transcript": "BZA5003",
+    "speakers": {
+      "BZ001": {
+        "TUs": 245,
+        "time": 311.8279999999998,
+        "tokens": 1102,
+        "tokens-ling": 1075,
+        "tokens-unk": 1,
+        "tokens-anonym": 0,
+        "tokens-nvb": 14,
+        "tokens-pause": 12,
+        "tokens-err": 0,
+        "code-switching": 0
+      },
+      "BZ004": {
+        "TUs": 386,
+        "time": 1130.776999999999,
+        "tokens": 3289,
+        "tokens-ling": 3181,
+        "tokens-unk": 2,
+        "tokens-anonym": 4,
+        "tokens-nvb": 15,
+        "tokens-pause": 87,
+        "tokens-err": 0,
+        "code-switching": 0
+      }
+    },
+    "TUs": 631,
+    "removed_TUs": 0,
+    "overlaps": 122,
+    "WARNINGS": {
+      "SWITCHES": 121,
+      "TRIM_PROSODICLINKS": 51,
+      "MISMATCHING_OVERLAPS": 12,
+      "MOVED_BOUNDARIES": 54,
+      "META_TAGS": 29,
+      "WORD_CORRECTIONS": 5,
+      "MULTIPLE_SPACES": 1,
+      "EMPTY_SPANS": 1,
+      "UNEVEN_SPACES": 1
+    },
+    "ERRORS": {},
+    "ERROR_DETAILS": [],
+    "ERROR_TOKENS": []
+  },
+  {
+    "transcript": "BZA5004",
+    "speakers": {
+      "BZ001": {
+        "TUs": 260,
+        "time": 413.323,
+        "tokens": 1363,
+        "tokens-ling": 1313,
+        "tokens-unk": 0,
+        "tokens-anonym": 0,
+        "tokens-nvb": 27,
+        "tokens-pause": 22,
+        "tokens-err": 1,
+        "code-switching": 0
+      },
+      "BZ005": {
+        "TUs": 507,
+        "time": 1586.8470000000018,
+        "tokens": 4686,
+        "tokens-ling": 4614,
+        "tokens-unk": 4,
+        "tokens-anonym": 2,
+        "tokens-nvb": 23,
+        "tokens-pause": 41,
+        "tokens-err": 2,
+        "code-switching": 0
+      }
+    },
+    "TUs": 767,
+    "removed_TUs": 0,
+    "overlaps": 116,
+    "WARNINGS": {
+      "SWITCHES": 127,
+      "META_TAGS": 50,
+      "WORD_CORRECTIONS": 10,
+      "TRIM_PROSODICLINKS": 31,
+      "MISMATCHING_OVERLAPS": 18,
+      "UNEVEN_SPACES": 4,
+      "MOVED_BOUNDARIES": 32
+    },
+    "ERRORS": {
+      "OVERLAPS:MISSING_ANNOTATION": 11,
+      "UNBALANCED_PACE": 1
+    },
+    "ERROR_DETAILS": [
+      {
+        "rule": "OVERLAPS:MISSING_ANNOTATION",
+        "tu_id": 106,
+        "speaker": "BZ005",
+        "text": "storia di immersione nelle lingue, ((ridendo))"
+      },
+      {
+        "rule": "OVERLAPS:MISSING_ANNOTATION",
+        "tu_id": 107,
+        "speaker": "BZ001",
+        "text": "di,"
+      },
+      {
+        "rule": "UNBALANCED_PACE",
+        "tu_id": 136,
+        "speaker": "BZ005",
+        "text": "<e poi una settimana in spagna>, sempre al liceo<sempre in famiglia."
+      },
+      {
+        "rule": "OVERLAPS:MISSING_ANNOTATION",
+        "tu_id": 384,
+        "speaker": "BZ005",
+        "text": "di russo non ho fatto nulla,"
+      },
+      {
+        "rule": "OVERLAPS:MISSING_ANNOTATION",
+        "tu_id": 447,
+        "speaker": "BZ005",
+        "text": "eh:: in <tedesco>, l'ho fatto solo per la scuola non mi è piaciuto,"
+      },
+      {
+        "rule": "OVERLAPS:MISSING_ANNOTATION",
+        "tu_id": 448,
+        "speaker": "BZ001",
+        "text": "((ride))"
+      },
+      {
+        "rule": "OVERLAPS:MISSING_ANNOTATION",
+        "tu_id": 467,
+        "speaker": "BZ001",
+        "text": "mh=mh,"
+      },
+      {
+        "rule": "OVERLAPS:MISSING_ANNOTATION",
+        "tu_id": 468,
+        "speaker": "BZ005",
+        "text": "che era uscito nel duemilaedodici,"
+      },
+      {
+        "rule": "OVERLAPS:MISSING_ANNOTATION",
+        "tu_id": 537,
+        "speaker": "BZ005",
+        "text": "e invece: sapevano"
+      },
+      {
+        "rule": "OVERLAPS:MISSING_ANNOTATION",
+        "tu_id": 538,
+        "speaker": "BZ001",
+        "text": "okay,"
+      },
+      {
+        "rule": "OVERLAPS:MISSING_ANNOTATION",
+        "tu_id": 615,
+        "speaker": "BZ001",
+        "text": "prima in italiano"
+      },
+      {
+        "rule": "OVERLAPS:MISSING_ANNOTATION",
+        "tu_id": 616,
+        "speaker": "BZ005",
+        "text": "i sogni più strani penso di averli fatti in italiano."
+      }
+    ],
+    "ERROR_TOKENS": [
+      {
+        "tu_id": 296,
+        "speaker": "BZ001",
+        "span": "[h.:]",
+        "form": "h.:",
+        "context": "[h.:]"
+      },
+      {
+        "tu_id": 348,
+        "speaker": "BZ005",
+        "span": "di,.",
+        "form": "di,.",
+        "context": "storia della critica letteraria, lì poi si faceva un'analisi di,. h"
+      },
+      {
+        "tu_id": 497,
+        "speaker": "BZ005",
+        "span": "ortografiche,.",
+        "form": "ortografiche,.",
+        "context": "delle regole ortografiche,. h (.) eh: ai miei genitori per scrivere in rumeno, loro non le sanno."
+      }
+    ]
+  },
+  {
+    "transcript": "BZA5005",
+    "speakers": {
+      "BZ001": {
+        "TUs": 312,
+        "time": 278.20599999999985,
+        "tokens": 936,
+        "tokens-ling": 864,
+        "tokens-unk": 6,
+        "tokens-anonym": 0,
+        "tokens-nvb": 43,
+        "tokens-pause": 23,
+        "tokens-err": 0,
+        "code-switching": 0
+      },
+      "BZ006": {
+        "TUs": 828,
+        "time": 2361.950999999996,
+        "tokens": 8116,
+        "tokens-ling": 7925,
+        "tokens-unk": 3,
+        "tokens-anonym": 2,
+        "tokens-nvb": 31,
+        "tokens-pause": 153,
+        "tokens-err": 2,
+        "code-switching": 0
+      }
+    },
+    "TUs": 1140,
+    "removed_TUs": 0,
+    "overlaps": 236,
+    "WARNINGS": {
+      "META_TAGS": 74,
+      "SWITCHES": 237,
+      "TRIM_PROSODICLINKS": 61,
+      "MOVED_BOUNDARIES": 66,
+      "UNEVEN_SPACES": 4,
+      "WORD_CORRECTIONS": 4,
+      "MISMATCHING_OVERLAPS": 31,
+      "MULTIPLE_SPACES": 2,
+      "TRIM_PAUSES": 1
+    },
+    "ERRORS": {
+      "OVERLAPS:MISSING_ANNOTATION": 15,
+      "UNBALANCED_OVERLAP": 1,
+      "MISMATCHING_OVERLAPS": 4,
+      "UNBALANCED_GUESS": 1
+    },
+    "ERROR_DETAILS": [
+      {
+        "rule": "OVERLAPS:MISSING_ANNOTATION",
+        "tu_id": 181,
+        "speaker": "BZ001",
+        "text": "ah sì?"
+      },
+      {
+        "rule": "OVERLAPS:MISSING_ANNOTATION",
+        "tu_id": 182,
+        "speaker": "BZ006",
+        "text": "mi piace proprio sentirla sì."
+      },
+      {
+        "rule": "UNBALANCED_OVERLAP",
+        "tu_id": 281,
+        "speaker": "BZ001",
+        "text": "mh=mh]."
+      },
+      {
+        "rule": "OVERLAPS:MISSING_ANNOTATION",
+        "tu_id": 281,
+        "speaker": "BZ001",
+        "text": "mh=mh]."
+      },
+      {
+        "rule": "OVERLAPS:MISSING_ANNOTATION",
+        "tu_id": 349,
+        "speaker": "BZ001",
+        "text": "okay ((ride))"
+      },
+      {
+        "rule": "OVERLAPS:MISSING_ANNOTATION",
+        "tu_id": 350,
+        "speaker": "BZ006",
+        "text": "però in argentina si usa."
+      },
+      {
+        "rule": "MISMATCHING_OVERLAPS",
+        "tu_id": 505,
+        "speaker": "BZ006",
+        "text": "il portoghese [sarebbe la mia, vorrei fosse, mi piace]rebbe fosse la mia sesta lingua sì."
+      },
+      {
+        "rule": "OVERLAPS:MISSING_ANNOTATION",
+        "tu_id": 507,
+        "speaker": "BZ001",
+        "text": "okay."
+      },
+      {
+        "rule": "OVERLAPS:MISSING_ANNOTATION",
+        "tu_id": 604,
+        "speaker": "BZ001",
+        "text": "mh=mh,"
+      },
+      {
+        "rule": "OVERLAPS:MISSING_ANNOTATION",
+        "tu_id": 605,
+        "speaker": "BZ006",
+        "text": "e lavorare piuttosto,"
+      },
+      {
+        "rule": "OVERLAPS:MISSING_ANNOTATION",
+        "tu_id": 619,
+        "speaker": "BZ001",
+        "text": "sono riuscito a capire anche ((ride))"
+      },
+      {
+        "rule": "MISMATCHING_OVERLAPS",
+        "tu_id": 620,
+        "speaker": "BZ006",
+        "text": "però appunto [capisci ho semplicemente] tradotto quello che dicevo prima"
+      },
+      {
+        "rule": "OVERLAPS:MISSING_ANNOTATION",
+        "tu_id": 678,
+        "speaker": "BZ001",
+        "text": "con le lingue in generale"
+      },
+      {
+        "rule": "MISMATCHING_OVERLAPS",
+        "tu_id": 679,
+        "speaker": "BZ006",
+        "text": "con le lingue in [generale], perché ho proprio cap- quelle cose che ti sto dicendo [adesso] non c'erano prima come [consapevolezza] so arrivate ora."
+      },
+      {
+        "rule": "MISMATCHING_OVERLAPS",
+        "tu_id": 696,
+        "speaker": "BZ001",
+        "text": "be' in questo [l'esperienza] in sudamerica invece,"
+      },
+      {
+        "rule": "OVERLAPS:MISSING_ANNOTATION",
+        "tu_id": 698,
+        "speaker": "BZ006",
+        "text": "è stata fondamentale ovviamente perché adesso non mi verrebbe mai per esempio di eh: insomma mettermi a studiare una lingua così senza la prospettiva di,"
+      },
+      {
+        "rule": "OVERLAPS:MISSING_ANNOTATION",
+        "tu_id": 998,
+        "speaker": "BZ001",
+        "text": "mh=mh"
+      },
+      {
+        "rule": "OVERLAPS:MISSING_ANNOTATION",
+        "tu_id": 999,
+        "speaker": "BZ006",
+        "text": "l'ambiente scolastico no?"
+      },
+      {
+        "rule": "UNBALANCED_GUESS",
+        "tu_id": 1101,
+        "speaker": "BZ001",
+        "text": "[va be'] insomma non c'è solo il raeggeton poveri (.) e: ([(ride))]"
+      },
+      {
+        "rule": "OVERLAPS:MISSING_ANNOTATION",
+        "tu_id": 1132,
+        "speaker": "BZ001",
+        "text": "okay."
+      },
+      {
+        "rule": "OVERLAPS:MISSING_ANNOTATION",
+        "tu_id": 1133,
+        "speaker": "BZ006",
+        "text": "mh=mh."
+      }
+    ],
+    "ERROR_TOKENS": [
+      {
+        "tu_id": 36,
+        "speaker": "BZ006",
+        "span": "]",
+        "form": "",
+        "context": "i miei studi sulle lin[gue. mi=] mi piaceva,"
+      },
+      {
+        "tu_id": 38,
+        "speaker": "BZ006",
+        "span": "<",
+        "form": "",
+        "context": "eh:: io studiavo allora, ho fatto >insomma (.) < dalle elementari il tedesco ovviamente, anzi dall'asilo, eh: l'inglese allora, (.) iniziava,"
+      }
+    ]
+  },
+  {
+    "transcript": "BZA5006",
+    "speakers": {
+      "BZ001": {
+        "TUs": 248,
+        "time": 310.5880000000001,
+        "tokens": 1016,
+        "tokens-ling": 979,
+        "tokens-unk": 4,
+        "tokens-anonym": 0,
+        "tokens-nvb": 15,
+        "tokens-pause": 14,
+        "tokens-err": 4,
+        "code-switching": 0
+      },
+      "BZ007": {
+        "TUs": 395,
+        "time": 1599.2870000000003,
+        "tokens": 4903,
+        "tokens-ling": 4802,
+        "tokens-unk": 4,
+        "tokens-anonym": 0,
+        "tokens-nvb": 31,
+        "tokens-pause": 41,
+        "tokens-err": 25,
+        "code-switching": 0
+      }
+    },
+    "TUs": 643,
+    "removed_TUs": 1,
+    "overlaps": 238,
+    "WARNINGS": {
+      "UNEVEN_SPACES": 39,
+      "SWITCHES": 265,
+      "MOVED_BOUNDARIES": 22,
+      "TRIM_PROSODICLINKS": 34,
+      "META_TAGS": 46,
+      "ACCENTS": 17,
+      "MISMATCHING_OVERLAPS": 34,
+      "MULTIPLE_SPACES": 35,
+      "SYMBOL_NOT_ALLOWED": 5,
+      "WORD_CORRECTIONS": 5
+    },
+    "ERRORS": {
+      "OVERLAPS:MISSING_ANNOTATION": 6,
+      "OVERLAPS:MISSING_TIME": 1,
+      "MISMATCHING_OVERLAPS": 1,
+      "UNBALANCED_PACE": 1,
+      "UNBALANCED_OVERLAP": 1,
+      "UNBALANCED_GUESS": 2
+    },
+    "ERROR_DETAILS": [
+      {
+        "rule": "OVERLAPS:MISSING_ANNOTATION",
+        "tu_id": 184,
+        "speaker": "BZ007",
+        "text": "bilingue."
+      },
+      {
+        "rule": "OVERLAPS:MISSING_ANNOTATION",
+        "tu_id": 185,
+        "speaker": "BZ001",
+        "text": "bilingue."
+      },
+      {
+        "rule": "OVERLAPS:MISSING_TIME",
+        "tu_id": 437,
+        "speaker": "BZ007",
+        "text": "eh lei ogni sera parlava con mia nonna. [(.)] quindi io stavo sempre lì un po' curios(o) a dire, mh"
+      },
+      {
+        "rule": "MISMATCHING_OVERLAPS",
+        "tu_id": 471,
+        "speaker": "BZ001",
+        "text": "sì in realtà è un tema vastissimo, [xxx un po' xx poi in realtà: sì sì]"
+      },
+      {
+        "rule": "OVERLAPS:MISSING_ANNOTATION",
+        "tu_id": 476,
+        "speaker": "BZ001",
+        "text": "eh la distinzione tra, dialetto e lingua appunto, è di tipo, (.) extralinguistico ecco."
+      },
+      {
+        "rule": "UNBALANCED_PACE",
+        "tu_id": 501,
+        "speaker": "BZ007",
+        "text": "no però appunto,. h lei proprio vedo che ha una grande facilità, <ma perché< (.) anche, diciamolo, la motivazione [no? l'int]eresse"
+      },
+      {
+        "rule": "OVERLAPS:MISSING_ANNOTATION",
+        "tu_id": 513,
+        "speaker": "BZ001",
+        "text": "certo."
+      },
+      {
+        "rule": "OVERLAPS:MISSING_ANNOTATION",
+        "tu_id": 514,
+        "speaker": "BZ007",
+        "text": "eh."
+      },
+      {
+        "rule": "UNBALANCED_OVERLAP",
+        "tu_id": 585,
+        "speaker": "BZ001",
+        "text": "[((ride))"
+      },
+      {
+        "rule": "OVERLAPS:MISSING_ANNOTATION",
+        "tu_id": 585,
+        "speaker": "BZ001",
+        "text": "[((ride))"
+      },
+      {
+        "rule": "UNBALANCED_GUESS",
+        "tu_id": 611,
+        "speaker": "BZ007",
+        "text": "com'è che si dice vomitare in tedesco? [de]vo dirgli, che ho, vomitato. [((ride_sottovoce))]))"
+      },
+      {
+        "rule": "UNBALANCED_GUESS",
+        "tu_id": 614,
+        "speaker": "BZ007",
+        "text": "terribile.. h che brutto momento. io penso di non essermi mai vergognata così, sicuramente) sto: arrossendo ancora al ricordo,"
+      }
+    ],
+    "ERROR_TOKENS": [
+      {
+        "tu_id": 3,
+        "speaker": "BZ007",
+        "span": "perfetto..",
+        "form": "perfetto..",
+        "context": "perfetto.. hh"
+      },
+      {
+        "tu_id": 42,
+        "speaker": "BZ007",
+        "span": "h.h",
+        "form": "h.h",
+        "context": "h.h però ripeto io ho un bellissimo rapporto col tedesco, mi piace molto come li- come lingua, l'ho studiato volentieri,"
+      },
+      {
+        "tu_id": 50,
+        "speaker": "BZ007",
+        "span": "questo..",
+        "form": "questo..",
+        "context": "ci hanno subito consigliato di andare a imparare una lingua che poi poteva esserci utile in alto adige no? per noi italiani il tedesco, e per i tedeschi l'italiano. quindi senza fare distinzioni in questo.. h"
+      },
+      {
+        "tu_id": 110,
+        "speaker": "BZ001",
+        "span": "[h.h]",
+        "form": "h.h",
+        "context": "[h.h]"
+      },
+      {
+        "tu_id": 136,
+        "speaker": "BZ007",
+        "span": "forse,.",
+        "form": "forse,.",
+        "context": "me lo [sentivo], però, son quelle cose che quasi vuoi un po' nascondere, (e) dire ma no no lasciamo stare che forse,. hh"
+      },
+      {
+        "tu_id": 148,
+        "speaker": "BZ007",
+        "span": "co[vid]..",
+        "form": "covid..",
+        "context": "delle funzioni neuropsicologiche, in pazienti, post terapia intensiva da co[vid].. h"
+      },
+      {
+        "tu_id": 153,
+        "speaker": "BZ007",
+        "span": "[(.)],",
+        "form": ".,",
+        "context": "esatto esatto. io [(.)], cerco sempre di mettere insieme le cose oppure, adesso, ho questa borsa di ricerca,"
+      },
+      {
+        "tu_id": 199,
+        "speaker": "BZ007",
+        "span": "film,.",
+        "form": "film,.",
+        "context": "tsk che eh mi arrivi la trama, che mi arrivino le emozioni del film,. h"
+      },
+      {
+        "tu_id": 223,
+        "speaker": "BZ007",
+        "span": "tks..",
+        "form": "tks..",
+        "context": "tks.. hh"
+      },
+      {
+        "tu_id": 228,
+        "speaker": "BZ007",
+        "span": ",",
+        "form": ",",
+        "context": ">a parte ch-< mh la: la docente di ((nome_città_scozzese)) , erano tutti: eh: >diciamo< era un inglese comune."
+      },
+      {
+        "tu_id": 274,
+        "speaker": "BZ007",
+        "span": "h.h",
+        "form": "h.h",
+        "context": "h.h benissimo. allora dico, eh allora ho vinto. ((ride)) [((ride)) giu]sto?"
+      },
+      {
+        "tu_id": 331,
+        "speaker": "BZ007",
+        "span": "dicom,a",
+        "form": "dicom,a",
+        "context": "alcune sì. tipo ikia casa, e dicom,a dai lo sapevo che ikia vuol dire ca- e adesso me lo ricordo ancora, [c'ho giocato] mesi e mesi fa."
+      },
+      {
+        "tu_id": 361,
+        "speaker": "BZ007",
+        "span": "qui,.",
+        "form": "qui,.",
+        "context": "[mi] piace sentirle anche nelle altre lingue, vedere un attimo e dire, ma qui,. h come l'hanno:: ah: okay però qui l'hanno tradotta diversa, ah non c'entra nulla no?"
+      },
+      {
+        "tu_id": 386,
+        "speaker": "BZ007",
+        "span": "costre[tta..",
+        "form": "costretta..",
+        "context": "[che vergogna. (.) mai cioè:] solo se ero costre[tta.. h]"
+      },
+      {
+        "tu_id": 424,
+        "speaker": "BZ007",
+        "span": "diale[tto..",
+        "form": "dialetto..",
+        "context": "adesso non più tanto. però quando: c'era ancora mia nonna, loro al telefono parlavano in diale[tto.. h]"
+      },
+      {
+        "tu_id": 465,
+        "speaker": "BZ001",
+        "span": "lingui[stico],,",
+        "form": "linguistico,,",
+        "context": "non perché è in nessun modo migliore o diver[sa, ma è] (sempre) un sistema lingui[stico],,"
+      },
+      {
+        "tu_id": 480,
+        "speaker": "BZ007",
+        "span": "interessante..",
+        "form": "interessante..",
+        "context": "eh questo è interessante.. h e quindi sì (.) da lei sentivo questo eh:"
+      },
+      {
+        "tu_id": 490,
+        "speaker": "BZ001",
+        "span": "[h.h]",
+        "form": "h.h",
+        "context": "[h.h] ((ride))"
+      },
+      {
+        "tu_id": 497,
+        "speaker": "BZ007",
+        "span": "ess]ere,.",
+        "form": "essere,.",
+        "context": "cioè non lo so, io non è che sono sempre lì con le antenn[e, per ess]ere,. h impeccabile pure nelle mura domestiche ((ridendo)) cioè posso canticchiar[e::]"
+      },
+      {
+        "tu_id": 501,
+        "speaker": "BZ007",
+        "span": "appunto,.",
+        "form": "appunto,.",
+        "context": "no però appunto,. h lei proprio vedo che ha una grande facilità, <ma perché< (.) anche, diciamolo, la motivazione [no? l'int]eresse"
+      },
+      {
+        "tu_id": 540,
+        "speaker": "BZ007",
+        "span": "bene,.",
+        "form": "bene,.",
+        "context": "lo capisco abbastanza bene,. h e poi succede che io prenda alcune cose [del dialetto]."
+      },
+      {
+        "tu_id": 547,
+        "speaker": "BZ007",
+        "span": "h.h",
+        "form": "h.h",
+        "context": "h.h >cioè< non, oddio no è che non mi va, mi è indifferente. [sincera]mente.. h però mi ha- mi è successo sì di prendere alcune:: al- non cadenze però,"
+      },
+      {
+        "tu_id": 547,
+        "speaker": "BZ007",
+        "span": "[sincera]mente..",
+        "form": "sinceramente..",
+        "context": "h.h >cioè< non, oddio no è che non mi va, mi è indifferente. [sincera]mente.. h però mi ha- mi è successo sì di prendere alcune:: al- non cadenze però,"
+      },
+      {
+        "tu_id": 565,
+        "speaker": "BZ007",
+        "span": "a]dige<,.",
+        "form": "adige,.",
+        "context": "[h. e] guarda, ho visto che è incredibile. basta un nulla, e subito lo:=[lo:], ma secondo me è perché lo sentiamo no? [>qui in alto a]dige<,. h e quindi,"
+      },
+      {
+        "tu_id": 584,
+        "speaker": "BZ007",
+        "span": "dire]..",
+        "form": "dire..",
+        "context": "sì: [si può anche dire].. h"
+      },
+      {
+        "tu_id": 591,
+        "speaker": "BZ007",
+        "span": "lavoravo,.",
+        "form": "lavoravo,.",
+        "context": "e: l'avevo conosciuto da poco, dove lavoravo,. h"
+      },
+      {
+        "tu_id": 610,
+        "speaker": "BZ007",
+        "span": "no?.",
+        "form": "no?.",
+        "context": "divertente no?. h terribile. ((ridendo)) e io, io ero lì che dicevo,"
+      },
+      {
+        "tu_id": 614,
+        "speaker": "BZ007",
+        "span": "terribile..",
+        "form": "terribile..",
+        "context": "terribile.. h che brutto momento. io penso di non essermi mai vergognata così, sicuramente) sto: arrossendo ancora al ricordo,"
+      },
+      {
+        "tu_id": 633,
+        "speaker": "BZ001",
+        "span": "[(praticamente.)].",
+        "form": "praticamente..",
+        "context": "[e poi (siete diventati,)] quindi, a lieto fine [(praticamente.)]."
+      }
+    ]
+  },
+  {
+    "transcript": "BZA5007",
+    "speakers": {
+      "BZ010": {
+        "TUs": 182,
+        "time": 439.929,
+        "tokens": 1281,
+        "tokens-ling": 1242,
+        "tokens-unk": 4,
+        "tokens-anonym": 0,
+        "tokens-nvb": 11,
+        "tokens-pause": 24,
+        "tokens-err": 0,
+        "code-switching": 0
+      },
+      "BZ008": {
+        "TUs": 285,
+        "time": 614.5530000000003,
+        "tokens": 1933,
+        "tokens-ling": 1882,
+        "tokens-unk": 3,
+        "tokens-anonym": 0,
+        "tokens-nvb": 5,
+        "tokens-pause": 43,
+        "tokens-err": 0,
+        "code-switching": 0
+      }
+    },
+    "TUs": 467,
+    "removed_TUs": 0,
+    "overlaps": 122,
+    "WARNINGS": {
+      "SWITCHES": 121,
+      "TRIM_PROSODICLINKS": 40,
+      "MISMATCHING_OVERLAPS": 24,
+      "META_TAGS": 16,
+      "MOVED_BOUNDARIES": 26,
+      "MULTIPLE_SPACES": 1,
+      "WORD_CORRECTIONS": 1
+    },
+    "ERRORS": {
+      "MISMATCHING_OVERLAPS": 2,
+      "OVERLAPS:MISSING_ANNOTATION": 10,
+      "UNBALANCED_GUESS": 1
+    },
+    "ERROR_DETAILS": [
+      {
+        "rule": "MISMATCHING_OVERLAPS",
+        "tu_id": 46,
+        "speaker": "BZ010",
+        "text": "ehm e quindi poi hai fatto tutte le: le scuole in tedesco mi hai detto [cioè dal]l'asilo al: alle superiori,"
+      },
+      {
+        "rule": "OVERLAPS:MISSING_ANNOTATION",
+        "tu_id": 48,
+        "speaker": "BZ008",
+        "text": "sì tutto in tedesco."
+      },
+      {
+        "rule": "MISMATCHING_OVERLAPS",
+        "tu_id": 138,
+        "speaker": "BZ010",
+        "text": "[ma sai] che non avrei mai detto questa cosa?"
+      },
+      {
+        "rule": "OVERLAPS:MISSING_ANNOTATION",
+        "tu_id": 139,
+        "speaker": "BZ008",
+        "text": "no s- e infatti è strano, eh:"
+      },
+      {
+        "rule": "OVERLAPS:MISSING_ANNOTATION",
+        "tu_id": 176,
+        "speaker": "BZ008",
+        "text": "per dire."
+      },
+      {
+        "rule": "OVERLAPS:MISSING_ANNOTATION",
+        "tu_id": 177,
+        "speaker": "BZ010",
+        "text": "chiaro."
+      },
+      {
+        "rule": "UNBALANCED_GUESS",
+        "tu_id": 278,
+        "speaker": "BZ010",
+        "text": "([(ride))]"
+      },
+      {
+        "rule": "OVERLAPS:MISSING_ANNOTATION",
+        "tu_id": 329,
+        "speaker": "BZ010",
+        "text": "okay,"
+      },
+      {
+        "rule": "OVERLAPS:MISSING_ANNOTATION",
+        "tu_id": 330,
+        "speaker": "BZ008",
+        "text": "mh=mh, (.) quasi più,"
+      },
+      {
+        "rule": "OVERLAPS:MISSING_ANNOTATION",
+        "tu_id": 368,
+        "speaker": "BZ010",
+        "text": "sì?"
+      },
+      {
+        "rule": "OVERLAPS:MISSING_ANNOTATION",
+        "tu_id": 369,
+        "speaker": "BZ008",
+        "text": "ci servirebbe. sì secondo me sì."
+      },
+      {
+        "rule": "OVERLAPS:MISSING_ANNOTATION",
+        "tu_id": 379,
+        "speaker": "BZ010",
+        "text": "vero? cioè miste nel senso linguisticamente"
+      },
+      {
+        "rule": "OVERLAPS:MISSING_ANNOTATION",
+        "tu_id": 380,
+        "speaker": "BZ008",
+        "text": "linguisticamente no, c'è,"
+      }
+    ],
+    "ERROR_TOKENS": []
+  },
+  {
+    "transcript": "BZA5008",
+    "speakers": {
+      "BZ001": {
+        "TUs": 149,
+        "time": 297.85400000000016,
+        "tokens": 954,
+        "tokens-ling": 919,
+        "tokens-unk": 0,
+        "tokens-anonym": 0,
+        "tokens-nvb": 13,
+        "tokens-pause": 20,
+        "tokens-err": 2,
+        "code-switching": 0
+      },
+      "BZ009": {
+        "TUs": 267,
+        "time": 1085.1360000000002,
+        "tokens": 2891,
+        "tokens-ling": 2815,
+        "tokens-unk": 2,
+        "tokens-anonym": 0,
+        "tokens-nvb": 3,
+        "tokens-pause": 69,
+        "tokens-err": 2,
+        "code-switching": 0
+      }
+    },
+    "TUs": 416,
+    "removed_TUs": 0,
+    "overlaps": 81,
+    "WARNINGS": {
+      "SWITCHES": 107,
+      "UNEVEN_SPACES": 4,
+      "TRIM_PROSODICLINKS": 68,
+      "MOVED_BOUNDARIES": 44,
+      "META_TAGS": 16,
+      "MULTIPLE_SPACES": 1,
+      "MISMATCHING_OVERLAPS": 14
+    },
+    "ERRORS": {
+      "MISMATCHING_OVERLAPS": 5,
+      "OVERLAPS:MISSING_ANNOTATION": 23
+    },
+    "ERROR_DETAILS": [
+      {
+        "rule": "MISMATCHING_OVERLAPS",
+        "tu_id": 71,
+        "speaker": "BZ001",
+        "text": "questa cosa è successa anche con altre lingue magari musica tedesca, [francese], o prevalentemente inglese?"
+      },
+      {
+        "rule": "OVERLAPS:MISSING_ANNOTATION",
+        "tu_id": 73,
+        "speaker": "BZ009",
+        "text": "solo con la musica inglese."
+      },
+      {
+        "rule": "OVERLAPS:MISSING_ANNOTATION",
+        "tu_id": 74,
+        "speaker": "BZ001",
+        "text": "mh=mh, okay."
+      },
+      {
+        "rule": "MISMATCHING_OVERLAPS",
+        "tu_id": 103,
+        "speaker": "BZ009",
+        "text": "[in inghilterra], l'ho avvertita."
+      },
+      {
+        "rule": "OVERLAPS:MISSING_ANNOTATION",
+        "tu_id": 104,
+        "speaker": "BZ001",
+        "text": "okay."
+      },
+      {
+        "rule": "OVERLAPS:MISSING_ANNOTATION",
+        "tu_id": 106,
+        "speaker": "BZ001",
+        "text": "però ti piace, provare"
+      },
+      {
+        "rule": "MISMATCHING_OVERLAPS",
+        "tu_id": 107,
+        "speaker": "BZ009",
+        "text": "mi piace provare lo stes[so sì=sì]."
+      },
+      {
+        "rule": "OVERLAPS:MISSING_ANNOTATION",
+        "tu_id": 163,
+        "speaker": "BZ009",
+        "text": "<tendo nei contesti> eh: soprattutto ufficiali a evitare di parlare dialetto."
+      },
+      {
+        "rule": "OVERLAPS:MISSING_ANNOTATION",
+        "tu_id": 164,
+        "speaker": "BZ001",
+        "text": "mh."
+      },
+      {
+        "rule": "OVERLAPS:MISSING_ANNOTATION",
+        "tu_id": 192,
+        "speaker": "BZ009",
+        "text": "nonostante capisca i sottotitoli mi infastidiscono."
+      },
+      {
+        "rule": "OVERLAPS:MISSING_ANNOTATION",
+        "tu_id": 193,
+        "speaker": "BZ001",
+        "text": "mh=mh,"
+      },
+      {
+        "rule": "OVERLAPS:MISSING_ANNOTATION",
+        "tu_id": 256,
+        "speaker": "BZ001",
+        "text": "in questi contesti quindi la comunicazione com'era? era un po' in una lingua un po' nell'altra?"
+      },
+      {
+        "rule": "OVERLAPS:MISSING_ANNOTATION",
+        "tu_id": 257,
+        "speaker": "BZ009",
+        "text": "mistilingue,"
+      },
+      {
+        "rule": "OVERLAPS:MISSING_ANNOTATION",
+        "tu_id": 258,
+        "speaker": "BZ001",
+        "text": "misti- okay."
+      },
+      {
+        "rule": "OVERLAPS:MISSING_ANNOTATION",
+        "tu_id": 300,
+        "speaker": "BZ009",
+        "text": "eh:: poi a parigi ripeto mi sono lanciato in alcune,"
+      },
+      {
+        "rule": "OVERLAPS:MISSING_ANNOTATION",
+        "tu_id": 301,
+        "speaker": "BZ001",
+        "text": "h."
+      },
+      {
+        "rule": "OVERLAPS:MISSING_ANNOTATION",
+        "tu_id": 322,
+        "speaker": "BZ009",
+        "text": "eh:: non ho mai approcciato con lingue con le lingue orientali."
+      },
+      {
+        "rule": "OVERLAPS:MISSING_ANNOTATION",
+        "tu_id": 323,
+        "speaker": "BZ001",
+        "text": "okay. e sei stato invece in asia? in viaggio?"
+      },
+      {
+        "rule": "OVERLAPS:MISSING_ANNOTATION",
+        "tu_id": 330,
+        "speaker": "BZ001",
+        "text": "e quindi, ((ride))"
+      },
+      {
+        "rule": "OVERLAPS:MISSING_ANNOTATION",
+        "tu_id": 331,
+        "speaker": "BZ009",
+        "text": "e quindi eh: l'indonesia rimane:,"
+      },
+      {
+        "rule": "OVERLAPS:MISSING_ANNOTATION",
+        "tu_id": 339,
+        "speaker": "BZ009",
+        "text": "persona, faccia a faccia sia"
+      },
+      {
+        "rule": "OVERLAPS:MISSING_ANNOTATION",
+        "tu_id": 340,
+        "speaker": "BZ001",
+        "text": "mh=mh,"
+      },
+      {
+        "rule": "MISMATCHING_OVERLAPS",
+        "tu_id": 343,
+        "speaker": "BZ001",
+        "text": "c'è qualche aneddoto legato alle lingue anche divertente così qualcosa qualche per esempio qualche fraintendimento [qualche aned]doto che [ti è capi]tato,"
+      },
+      {
+        "rule": "MISMATCHING_OVERLAPS",
+        "tu_id": 346,
+        "speaker": "BZ009",
+        "text": "uno ci stavo pensando proprio [adesso],"
+      },
+      {
+        "rule": "OVERLAPS:MISSING_ANNOTATION",
+        "tu_id": 374,
+        "speaker": "BZ001",
+        "text": "((ride)) tutto bene,"
+      },
+      {
+        "rule": "OVERLAPS:MISSING_ANNOTATION",
+        "tu_id": 375,
+        "speaker": "BZ009",
+        "text": "abbastanza liscio."
+      },
+      {
+        "rule": "OVERLAPS:MISSING_ANNOTATION",
+        "tu_id": 391,
+        "speaker": "BZ009",
+        "text": "aiuterebbe,"
+      },
+      {
+        "rule": "OVERLAPS:MISSING_ANNOTATION",
+        "tu_id": 392,
+        "speaker": "BZ001",
+        "text": "mh,"
+      }
+    ],
+    "ERROR_TOKENS": [
+      {
+        "tu_id": 4,
+        "speaker": "BZ009",
+        "span": "aziende,.",
+        "form": "aziende,.",
+        "context": "diverse aziende,. h"
+      },
+      {
+        "tu_id": 92,
+        "speaker": "BZ001",
+        "span": "[t.sk",
+        "form": "t.sk",
+        "context": "[t.sk okay]."
+      },
+      {
+        "tu_id": 134,
+        "speaker": "BZ001",
+        "span": "mh,.",
+        "form": "mh,.",
+        "context": "mh=mh,. tsk"
+      },
+      {
+        "tu_id": 372,
+        "speaker": "BZ009",
+        "span": "[t.sk",
+        "form": "t.sk",
+        "context": "[t.sk sì già eravamo] in una situazione non comodissima: e in più:, (.) quello è stato: quello è stato uno e,"
+      }
+    ]
+  }
+]

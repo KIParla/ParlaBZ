@@ -1,0 +1,193 @@
+{
+  "transcript": "BZA5005",
+  "speakers": {
+    "BZ001": {
+      "TUs": 312,
+      "time": 278.20599999999985,
+      "tokens": 936,
+      "tokens-ling": 864,
+      "tokens-unk": 6,
+      "tokens-anonym": 0,
+      "tokens-nvb": 43,
+      "tokens-pause": 23,
+      "tokens-err": 0,
+      "code-switching": 0
+    },
+    "BZ006": {
+      "TUs": 828,
+      "time": 2361.950999999996,
+      "tokens": 8116,
+      "tokens-ling": 7925,
+      "tokens-unk": 3,
+      "tokens-anonym": 2,
+      "tokens-nvb": 31,
+      "tokens-pause": 153,
+      "tokens-err": 2,
+      "code-switching": 0
+    }
+  },
+  "TUs": 1140,
+  "removed_TUs": 0,
+  "overlaps": 236,
+  "WARNINGS": {
+    "META_TAGS": 74,
+    "SWITCHES": 237,
+    "TRIM_PROSODICLINKS": 61,
+    "MOVED_BOUNDARIES": 66,
+    "UNEVEN_SPACES": 4,
+    "WORD_CORRECTIONS": 4,
+    "MISMATCHING_OVERLAPS": 31,
+    "MULTIPLE_SPACES": 2,
+    "TRIM_PAUSES": 1
+  },
+  "ERRORS": {
+    "OVERLAPS:MISSING_ANNOTATION": 15,
+    "UNBALANCED_OVERLAP": 1,
+    "MISMATCHING_OVERLAPS": 4,
+    "UNBALANCED_GUESS": 1
+  },
+  "ERROR_DETAILS": [
+    {
+      "rule": "OVERLAPS:MISSING_ANNOTATION",
+      "tu_id": 181,
+      "speaker": "BZ001",
+      "text": "ah sì?"
+    },
+    {
+      "rule": "OVERLAPS:MISSING_ANNOTATION",
+      "tu_id": 182,
+      "speaker": "BZ006",
+      "text": "mi piace proprio sentirla sì."
+    },
+    {
+      "rule": "UNBALANCED_OVERLAP",
+      "tu_id": 281,
+      "speaker": "BZ001",
+      "text": "mh=mh]."
+    },
+    {
+      "rule": "OVERLAPS:MISSING_ANNOTATION",
+      "tu_id": 281,
+      "speaker": "BZ001",
+      "text": "mh=mh]."
+    },
+    {
+      "rule": "OVERLAPS:MISSING_ANNOTATION",
+      "tu_id": 349,
+      "speaker": "BZ001",
+      "text": "okay ((ride))"
+    },
+    {
+      "rule": "OVERLAPS:MISSING_ANNOTATION",
+      "tu_id": 350,
+      "speaker": "BZ006",
+      "text": "però in argentina si usa."
+    },
+    {
+      "rule": "MISMATCHING_OVERLAPS",
+      "tu_id": 505,
+      "speaker": "BZ006",
+      "text": "il portoghese [sarebbe la mia, vorrei fosse, mi piace]rebbe fosse la mia sesta lingua sì."
+    },
+    {
+      "rule": "OVERLAPS:MISSING_ANNOTATION",
+      "tu_id": 507,
+      "speaker": "BZ001",
+      "text": "okay."
+    },
+    {
+      "rule": "OVERLAPS:MISSING_ANNOTATION",
+      "tu_id": 604,
+      "speaker": "BZ001",
+      "text": "mh=mh,"
+    },
+    {
+      "rule": "OVERLAPS:MISSING_ANNOTATION",
+      "tu_id": 605,
+      "speaker": "BZ006",
+      "text": "e lavorare piuttosto,"
+    },
+    {
+      "rule": "OVERLAPS:MISSING_ANNOTATION",
+      "tu_id": 619,
+      "speaker": "BZ001",
+      "text": "sono riuscito a capire anche ((ride))"
+    },
+    {
+      "rule": "MISMATCHING_OVERLAPS",
+      "tu_id": 620,
+      "speaker": "BZ006",
+      "text": "però appunto [capisci ho semplicemente] tradotto quello che dicevo prima"
+    },
+    {
+      "rule": "OVERLAPS:MISSING_ANNOTATION",
+      "tu_id": 678,
+      "speaker": "BZ001",
+      "text": "con le lingue in generale"
+    },
+    {
+      "rule": "MISMATCHING_OVERLAPS",
+      "tu_id": 679,
+      "speaker": "BZ006",
+      "text": "con le lingue in [generale], perché ho proprio cap- quelle cose che ti sto dicendo [adesso] non c'erano prima come [consapevolezza] so arrivate ora."
+    },
+    {
+      "rule": "MISMATCHING_OVERLAPS",
+      "tu_id": 696,
+      "speaker": "BZ001",
+      "text": "be' in questo [l'esperienza] in sudamerica invece,"
+    },
+    {
+      "rule": "OVERLAPS:MISSING_ANNOTATION",
+      "tu_id": 698,
+      "speaker": "BZ006",
+      "text": "è stata fondamentale ovviamente perché adesso non mi verrebbe mai per esempio di eh: insomma mettermi a studiare una lingua così senza la prospettiva di,"
+    },
+    {
+      "rule": "OVERLAPS:MISSING_ANNOTATION",
+      "tu_id": 998,
+      "speaker": "BZ001",
+      "text": "mh=mh"
+    },
+    {
+      "rule": "OVERLAPS:MISSING_ANNOTATION",
+      "tu_id": 999,
+      "speaker": "BZ006",
+      "text": "l'ambiente scolastico no?"
+    },
+    {
+      "rule": "UNBALANCED_GUESS",
+      "tu_id": 1101,
+      "speaker": "BZ001",
+      "text": "[va be'] insomma non c'è solo il raeggeton poveri (.) e: ([(ride))]"
+    },
+    {
+      "rule": "OVERLAPS:MISSING_ANNOTATION",
+      "tu_id": 1132,
+      "speaker": "BZ001",
+      "text": "okay."
+    },
+    {
+      "rule": "OVERLAPS:MISSING_ANNOTATION",
+      "tu_id": 1133,
+      "speaker": "BZ006",
+      "text": "mh=mh."
+    }
+  ],
+  "ERROR_TOKENS": [
+    {
+      "tu_id": 36,
+      "speaker": "BZ006",
+      "span": "]",
+      "form": "",
+      "context": "i miei studi sulle lin[gue. mi=] mi piaceva,"
+    },
+    {
+      "tu_id": 38,
+      "speaker": "BZ006",
+      "span": "<",
+      "form": "",
+      "context": "eh:: io studiavo allora, ho fatto >insomma (.) < dalle elementari il tedesco ovviamente, anzi dall'asilo, eh: l'inglese allora, (.) iniziava,"
+    }
+  ]
+}
