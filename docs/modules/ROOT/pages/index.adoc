@@ -3,4 +3,6 @@
 The ParlaBZ corpus is part of the larger https://www.kiparla.it[KIParla collection],
 which can be freely queried through the https://kiparla.it/search/[NoSketch Engine interface].
 
+The ParlaBZ data are part of the project _Interazioni simmetriche e asimmetriche: un corpus di italiano parlato in Alto Adige_ (PI: D. Veronesi), carried out at the Faculty of Education of the Free University of Bozen-Bolzano and funded by personal research funds.
+
 It consists of about 5 hours of spoken data in 10 recordings made between 2020 and 2022: 8 semi-structured interviews and 2 free conversations (mealtime). Most of the 15 speakers come from South Tyrol (Alto Adige).

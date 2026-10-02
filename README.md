@@ -21,6 +21,8 @@
 ParlaBZ is part of the larger [KIParla collection](https://www.kiparla.it),
 which can be freely queried through the [NoSketch Engine interface](https://kiparla.it/search/).
 
+The ParlaBZ data are part of the project “Interazioni simmetriche e asimmetriche: un corpus di italiano parlato in Alto Adige” (PI: D. Veronesi), carried out at the Faculty of Education of the Free University of Bozen-Bolzano and funded by personal research funds.
+
 It consists of about 5 hours of spoken data in 10 recordings made between 2020 and 2022: 8 semi-structured interviews and 2 free conversations (mealtime). Most of the 15 speakers come from South Tyrol (Alto Adige).
 
 The transcriptions have been anonymized.
@@ -143,12 +145,20 @@ Due to GDPR restrictions, pseudo-anonymized audio files (MP3) are available unde
 
 ## How to cite
 
-To cite this module please include:
+To cite this module please include
 
-> CITATION
+> Veronesi, D., & Piovan, A. (2026). Il modulo ParlaBZ all’interno del corpus KIParla: una collezione di italiano parlato conversazionale in Alto Adige-Südtirol. https://doi.org/10.5281/zenodo.20670120
+
+in your references
 
 ```bibtex
-@BIBTEX_ENTRY
+@misc{Veronesi_Modulo_ParlaBZ_2026,
+	author = {Veronesi, Daniela and Piovan, Alex},
+	doi = {10.5281/zenodo.20670120},
+	title = {{Il modulo ParlaBZ all’interno del corpus KIParla: una collezione di italiano parlato conversazionale in Alto Adige-Südtirol}},
+	url = {https://github.com/KIParla/ParlaBZ},
+	year = {2026}
+}
 ```
 
 If you use the ParlaBZ module in your research, please also reference this repository (commit/tag) in your data statement or appendix.
