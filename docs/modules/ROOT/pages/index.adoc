@@ -1,3 +1,6 @@
-= MODULE_NAME
+= ParlaBZ
 
-Hello from MODULE_NAME.
+The ParlaBZ corpus is part of the larger https://www.kiparla.it[KIParla collection],
+which can be freely queried through the https://kiparla.it/search/[NoSketch Engine interface].
+
+It consists of about 5 hours of spoken data in 10 recordings made between 2020 and 2022: 8 semi-structured interviews and 2 free conversations (mealtime). Most of the 15 speakers come from South Tyrol (Alto Adige).

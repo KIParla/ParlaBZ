@@ -1,4 +1,4 @@
-# MODULE_NAME
+# ParlaBZ
 
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
@@ -10,7 +10,7 @@
 > `.github/workflows/`, and add the `DOCS_SITE_TOKEN` secret to this repo
 > (Settings → Secrets and variables → Actions) — see the copied file's header comment.
 
-- [MODULE_NAME](#module_name)
+- [ParlaBZ](#parlabz)
 	- [Repository organization](#repository-organization)
 	- [Metadata](#metadata)
 	- [Verticalized content](#verticalized-content)
@@ -18,10 +18,14 @@
 	- [How to cite](#how-to-cite)
 	- [Changelog](#changelog)
 
-MODULE_NAME is part of the larger [KIParla collection](https://www.kiparla.it),
+ParlaBZ is part of the larger [KIParla collection](https://www.kiparla.it),
 which can be freely queried through the [NoSketch Engine interface](https://kiparla.it/search/).
 
-MODULE_DESCRIPTION
+It consists of about 5 hours of spoken data in 10 recordings made between 2020 and 2022: 8 semi-structured interviews and 2 free conversations (mealtime). Most of the 15 speakers come from South Tyrol (Alto Adige).
+
+The transcriptions have been anonymized.
+
+Overall, the module is made up of 10 conversations and includes 15 speakers.
 
 ## Repository organization
 
@@ -147,7 +151,7 @@ To cite this module please include:
 @BIBTEX_ENTRY
 ```
 
-If you use the MODULE_NAME module in your research, please also reference this repository (commit/tag) in your data statement or appendix.
+If you use the ParlaBZ module in your research, please also reference this repository (commit/tag) in your data statement or appendix.
 
 ## Changelog
 
