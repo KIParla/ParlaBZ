@@ -4,3 +4,6 @@
 .DS*
 *.zip
 original/
+.DS_Store
+.vscode/
+*.xlsx
