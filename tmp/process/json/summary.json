@@ -393,7 +393,14 @@
         "form": "be':",
         "context": "[eh va be':]"
       }
-    ]
+    ],
+    "AUDIO_CHECK": {
+      "status": "ok",
+      "source": "metadata",
+      "audio_seconds": 2751.0,
+      "last_annotation_seconds": 2746.681,
+      "difference_seconds": 4.319
+    }
   },
   {
     "transcript": "BZA4001",
@@ -662,7 +669,14 @@
         "form": "l'-",
         "context": "in d- eh eh sotto il lavandino lì sei dove ci sono i bidoncini, se te l'-"
       }
-    ]
+    ],
+    "AUDIO_CHECK": {
+      "status": "ok",
+      "source": "metadata",
+      "audio_seconds": 1748.0,
+      "last_annotation_seconds": 1748.767,
+      "difference_seconds": -0.767
+    }
   },
   {
     "transcript": "BZA5001",
@@ -749,7 +763,14 @@
         "form": "elle1",
         "context": "spesso c'erano: (.) mh questi caffè linguistici però (.) a due sempre no? [quindi una perso]na di una elle uno una persona >di un'altra elle1< che si incontra[vano per per parlare]."
       }
-    ]
+    ],
+    "AUDIO_CHECK": {
+      "status": "ok",
+      "source": "metadata",
+      "audio_seconds": 1308.0,
+      "last_annotation_seconds": 1308.656,
+      "difference_seconds": -0.656
+    }
   },
   {
     "transcript": "BZA5002",
@@ -801,7 +822,14 @@
         "form": ".",
         "context": "eh:m che è completamente diverso anche dalla dall'irlandese diciamo inglese. (.) . h ((ridendo))"
       }
-    ]
+    ],
+    "AUDIO_CHECK": {
+      "status": "ok",
+      "source": "metadata",
+      "audio_seconds": 1811.0,
+      "last_annotation_seconds": 1808.136,
+      "difference_seconds": 2.864
+    }
   },
   {
     "transcript": "BZA5003",
@@ -847,7 +875,14 @@
     },
     "ERRORS": {},
     "ERROR_DETAILS": [],
-    "ERROR_TOKENS": []
+    "ERROR_TOKENS": [],
+    "AUDIO_CHECK": {
+      "status": "ok",
+      "source": "metadata",
+      "audio_seconds": 1586.0,
+      "last_annotation_seconds": 1582.687,
+      "difference_seconds": 3.313
+    }
   },
   {
     "transcript": "BZA5004",
@@ -989,7 +1024,14 @@
         "form": "ortografiche,.",
         "context": "delle regole ortografiche,. h (.) eh: ai miei genitori per scrivere in rumeno, loro non le sanno."
       }
-    ]
+    ],
+    "AUDIO_CHECK": {
+      "status": "ok",
+      "source": "metadata",
+      "audio_seconds": 2270.0,
+      "last_annotation_seconds": 2269.89,
+      "difference_seconds": 0.11
+    }
   },
   {
     "transcript": "BZA5005",
@@ -1182,7 +1224,14 @@
         "form": "",
         "context": "eh:: io studiavo allora, ho fatto >insomma (.) < dalle elementari il tedesco ovviamente, anzi dall'asilo, eh: l'inglese allora, (.) iniziava,"
       }
-    ]
+    ],
+    "AUDIO_CHECK": {
+      "status": "ok",
+      "source": "metadata",
+      "audio_seconds": 2951.0,
+      "last_annotation_seconds": 2951.913,
+      "difference_seconds": -0.913
+    }
   },
   {
     "transcript": "BZA5006",
@@ -1513,7 +1562,14 @@
         "form": "praticamente..",
         "context": "[e poi (siete diventati,)] quindi, a lieto fine [(praticamente.)]."
       }
-    ]
+    ],
+    "AUDIO_CHECK": {
+      "status": "ok",
+      "source": "metadata",
+      "audio_seconds": 1875.0,
+      "last_annotation_seconds": 1875.672,
+      "difference_seconds": -0.672
+    }
   },
   {
     "transcript": "BZA5007",
@@ -1640,7 +1696,14 @@
         "text": "linguisticamente no, c'è,"
       }
     ],
-    "ERROR_TOKENS": []
+    "ERROR_TOKENS": [],
+    "AUDIO_CHECK": {
+      "status": "ok",
+      "source": "metadata",
+      "audio_seconds": 1165.0,
+      "last_annotation_seconds": 1164.735,
+      "difference_seconds": 0.265
+    }
   },
   {
     "transcript": "BZA5008",
@@ -1885,6 +1948,13 @@
         "form": "t.sk",
         "context": "[t.sk sì già eravamo] in una situazione non comodissima: e in più:, (.) quello è stato: quello è stato uno e,"
       }
-    ]
+    ],
+    "AUDIO_CHECK": {
+      "status": "ok",
+      "source": "metadata",
+      "audio_seconds": 1460.0,
+      "last_annotation_seconds": 1460.842,
+      "difference_seconds": -0.842
+    }
   }
 ]
