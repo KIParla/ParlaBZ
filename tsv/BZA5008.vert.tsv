@@ -1,4 +1,4 @@
-token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
+token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	code-variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
 0-0	BZ001	0	0	>e	e	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=8.678	_	Fast=0-1(0)	_	_
 0-1	BZ001	0	1	anche	anche	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	Fast=0-5(0)	_	_
 0-2	BZ001	0	2	qui<,	qui	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=WeaklyRising	_	_	Fast=0-3(0)	_	_
