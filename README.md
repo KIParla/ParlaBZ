@@ -61,9 +61,6 @@ Metadata is to be interpreted as follows:
    - `duration`: duration of the conversation, expressed in `hh:mm:ss` format
    - `participants-number`: number of participants in the conversation
    - `languages`: languages spoken in the conversation, can be either `italian` or `dialect`, or both.
-   - `participants-relationship`: relation between participants
-   - `moderator`: presence of a moderator
-   - `topic`: topic of the conversation, if applicable
    - `year`: year of collection
    - `collection-point`: two-letter code of the collection area
    - `collection-region`: italian region where the collection point is located
@@ -162,6 +159,7 @@ If you use the ParlaBZ module in your research, please also reference this repos
 ## Changelog
 
 * YYYY-MM-DD vX.Y.Z
+  * Breaking: the `topic`, `participants-relationship` and `moderator` columns were removed from `metadata/conversations.tsv`
   * First release
 
 -----
