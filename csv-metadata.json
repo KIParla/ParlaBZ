@@ -167,7 +167,7 @@
             "name": "span",
             "titles": "span",
             "required": true,
-            "dc:description": "Raw Jefferson span (character slice of the original annotation)."
+            "dc:description": "Raw enriched span (character slice of the original annotation)."
           },
           {
             "name": "form",
