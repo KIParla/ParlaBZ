@@ -1,4 +1,4 @@
-token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	code-variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
+token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	code_variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
 0-0	BZ010	0	0	okay	okay	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=0.01	_	_	_	_
 0-1	BZ010	0	1	quindi	quindi	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 0-2	BZ010	0	2	martino	martino	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -2293,8 +2293,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 353-5	BZ010	353	5	chia]ma	chiama	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-4(83)
 353-6	BZ010	353	6	l'	l'	_	_	_	_	_	linguistic	_	ContainsVariation=No	SpaceAfter=No	_	_	_	_	_
 353-7	BZ010	353	7	altro?	altro	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Rising	_	_	_	_	_
-353-8	BZ010	353	8	Dal	dal	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=high	_	_	_	_	_
-353-9	BZ010	353	9	Medico?	medico	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Rising|Volume=high	_	_	_	_	_
+353-8	BZ010	353	8	Dal	dal	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=High	_	_	_	_	_
+353-9	BZ010	353	9	Medico?	medico	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Rising|Volume=High	_	_	_	_	_
 353-10	BZ010	353	10	[xxx]	xxx	_	_	_	_	_	unknown	_	ContainsVariation=No	Syllables=3	End=868.228	_	_	_	0-3(84)
 354-0	BZ008	354	0	[sì	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=867.225	_	_	_	0-2(84)
 354-1	BZ008	354	1	esatto	esatto	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-6(84)

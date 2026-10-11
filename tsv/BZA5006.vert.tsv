@@ -1,4 +1,4 @@
-token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	code-variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
+token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	code_variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
 0-0	BZ001	0	0	okay.	okay	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling	Begin=1.09|End=1.62	_	_	_	_
 1-0	BZ001	1	0	allora	allora	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2.14	_	_	_	_
 1-1	BZ001	1	1	io,	io	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=WeaklyRising	_	_	_	_	_
@@ -5006,7 +5006,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 531-19	BZ007	531	19	farcela.	farcela	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling	End=1595.055	_	_	_	_
 532-0	BZ001	532	0	[ma	ma	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1595.045	_	_	_	0-2(186)
 532-1	BZ001	532	1	dai]	dai	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-3(186)
-532-2	BZ001	532	2	LUC	luc	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=high	_	_	_	_	_
+532-2	BZ001	532	2	LUC	luc	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=High	_	_	_	_	_
 532-3	BZ001	532	3	[potrei],	potrei	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=WeaklyRising	End=1595.605	_	_	_	0-6(187)
 533-0	BZ007	533	0	[(mi	mi	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1595.07	_	_	0-2(0)	0-2(187)
 533-1	BZ007	533	1	potrei,)]	potrei	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=WeaklyRising	_	_	_	0-6(0)	0-6(187)
