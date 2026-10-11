@@ -1,0 +1,127 @@
+{
+  "transcript": "BZA5007",
+  "speakers": {
+    "BZ010": {
+      "TUs": 182,
+      "time": 439.929,
+      "tokens": 1281,
+      "tokens-ling": 1242,
+      "tokens-unk": 4,
+      "tokens-anonym": 0,
+      "tokens-nvb": 11,
+      "tokens-pause": 24,
+      "tokens-err": 0,
+      "code-switching": 0
+    },
+    "BZ008": {
+      "TUs": 285,
+      "time": 614.5530000000003,
+      "tokens": 1933,
+      "tokens-ling": 1882,
+      "tokens-unk": 3,
+      "tokens-anonym": 0,
+      "tokens-nvb": 5,
+      "tokens-pause": 43,
+      "tokens-err": 0,
+      "code-switching": 0
+    }
+  },
+  "TUs": 467,
+  "removed_TUs": 0,
+  "overlaps": 122,
+  "WARNINGS": {
+    "SWITCHES": 121,
+    "TRIM_PROSODICLINKS": 40,
+    "MISMATCHING_OVERLAPS": 24,
+    "META_TAGS": 16,
+    "MOVED_BOUNDARIES": 26,
+    "MULTIPLE_SPACES": 1,
+    "WORD_CORRECTIONS": 1
+  },
+  "ERRORS": {
+    "MISMATCHING_OVERLAPS": 2,
+    "OVERLAPS:MISSING_ANNOTATION": 10,
+    "UNBALANCED_GUESS": 1
+  },
+  "ERROR_DETAILS": [
+    {
+      "rule": "MISMATCHING_OVERLAPS",
+      "tu_id": 46,
+      "speaker": "BZ010",
+      "text": "ehm e quindi poi hai fatto tutte le: le scuole in tedesco mi hai detto [cioè dal]l'asilo al: alle superiori,"
+    },
+    {
+      "rule": "OVERLAPS:MISSING_ANNOTATION",
+      "tu_id": 48,
+      "speaker": "BZ008",
+      "text": "sì tutto in tedesco."
+    },
+    {
+      "rule": "MISMATCHING_OVERLAPS",
+      "tu_id": 138,
+      "speaker": "BZ010",
+      "text": "[ma sai] che non avrei mai detto questa cosa?"
+    },
+    {
+      "rule": "OVERLAPS:MISSING_ANNOTATION",
+      "tu_id": 139,
+      "speaker": "BZ008",
+      "text": "no s- e infatti è strano, eh:"
+    },
+    {
+      "rule": "OVERLAPS:MISSING_ANNOTATION",
+      "tu_id": 176,
+      "speaker": "BZ008",
+      "text": "per dire."
+    },
+    {
+      "rule": "OVERLAPS:MISSING_ANNOTATION",
+      "tu_id": 177,
+      "speaker": "BZ010",
+      "text": "chiaro."
+    },
+    {
+      "rule": "UNBALANCED_GUESS",
+      "tu_id": 278,
+      "speaker": "BZ010",
+      "text": "([(ride))]"
+    },
+    {
+      "rule": "OVERLAPS:MISSING_ANNOTATION",
+      "tu_id": 329,
+      "speaker": "BZ010",
+      "text": "okay,"
+    },
+    {
+      "rule": "OVERLAPS:MISSING_ANNOTATION",
+      "tu_id": 330,
+      "speaker": "BZ008",
+      "text": "mh=mh, (.) quasi più,"
+    },
+    {
+      "rule": "OVERLAPS:MISSING_ANNOTATION",
+      "tu_id": 368,
+      "speaker": "BZ010",
+      "text": "sì?"
+    },
+    {
+      "rule": "OVERLAPS:MISSING_ANNOTATION",
+      "tu_id": 369,
+      "speaker": "BZ008",
+      "text": "ci servirebbe. sì secondo me sì."
+    },
+    {
+      "rule": "OVERLAPS:MISSING_ANNOTATION",
+      "tu_id": 379,
+      "speaker": "BZ010",
+      "text": "vero? cioè miste nel senso linguisticamente"
+    },
+    {
+      "rule": "OVERLAPS:MISSING_ANNOTATION",
+      "tu_id": 380,
+      "speaker": "BZ008",
+      "text": "linguisticamente no, c'è,"
+    }
+  ],
+  "ERROR_TOKENS": []
+}

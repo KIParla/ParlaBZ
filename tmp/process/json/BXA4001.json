@@ -1,0 +1,396 @@
+{
+  "transcript": "BXA4001",
+  "speakers": {
+    "BX001": {
+      "TUs": 391,
+      "time": 995.9839999999994,
+      "tokens": 2899,
+      "tokens-ling": 2700,
+      "tokens-unk": 17,
+      "tokens-anonym": 0,
+      "tokens-nvb": 64,
+      "tokens-pause": 114,
+      "tokens-err": 4,
+      "code-switching": 0
+    },
+    "BX002": {
+      "TUs": 433,
+      "time": 957.7879999999993,
+      "tokens": 3001,
+      "tokens-ling": 2826,
+      "tokens-unk": 29,
+      "tokens-anonym": 0,
+      "tokens-nvb": 23,
+      "tokens-pause": 123,
+      "tokens-err": 0,
+      "code-switching": 0
+    },
+    "BX003": {
+      "TUs": 278,
+      "time": 625.1840000000003,
+      "tokens": 1900,
+      "tokens-ling": 1772,
+      "tokens-unk": 19,
+      "tokens-anonym": 0,
+      "tokens-nvb": 44,
+      "tokens-pause": 65,
+      "tokens-err": 0,
+      "code-switching": 0
+    },
+    "BX004": {
+      "TUs": 34,
+      "time": 105.372,
+      "tokens": 340,
+      "tokens-ling": 315,
+      "tokens-unk": 12,
+      "tokens-anonym": 0,
+      "tokens-nvb": 2,
+      "tokens-pause": 11,
+      "tokens-err": 0,
+      "code-switching": 0
+    }
+  },
+  "TUs": 1136,
+  "removed_TUs": 0,
+  "overlaps": 376,
+  "WARNINGS": {
+    "META_TAGS": 133,
+    "SWITCHES": 233,
+    "MISMATCHING_OVERLAPS": 65,
+    "MOVED_BOUNDARIES": 64,
+    "MULTIPLE_SPACES": 4,
+    "UNEVEN_SPACES": 9,
+    "TRIM_PROSODICLINKS": 33,
+    "WORD_CORRECTIONS": 16,
+    "ACCENTS": 1,
+    "SYMBOL_NOT_ALLOWED": 1,
+    "EMPTY_SPANS": 2
+  },
+  "ERRORS": {
+    "MISMATCHING_OVERLAPS": 30,
+    "UNBALANCED_OVERLAP": 3,
+    "OVERLAPS:MISSING_ANNOTATION": 9,
+    "OVERLAPS:MISSING_TIME": 2,
+    "UNBALANCED_GUESS": 4
+  },
+  "ERROR_DETAILS": [
+    {
+      "rule": "MISMATCHING_OVERLAPS",
+      "tu_id": 5,
+      "speaker": "BX001",
+      "text": "[(xx)] ((ride))"
+    },
+    {
+      "rule": "MISMATCHING_OVERLAPS",
+      "tu_id": 6,
+      "speaker": "BX002",
+      "text": "(xx) bolivia (.) e io [(xxx)]"
+    },
+    {
+      "rule": "MISMATCHING_OVERLAPS",
+      "tu_id": 7,
+      "speaker": "BX001",
+      "text": "[((ride))]"
+    },
+    {
+      "rule": "MISMATCHING_OVERLAPS",
+      "tu_id": 8,
+      "speaker": "BX002",
+      "text": "cioè io dovevo (.) a volte spegnere la telecamera perché mi veniva da ri[dere, (.) perché]"
+    },
+    {
+      "rule": "UNBALANCED_OVERLAP",
+      "tu_id": 14,
+      "speaker": "BX002",
+      "text": "[eh esatto]. [(.) e io da quella volta,"
+    },
+    {
+      "rule": "OVERLAPS:MISSING_ANNOTATION",
+      "tu_id": 14,
+      "speaker": "BX002",
+      "text": "[eh esatto]. [(.) e io da quella volta,"
+    },
+    {
+      "rule": "UNBALANCED_OVERLAP",
+      "tu_id": 64,
+      "speaker": "BX002",
+      "text": "[((ride))"
+    },
+    {
+      "rule": "OVERLAPS:MISSING_ANNOTATION",
+      "tu_id": 64,
+      "speaker": "BX002",
+      "text": "[((ride))"
+    },
+    {
+      "rule": "MISMATCHING_OVERLAPS",
+      "tu_id": 69,
+      "speaker": "BX003",
+      "text": "[(xxxxxxxx)]"
+    },
+    {
+      "rule": "OVERLAPS:MISSING_ANNOTATION",
+      "tu_id": 288,
+      "speaker": "BX003",
+      "text": "((ride))"
+    },
+    {
+      "rule": "OVERLAPS:MISSING_ANNOTATION",
+      "tu_id": 289,
+      "speaker": "BX001",
+      "text": "((ride))"
+    },
+    {
+      "rule": "MISMATCHING_OVERLAPS",
+      "tu_id": 296,
+      "speaker": "BX001",
+      "text": "cioè il gru- il gruppettino di tre: [e questo che parlava: eh]."
+    },
+    {
+      "rule": "MISMATCHING_OVERLAPS",
+      "tu_id": 414,
+      "speaker": "BX002",
+      "text": "e [volevo guardare] qualcos'altro,"
+    },
+    {
+      "rule": "MISMATCHING_OVERLAPS",
+      "tu_id": 416,
+      "speaker": "BX001",
+      "text": "[xxx] ((ridendo))"
+    },
+    {
+      "rule": "OVERLAPS:MISSING_ANNOTATION",
+      "tu_id": 501,
+      "speaker": "BX002",
+      "text": "dici?"
+    },
+    {
+      "rule": "OVERLAPS:MISSING_ANNOTATION",
+      "tu_id": 502,
+      "speaker": "BX001",
+      "text": "prima che venisse bene."
+    },
+    {
+      "rule": "MISMATCHING_OVERLAPS",
+      "tu_id": 618,
+      "speaker": "BX002",
+      "text": "[col pie-, sì. col pedale]."
+    },
+    {
+      "rule": "OVERLAPS:MISSING_ANNOTATION",
+      "tu_id": 629,
+      "speaker": "BX003",
+      "text": "eh:"
+    },
+    {
+      "rule": "MISMATCHING_OVERLAPS",
+      "tu_id": 630,
+      "speaker": "BX002",
+      "text": "perché [c'è:]"
+    },
+    {
+      "rule": "OVERLAPS:MISSING_TIME",
+      "tu_id": 659,
+      "speaker": "BX003",
+      "text": "sì. con::, tipo un gancio in fer[ro]."
+    },
+    {
+      "rule": "MISMATCHING_OVERLAPS",
+      "tu_id": 660,
+      "speaker": "BX001",
+      "text": "[di] metallo, [(eh sì.)]"
+    },
+    {
+      "rule": "OVERLAPS:MISSING_TIME",
+      "tu_id": 666,
+      "speaker": "BX001",
+      "text": "cioè anche da=da da mia mamma c'è una singer. (.) [anche quel]la::,"
+    },
+    {
+      "rule": "MISMATCHING_OVERLAPS",
+      "tu_id": 668,
+      "speaker": "BX002",
+      "text": "[io non lo so ma (xx)]"
+    },
+    {
+      "rule": "MISMATCHING_OVERLAPS",
+      "tu_id": 686,
+      "speaker": "BX001",
+      "text": "ora c'è un po' anche il boom di questa cosa: retro no? [di di:]"
+    },
+    {
+      "rule": "MISMATCHING_OVERLAPS",
+      "tu_id": 726,
+      "speaker": "BX003",
+      "text": "[no no be'] sembra dav- sembra semplice, ma n- (.) [non lo è. cioè tu dici faccio una cosa bruttissima (co-)]"
+    },
+    {
+      "rule": "MISMATCHING_OVERLAPS",
+      "tu_id": 746,
+      "speaker": "BX001",
+      "text": "da uomo. e faceva solo i i completi no? che all'epoca insomma, [cioè (xx tutti)]"
+    },
+    {
+      "rule": "MISMATCHING_OVERLAPS",
+      "tu_id": 762,
+      "speaker": "BX003",
+      "text": "[sì sì sì enormi e pensatissime che quando tagli:],"
+    },
+    {
+      "rule": "MISMATCHING_OVERLAPS",
+      "tu_id": 763,
+      "speaker": "BX001",
+      "text": "[(e gro- e grossissime) ((ride))]"
+    },
+    {
+      "rule": "UNBALANCED_GUESS",
+      "tu_id": 771,
+      "speaker": "BX002",
+      "text": "[(si è per tagliare (i) xxxx ((ride))]"
+    },
+    {
+      "rule": "OVERLAPS:MISSING_ANNOTATION",
+      "tu_id": 807,
+      "speaker": "BX001",
+      "text": "alè"
+    },
+    {
+      "rule": "MISMATCHING_OVERLAPS",
+      "tu_id": 808,
+      "speaker": "BX003",
+      "text": "sono anche riutilizzabili se [vuoi li usi per dare acqua alle piante] per, (.) bo'"
+    },
+    {
+      "rule": "MISMATCHING_OVERLAPS",
+      "tu_id": 836,
+      "speaker": "BX003",
+      "text": "[proprio quelli. ((ridendo)) ((ride))]"
+    },
+    {
+      "rule": "MISMATCHING_OVERLAPS",
+      "tu_id": 837,
+      "speaker": "BX001",
+      "text": "[((ride))]"
+    },
+    {
+      "rule": "MISMATCHING_OVERLAPS",
+      "tu_id": 842,
+      "speaker": "BX002",
+      "text": "[eh] (.) direi."
+    },
+    {
+      "rule": "UNBALANCED_GUESS",
+      "tu_id": 843,
+      "speaker": "BX001",
+      "text": "[((incomrensibile ((ridendo)) ((ride))]"
+    },
+    {
+      "rule": "MISMATCHING_OVERLAPS",
+      "tu_id": 843,
+      "speaker": "BX001",
+      "text": "[((incomrensibile ((ridendo)) ((ride))]"
+    },
+    {
+      "rule": "UNBALANCED_OVERLAP",
+      "tu_id": 863,
+      "speaker": "BX002",
+      "text": "[e ti- e tipo ce- ((ride)) sì sì"
+    },
+    {
+      "rule": "OVERLAPS:MISSING_ANNOTATION",
+      "tu_id": 863,
+      "speaker": "BX002",
+      "text": "[e ti- e tipo ce- ((ride)) sì sì"
+    },
+    {
+      "rule": "UNBALANCED_GUESS",
+      "tu_id": 873,
+      "speaker": "BX003",
+      "text": "sono i battavei, sono delle: [(delle xxx dialetto, ((ride)) sì:]"
+    },
+    {
+      "rule": "MISMATCHING_OVERLAPS",
+      "tu_id": 960,
+      "speaker": "BX003",
+      "text": "[ramazza]."
+    },
+    {
+      "rule": "MISMATCHING_OVERLAPS",
+      "tu_id": 964,
+      "speaker": "BX004",
+      "text": "no eh da noi è la: la ramassa, [(incomprensibile)]"
+    },
+    {
+      "rule": "MISMATCHING_OVERLAPS",
+      "tu_id": 966,
+      "speaker": "BX001",
+      "text": "[ah. ((ride)) (.) (eccoci)]"
+    },
+    {
+      "rule": "MISMATCHING_OVERLAPS",
+      "tu_id": 1004,
+      "speaker": "BX003",
+      "text": "((ride)) [è proprio (.) è (.) è proprio ((ridendo)) (loro sono della) xx] mantovana"
+    },
+    {
+      "rule": "MISMATCHING_OVERLAPS",
+      "tu_id": 1005,
+      "speaker": "BX001",
+      "text": "[c'è proprio (.) quella gentaglia ((ridendo)) ((ride))]"
+    },
+    {
+      "rule": "MISMATCHING_OVERLAPS",
+      "tu_id": 1098,
+      "speaker": "BX001",
+      "text": "[((ride))]"
+    },
+    {
+      "rule": "MISMATCHING_OVERLAPS",
+      "tu_id": 1099,
+      "speaker": "BX002",
+      "text": "come no: [xxx]"
+    },
+    {
+      "rule": "MISMATCHING_OVERLAPS",
+      "tu_id": 1119,
+      "speaker": "BX003",
+      "text": "e c'è sono paper da scrivere, [quel- l'unico che non hai da scrivere],"
+    },
+    {
+      "rule": "UNBALANCED_GUESS",
+      "tu_id": 1132,
+      "speaker": "BX003",
+      "text": "[(lo so però (.) non ho capito se non sanno],"
+    }
+  ],
+  "ERROR_TOKENS": [
+    {
+      "tu_id": 100,
+      "speaker": "BX001",
+      "span": ".",
+      "form": ".",
+      "context": "cioè già a bogotà, (.) quando tu scendi in aeroporto, cioè appena: appena scendi da dall'aereo, (.) ci sono le postazioni di ossigeno. (.) per le persone un po' più grandi, (.) . che si devono mettere a sedere e si mettono l'ossigeno."
+    },
+    {
+      "tu_id": 410,
+      "speaker": "BX001",
+      "span": ".",
+      "form": ".",
+      "context": "((ride)) hai già finito ((ridendo)) . ah no ma c'è la: la stagione quella [dopo]."
+    },
+    {
+      "tu_id": 435,
+      "speaker": "BX001",
+      "span": "be':",
+      "form": "be':",
+      "context": "che dopo un po':: dici va be': okay e: però comunqe è molto:"
+    },
+    {
+      "tu_id": 631,
+      "speaker": "BX001",
+      "span": "be':]",
+      "form": "be':",
+      "context": "[eh va be':]"
+    }
+  ]
+}

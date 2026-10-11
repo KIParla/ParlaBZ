@@ -1,1 +1,16 @@
-code	occupation	gender	conversations	birth-region	age-range	study-level
+code	occupation	gender	conversations	school-region	age-range	study-level
+BZ001	2-Professionals	M	BZA5001;BZA5002;BZA5003;BZA5004;BZA5005;BZA5006;BZA5008	trentino-alto-adige:alto-adige	21-25	university-degree
+BZ002	2-Professionals	F	BZA5001	trentino-alto-adige:alto-adige	21-25	university-degree
+BZ003	0-Students	F	BZA5002	trentino-alto-adige:alto-adige	21-25	university-degree
+BZ004	0-Retired	F	BZA5003	veneto	over85	elementary-school
+BZ005	0-Students	F	BZA5004	trentino-alto-adige:alto-adige	21-25	university-degree-ongoing
+BZ006	0-Students	M	BZA5005	trentino-alto-adige:alto-adige	26-30	university-degree
+BZ007	0-Students	F	BZA5006	trentino-alto-adige:alto-adige	26-30	phd
+BZ008	3-Technicians 	M	BZA5007	trentino-alto-adige:alto-adige	26-30	university-degree
+BZ009	3-Technicians 	M	BZA5008;BZA4001	trentino-alto-adige:alto-adige	36-40	university-degree
+BZ010	0-Students	F	BZA5007	trentino-alto-adige:alto-adige	21-25	university-degree
+BZ012	8-Elementary	F	BZA4001	trentino-alto-adige:alto-adige	41-45	middle-school
+BX001	2-Professionals	M	BXA4001	estero:colombia	36-40	university-degree
+BX002	0-Students	F	BXA4001	veneto	21-25	university-degree
+BX003	0-Students	F	BXA4001	lombardia	21-25	university-degree
+BX004	2-Professionals	M	BXA4001	piemonte	26-30	university-degree

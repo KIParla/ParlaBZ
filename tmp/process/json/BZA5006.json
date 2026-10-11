@@ -1,0 +1,331 @@
+{
+  "transcript": "BZA5006",
+  "speakers": {
+    "BZ001": {
+      "TUs": 248,
+      "time": 310.5880000000001,
+      "tokens": 1016,
+      "tokens-ling": 979,
+      "tokens-unk": 4,
+      "tokens-anonym": 0,
+      "tokens-nvb": 15,
+      "tokens-pause": 14,
+      "tokens-err": 4,
+      "code-switching": 0
+    },
+    "BZ007": {
+      "TUs": 395,
+      "time": 1599.2870000000003,
+      "tokens": 4903,
+      "tokens-ling": 4802,
+      "tokens-unk": 4,
+      "tokens-anonym": 0,
+      "tokens-nvb": 31,
+      "tokens-pause": 41,
+      "tokens-err": 25,
+      "code-switching": 0
+    }
+  },
+  "TUs": 643,
+  "removed_TUs": 1,
+  "overlaps": 238,
+  "WARNINGS": {
+    "UNEVEN_SPACES": 39,
+    "SWITCHES": 265,
+    "MOVED_BOUNDARIES": 22,
+    "TRIM_PROSODICLINKS": 34,
+    "META_TAGS": 46,
+    "ACCENTS": 17,
+    "MISMATCHING_OVERLAPS": 34,
+    "MULTIPLE_SPACES": 35,
+    "SYMBOL_NOT_ALLOWED": 5,
+    "WORD_CORRECTIONS": 5
+  },
+  "ERRORS": {
+    "OVERLAPS:MISSING_ANNOTATION": 6,
+    "OVERLAPS:MISSING_TIME": 1,
+    "MISMATCHING_OVERLAPS": 1,
+    "UNBALANCED_PACE": 1,
+    "UNBALANCED_OVERLAP": 1,
+    "UNBALANCED_GUESS": 2
+  },
+  "ERROR_DETAILS": [
+    {
+      "rule": "OVERLAPS:MISSING_ANNOTATION",
+      "tu_id": 184,
+      "speaker": "BZ007",
+      "text": "bilingue."
+    },
+    {
+      "rule": "OVERLAPS:MISSING_ANNOTATION",
+      "tu_id": 185,
+      "speaker": "BZ001",
+      "text": "bilingue."
+    },
+    {
+      "rule": "OVERLAPS:MISSING_TIME",
+      "tu_id": 437,
+      "speaker": "BZ007",
+      "text": "eh lei ogni sera parlava con mia nonna. [(.)] quindi io stavo sempre lì un po' curios(o) a dire, mh"
+    },
+    {
+      "rule": "MISMATCHING_OVERLAPS",
+      "tu_id": 471,
+      "speaker": "BZ001",
+      "text": "sì in realtà è un tema vastissimo, [xxx un po' xx poi in realtà: sì sì]"
+    },
+    {
+      "rule": "OVERLAPS:MISSING_ANNOTATION",
+      "tu_id": 476,
+      "speaker": "BZ001",
+      "text": "eh la distinzione tra, dialetto e lingua appunto, è di tipo, (.) extralinguistico ecco."
+    },
+    {
+      "rule": "UNBALANCED_PACE",
+      "tu_id": 501,
+      "speaker": "BZ007",
+      "text": "no però appunto,. h lei proprio vedo che ha una grande facilità, <ma perché< (.) anche, diciamolo, la motivazione [no? l'int]eresse"
+    },
+    {
+      "rule": "OVERLAPS:MISSING_ANNOTATION",
+      "tu_id": 513,
+      "speaker": "BZ001",
+      "text": "certo."
+    },
+    {
+      "rule": "OVERLAPS:MISSING_ANNOTATION",
+      "tu_id": 514,
+      "speaker": "BZ007",
+      "text": "eh."
+    },
+    {
+      "rule": "UNBALANCED_OVERLAP",
+      "tu_id": 585,
+      "speaker": "BZ001",
+      "text": "[((ride))"
+    },
+    {
+      "rule": "OVERLAPS:MISSING_ANNOTATION",
+      "tu_id": 585,
+      "speaker": "BZ001",
+      "text": "[((ride))"
+    },
+    {
+      "rule": "UNBALANCED_GUESS",
+      "tu_id": 611,
+      "speaker": "BZ007",
+      "text": "com'è che si dice vomitare in tedesco? [de]vo dirgli, che ho, vomitato. [((ride_sottovoce))]))"
+    },
+    {
+      "rule": "UNBALANCED_GUESS",
+      "tu_id": 614,
+      "speaker": "BZ007",
+      "text": "terribile.. h che brutto momento. io penso di non essermi mai vergognata così, sicuramente) sto: arrossendo ancora al ricordo,"
+    }
+  ],
+  "ERROR_TOKENS": [
+    {
+      "tu_id": 3,
+      "speaker": "BZ007",
+      "span": "perfetto..",
+      "form": "perfetto..",
+      "context": "perfetto.. hh"
+    },
+    {
+      "tu_id": 42,
+      "speaker": "BZ007",
+      "span": "h.h",
+      "form": "h.h",
+      "context": "h.h però ripeto io ho un bellissimo rapporto col tedesco, mi piace molto come li- come lingua, l'ho studiato volentieri,"
+    },
+    {
+      "tu_id": 50,
+      "speaker": "BZ007",
+      "span": "questo..",
+      "form": "questo..",
+      "context": "ci hanno subito consigliato di andare a imparare una lingua che poi poteva esserci utile in alto adige no? per noi italiani il tedesco, e per i tedeschi l'italiano. quindi senza fare distinzioni in questo.. h"
+    },
+    {
+      "tu_id": 110,
+      "speaker": "BZ001",
+      "span": "[h.h]",
+      "form": "h.h",
+      "context": "[h.h]"
+    },
+    {
+      "tu_id": 136,
+      "speaker": "BZ007",
+      "span": "forse,.",
+      "form": "forse,.",
+      "context": "me lo [sentivo], però, son quelle cose che quasi vuoi un po' nascondere, (e) dire ma no no lasciamo stare che forse,. hh"
+    },
+    {
+      "tu_id": 148,
+      "speaker": "BZ007",
+      "span": "co[vid]..",
+      "form": "covid..",
+      "context": "delle funzioni neuropsicologiche, in pazienti, post terapia intensiva da co[vid].. h"
+    },
+    {
+      "tu_id": 153,
+      "speaker": "BZ007",
+      "span": "[(.)],",
+      "form": ".,",
+      "context": "esatto esatto. io [(.)], cerco sempre di mettere insieme le cose oppure, adesso, ho questa borsa di ricerca,"
+    },
+    {
+      "tu_id": 199,
+      "speaker": "BZ007",
+      "span": "film,.",
+      "form": "film,.",
+      "context": "tsk che eh mi arrivi la trama, che mi arrivino le emozioni del film,. h"
+    },
+    {
+      "tu_id": 223,
+      "speaker": "BZ007",
+      "span": "tks..",
+      "form": "tks..",
+      "context": "tks.. hh"
+    },
+    {
+      "tu_id": 228,
+      "speaker": "BZ007",
+      "span": ",",
+      "form": ",",
+      "context": ">a parte ch-< mh la: la docente di ((nome_città_scozzese)) , erano tutti: eh: >diciamo< era un inglese comune."
+    },
+    {
+      "tu_id": 274,
+      "speaker": "BZ007",
+      "span": "h.h",
+      "form": "h.h",
+      "context": "h.h benissimo. allora dico, eh allora ho vinto. ((ride)) [((ride)) giu]sto?"
+    },
+    {
+      "tu_id": 331,
+      "speaker": "BZ007",
+      "span": "dicom,a",
+      "form": "dicom,a",
+      "context": "alcune sì. tipo ikia casa, e dicom,a dai lo sapevo che ikia vuol dire ca- e adesso me lo ricordo ancora, [c'ho giocato] mesi e mesi fa."
+    },
+    {
+      "tu_id": 361,
+      "speaker": "BZ007",
+      "span": "qui,.",
+      "form": "qui,.",
+      "context": "[mi] piace sentirle anche nelle altre lingue, vedere un attimo e dire, ma qui,. h come l'hanno:: ah: okay però qui l'hanno tradotta diversa, ah non c'entra nulla no?"
+    },
+    {
+      "tu_id": 386,
+      "speaker": "BZ007",
+      "span": "costre[tta..",
+      "form": "costretta..",
+      "context": "[che vergogna. (.) mai cioè:] solo se ero costre[tta.. h]"
+    },
+    {
+      "tu_id": 424,
+      "speaker": "BZ007",
+      "span": "diale[tto..",
+      "form": "dialetto..",
+      "context": "adesso non più tanto. però quando: c'era ancora mia nonna, loro al telefono parlavano in diale[tto.. h]"
+    },
+    {
+      "tu_id": 465,
+      "speaker": "BZ001",
+      "span": "lingui[stico],,",
+      "form": "linguistico,,",
+      "context": "non perché è in nessun modo migliore o diver[sa, ma è] (sempre) un sistema lingui[stico],,"
+    },
+    {
+      "tu_id": 480,
+      "speaker": "BZ007",
+      "span": "interessante..",
+      "form": "interessante..",
+      "context": "eh questo è interessante.. h e quindi sì (.) da lei sentivo questo eh:"
+    },
+    {
+      "tu_id": 490,
+      "speaker": "BZ001",
+      "span": "[h.h]",
+      "form": "h.h",
+      "context": "[h.h] ((ride))"
+    },
+    {
+      "tu_id": 497,
+      "speaker": "BZ007",
+      "span": "ess]ere,.",
+      "form": "essere,.",
+      "context": "cioè non lo so, io non è che sono sempre lì con le antenn[e, per ess]ere,. h impeccabile pure nelle mura domestiche ((ridendo)) cioè posso canticchiar[e::]"
+    },
+    {
+      "tu_id": 501,
+      "speaker": "BZ007",
+      "span": "appunto,.",
+      "form": "appunto,.",
+      "context": "no però appunto,. h lei proprio vedo che ha una grande facilità, <ma perché< (.) anche, diciamolo, la motivazione [no? l'int]eresse"
+    },
+    {
+      "tu_id": 540,
+      "speaker": "BZ007",
+      "span": "bene,.",
+      "form": "bene,.",
+      "context": "lo capisco abbastanza bene,. h e poi succede che io prenda alcune cose [del dialetto]."
+    },
+    {
+      "tu_id": 547,
+      "speaker": "BZ007",
+      "span": "h.h",
+      "form": "h.h",
+      "context": "h.h >cioè< non, oddio no è che non mi va, mi è indifferente. [sincera]mente.. h però mi ha- mi è successo sì di prendere alcune:: al- non cadenze però,"
+    },
+    {
+      "tu_id": 547,
+      "speaker": "BZ007",
+      "span": "[sincera]mente..",
+      "form": "sinceramente..",
+      "context": "h.h >cioè< non, oddio no è che non mi va, mi è indifferente. [sincera]mente.. h però mi ha- mi è successo sì di prendere alcune:: al- non cadenze però,"
+    },
+    {
+      "tu_id": 565,
+      "speaker": "BZ007",
+      "span": "a]dige<,.",
+      "form": "adige,.",
+      "context": "[h. e] guarda, ho visto che è incredibile. basta un nulla, e subito lo:=[lo:], ma secondo me è perché lo sentiamo no? [>qui in alto a]dige<,. h e quindi,"
+    },
+    {
+      "tu_id": 584,
+      "speaker": "BZ007",
+      "span": "dire]..",
+      "form": "dire..",
+      "context": "sì: [si può anche dire].. h"
+    },
+    {
+      "tu_id": 591,
+      "speaker": "BZ007",
+      "span": "lavoravo,.",
+      "form": "lavoravo,.",
+      "context": "e: l'avevo conosciuto da poco, dove lavoravo,. h"
+    },
+    {
+      "tu_id": 610,
+      "speaker": "BZ007",
+      "span": "no?.",
+      "form": "no?.",
+      "context": "divertente no?. h terribile. ((ridendo)) e io, io ero lì che dicevo,"
+    },
+    {
+      "tu_id": 614,
+      "speaker": "BZ007",
+      "span": "terribile..",
+      "form": "terribile..",
+      "context": "terribile.. h che brutto momento. io penso di non essermi mai vergognata così, sicuramente) sto: arrossendo ancora al ricordo,"
+    },
+    {
+      "tu_id": 633,
+      "speaker": "BZ001",
+      "span": "[(praticamente.)].",
+      "form": "praticamente..",
+      "context": "[e poi (siete diventati,)] quindi, a lieto fine [(praticamente.)]."
+    }
+  ]
+}

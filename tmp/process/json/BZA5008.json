@@ -1,0 +1,245 @@
+{
+  "transcript": "BZA5008",
+  "speakers": {
+    "BZ001": {
+      "TUs": 149,
+      "time": 297.85400000000016,
+      "tokens": 954,
+      "tokens-ling": 919,
+      "tokens-unk": 0,
+      "tokens-anonym": 0,
+      "tokens-nvb": 13,
+      "tokens-pause": 20,
+      "tokens-err": 2,
+      "code-switching": 0
+    },
+    "BZ009": {
+      "TUs": 267,
+      "time": 1085.1360000000002,
+      "tokens": 2891,
+      "tokens-ling": 2815,
+      "tokens-unk": 2,
+      "tokens-anonym": 0,
+      "tokens-nvb": 3,
+      "tokens-pause": 69,
+      "tokens-err": 2,
+      "code-switching": 0
+    }
+  },
+  "TUs": 416,
+  "removed_TUs": 0,
+  "overlaps": 81,
+  "WARNINGS": {
+    "SWITCHES": 107,
+    "UNEVEN_SPACES": 4,
+    "TRIM_PROSODICLINKS": 68,
+    "MOVED_BOUNDARIES": 44,
+    "META_TAGS": 16,
+    "MULTIPLE_SPACES": 1,
+    "MISMATCHING_OVERLAPS": 14
+  },
+  "ERRORS": {
+    "MISMATCHING_OVERLAPS": 5,
+    "OVERLAPS:MISSING_ANNOTATION": 23
+  },
+  "ERROR_DETAILS": [
+    {
+      "rule": "MISMATCHING_OVERLAPS",
+      "tu_id": 71,
+      "speaker": "BZ001",
+      "text": "questa cosa è successa anche con altre lingue magari musica tedesca, [francese], o prevalentemente inglese?"
+    },
+    {
+      "rule": "OVERLAPS:MISSING_ANNOTATION",
+      "tu_id": 73,
+      "speaker": "BZ009",
+      "text": "solo con la musica inglese."
+    },
+    {
+      "rule": "OVERLAPS:MISSING_ANNOTATION",
+      "tu_id": 74,
+      "speaker": "BZ001",
+      "text": "mh=mh, okay."
+    },
+    {
+      "rule": "MISMATCHING_OVERLAPS",
+      "tu_id": 103,
+      "speaker": "BZ009",
+      "text": "[in inghilterra], l'ho avvertita."
+    },
+    {
+      "rule": "OVERLAPS:MISSING_ANNOTATION",
+      "tu_id": 104,
+      "speaker": "BZ001",
+      "text": "okay."
+    },
+    {
+      "rule": "OVERLAPS:MISSING_ANNOTATION",
+      "tu_id": 106,
+      "speaker": "BZ001",
+      "text": "però ti piace, provare"
+    },
+    {
+      "rule": "MISMATCHING_OVERLAPS",
+      "tu_id": 107,
+      "speaker": "BZ009",
+      "text": "mi piace provare lo stes[so sì=sì]."
+    },
+    {
+      "rule": "OVERLAPS:MISSING_ANNOTATION",
+      "tu_id": 163,
+      "speaker": "BZ009",
+      "text": "<tendo nei contesti> eh: soprattutto ufficiali a evitare di parlare dialetto."
+    },
+    {
+      "rule": "OVERLAPS:MISSING_ANNOTATION",
+      "tu_id": 164,
+      "speaker": "BZ001",
+      "text": "mh."
+    },
+    {
+      "rule": "OVERLAPS:MISSING_ANNOTATION",
+      "tu_id": 192,
+      "speaker": "BZ009",
+      "text": "nonostante capisca i sottotitoli mi infastidiscono."
+    },
+    {
+      "rule": "OVERLAPS:MISSING_ANNOTATION",
+      "tu_id": 193,
+      "speaker": "BZ001",
+      "text": "mh=mh,"
+    },
+    {
+      "rule": "OVERLAPS:MISSING_ANNOTATION",
+      "tu_id": 256,
+      "speaker": "BZ001",
+      "text": "in questi contesti quindi la comunicazione com'era? era un po' in una lingua un po' nell'altra?"
+    },
+    {
+      "rule": "OVERLAPS:MISSING_ANNOTATION",
+      "tu_id": 257,
+      "speaker": "BZ009",
+      "text": "mistilingue,"
+    },
+    {
+      "rule": "OVERLAPS:MISSING_ANNOTATION",
+      "tu_id": 258,
+      "speaker": "BZ001",
+      "text": "misti- okay."
+    },
+    {
+      "rule": "OVERLAPS:MISSING_ANNOTATION",
+      "tu_id": 300,
+      "speaker": "BZ009",
+      "text": "eh:: poi a parigi ripeto mi sono lanciato in alcune,"
+    },
+    {
+      "rule": "OVERLAPS:MISSING_ANNOTATION",
+      "tu_id": 301,
+      "speaker": "BZ001",
+      "text": "h."
+    },
+    {
+      "rule": "OVERLAPS:MISSING_ANNOTATION",
+      "tu_id": 322,
+      "speaker": "BZ009",
+      "text": "eh:: non ho mai approcciato con lingue con le lingue orientali."
+    },
+    {
+      "rule": "OVERLAPS:MISSING_ANNOTATION",
+      "tu_id": 323,
+      "speaker": "BZ001",
+      "text": "okay. e sei stato invece in asia? in viaggio?"
+    },
+    {
+      "rule": "OVERLAPS:MISSING_ANNOTATION",
+      "tu_id": 330,
+      "speaker": "BZ001",
+      "text": "e quindi, ((ride))"
+    },
+    {
+      "rule": "OVERLAPS:MISSING_ANNOTATION",
+      "tu_id": 331,
+      "speaker": "BZ009",
+      "text": "e quindi eh: l'indonesia rimane:,"
+    },
+    {
+      "rule": "OVERLAPS:MISSING_ANNOTATION",
+      "tu_id": 339,
+      "speaker": "BZ009",
+      "text": "persona, faccia a faccia sia"
+    },
+    {
+      "rule": "OVERLAPS:MISSING_ANNOTATION",
+      "tu_id": 340,
+      "speaker": "BZ001",
+      "text": "mh=mh,"
+    },
+    {
+      "rule": "MISMATCHING_OVERLAPS",
+      "tu_id": 343,
+      "speaker": "BZ001",
+      "text": "c'è qualche aneddoto legato alle lingue anche divertente così qualcosa qualche per esempio qualche fraintendimento [qualche aned]doto che [ti è capi]tato,"
+    },
+    {
+      "rule": "MISMATCHING_OVERLAPS",
+      "tu_id": 346,
+      "speaker": "BZ009",
+      "text": "uno ci stavo pensando proprio [adesso],"
+    },
+    {
+      "rule": "OVERLAPS:MISSING_ANNOTATION",
+      "tu_id": 374,
+      "speaker": "BZ001",
+      "text": "((ride)) tutto bene,"
+    },
+    {
+      "rule": "OVERLAPS:MISSING_ANNOTATION",
+      "tu_id": 375,
+      "speaker": "BZ009",
+      "text": "abbastanza liscio."
+    },
+    {
+      "rule": "OVERLAPS:MISSING_ANNOTATION",
+      "tu_id": 391,
+      "speaker": "BZ009",
+      "text": "aiuterebbe,"
+    },
+    {
+      "rule": "OVERLAPS:MISSING_ANNOTATION",
+      "tu_id": 392,
+      "speaker": "BZ001",
+      "text": "mh,"
+    }
+  ],
+  "ERROR_TOKENS": [
+    {
+      "tu_id": 4,
+      "speaker": "BZ009",
+      "span": "aziende,.",
+      "form": "aziende,.",
+      "context": "diverse aziende,. h"
+    },
+    {
+      "tu_id": 92,
+      "speaker": "BZ001",
+      "span": "[t.sk",
+      "form": "t.sk",
+      "context": "[t.sk okay]."
+    },
+    {
+      "tu_id": 134,
+      "speaker": "BZ001",
+      "span": "mh,.",
+      "form": "mh,.",
+      "context": "mh=mh,. tsk"
+    },
+    {
+      "tu_id": 372,
+      "speaker": "BZ009",
+      "span": "[t.sk",
+      "form": "t.sk",
+      "context": "[t.sk sì già eravamo] in una situazione non comodissima: e in più:, (.) quello è stato: quello è stato uno e,"
+    }
+  ]
+}

@@ -1,4 +1,9 @@
 *.pfsx
 *.bak
+*.eaf.001
 .DS*
 *.zip
+original/
+.DS_Store
+.vscode/
+*.xlsx
