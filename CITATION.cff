@@ -8,10 +8,10 @@ authors:
 - family-names: "Piovan"
   given-names: "Alex"
 version: 1.0.0
+date-released: 2026-10-11
 identifiers:
   - description: "The DOI of the work"
     type: doi
     value: 10.5281/zenodo.20670120
-# TODO: set date-released to the release date of v1.0.0
 repository-code: "https://github.com/KIParla/ParlaBZ"
 license: CC-BY-NC-SA-4.0

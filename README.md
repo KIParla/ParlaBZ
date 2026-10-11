@@ -157,8 +157,7 @@ If you use the ParlaBZ module in your research, please also reference this repos
 
 ## Changelog
 
-* YYYY-MM-DD vX.Y.Z
-  * Breaking: the `topic`, `participants-relationship` and `moderator` columns were removed from `metadata/conversations.tsv`
+* 2026-10-11 v1.0.0
   * First release
 
 -----
