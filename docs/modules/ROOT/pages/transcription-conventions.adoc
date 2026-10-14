@@ -12,7 +12,13 @@ unchanged.
 
 Symbols or uses that the shared conventions do not define, added by ParlaBZ.
 
-_None._
+=== `.h` — inhalation
+
+A standalone `.h` (also `.hh`, `.hhh`, ...) marks an inhalation, as in Jefferson notation. It is
+breathing, not a word: in the verticalized files the token has type `nonverbalbehavior` (not
+`linguistic`), also inside an overlapping span (`[.h]`), and it is left out of the orthographic
+text. The transcription keeps `.h`. A plain `h` without the dot is not an inhalation and is
+transcribed as the word it stands for.
 
 // Example:
 // === `&` — reading aloud

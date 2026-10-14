@@ -92,7 +92,7 @@ Each token is represented as 20 columns, as follows:
 11. `deprel`: reserved for a future dependency-parsing step; `_` for now
 12. `type`: one of
     - `linguistic`: everything that is considered to be a content linguistic token
-    - `nonverbalbehavior`: used for transcribed non verbal behaviors, such as laughing or sighing
+    - `nonverbalbehavior`: used for transcribed non verbal behaviors, such as laughing or sighing. In ParlaBZ it is also the type of the inhalations written `.h` / `.hh` (Jefferson notation; also in overlaps, `[.h]`): they are breathing, not words, so they are not `linguistic` and are left out of the orthographic text, while the transcription keeps `.h`
     - `shortpause`: identifies pauses
     - `unknown`: identifies unintelligible spans in transcription
     - `error`: residual class to mark cases where the transcription is not well formed according to enriched format. Therefore, the token is not analyzed and transcription will be corrected in future releases.
