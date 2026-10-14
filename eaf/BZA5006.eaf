@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<ANNOTATION_DOCUMENT AUTHOR="automatic_pipeline" DATE="2026-10-02T12:52:29+02:00" VERSION="2.8" FORMAT="2.8" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv2.8.xsd">
+<ANNOTATION_DOCUMENT AUTHOR="automatic_pipeline" DATE="2026-10-14T16:28:46+02:00" VERSION="2.8" FORMAT="2.8" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv2.8.xsd">
 	<HEADER>
 		<MEDIA_DESCRIPTOR MEDIA_URL="BZA5006.mp3" RELATIVE_MEDIA_URL="BZA5006.mp3" MIME_TYPE="audio/mpeg" />
 		<PROPERTY NAME="lastUsedAnnotation">0</PROPERTY>
@@ -1500,7 +1500,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a111" TIME_SLOT_REF1="ts220" TIME_SLOT_REF2="ts221">
-				<ANNOTATION_VALUE>[h.h]</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>[.hh]</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1570,7 +1570,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a170" TIME_SLOT_REF1="ts338" TIME_SLOT_REF2="ts339">
-				<ANNOTATION_VALUE>[no va benissimo eh. h]</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>[no va benissimo eh .h]</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1655,7 +1655,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a217" TIME_SLOT_REF1="ts432" TIME_SLOT_REF2="ts433">
-				<ANNOTATION_VALUE>[&gt;mh=mh&lt;.]</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>[&gt;mh=mh.&lt;]</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2185,7 +2185,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a491" TIME_SLOT_REF1="ts980" TIME_SLOT_REF2="ts981">
-				<ANNOTATION_VALUE>[h.h] ((ride))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>[.hh] ((ride))</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2430,7 +2430,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a598" TIME_SLOT_REF1="ts1194" TIME_SLOT_REF2="ts1195">
-				<ANNOTATION_VALUE>[eh. h] ((ridendo))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>[eh .h] ((ridendo))</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2515,7 +2515,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a636" TIME_SLOT_REF1="ts1270" TIME_SLOT_REF2="ts1271">
-				<ANNOTATION_VALUE>h. okay. ((ridendo)) perfetto.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>.h okay. ((ridendo)) perfetto.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2537,7 +2537,7 @@
 	<TIER TIER_ID="BZ007" LINGUISTIC_TYPE_REF="default-lt">
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a5" TIME_SLOT_REF1="ts8" TIME_SLOT_REF2="ts9">
-				<ANNOTATION_VALUE>perfetto.. hh</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>perfetto. .hh</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2552,7 +2552,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a10" TIME_SLOT_REF1="ts18" TIME_SLOT_REF2="ts19">
-				<ANNOTATION_VALUE>h. da eh:::: quindi una terra: per antonomasia dove la lingua diciamo gioca un ruolo centrale [no]?</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>.h da eh:::: quindi una terra: per antonomasia dove la lingua diciamo gioca un ruolo centrale [no]?</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2572,7 +2572,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a16" TIME_SLOT_REF1="ts30" TIME_SLOT_REF2="ts31">
-				<ANNOTATION_VALUE>h. va detto che io, vengo da una famiglia italiana, mol[to ita]liana, mia mamma: ha origini del sud,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>.h va detto che io, vengo da una famiglia italiana, mol[to ita]liana, mia mamma: ha origini del sud,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2582,12 +2582,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a21" TIME_SLOT_REF1="ts40" TIME_SLOT_REF2="ts41">
-				<ANNOTATION_VALUE>h. quindi io ho i parenti anche giù in puglia, e i parenti del nord &gt;quindi&lt; faccio sempre ((ride)) i confronti [tra sud e] nord no?</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>.h quindi io ho i parenti anche giù in puglia, e i parenti del nord &gt;quindi&lt; faccio sempre ((ride)) i confronti [tra sud e] nord no?</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a23" TIME_SLOT_REF1="ts44" TIME_SLOT_REF2="ts45">
-				<ANNOTATION_VALUE>e quindi il tedesco per me è quasi un plus, cioè. h</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e quindi il tedesco per me è quasi un plus, cioè .h</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2607,12 +2607,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a27" TIME_SLOT_REF1="ts52" TIME_SLOT_REF2="ts53">
-				<ANNOTATION_VALUE>h. e ci sono alcuni amici, che dicono io sono altoatesino no?</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>.h e ci sono alcuni amici, che dicono io sono altoatesino no?</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a29" TIME_SLOT_REF1="ts56" TIME_SLOT_REF2="ts57">
-				<ANNOTATION_VALUE>[h.] e questo è interessante perché è una cosa che io non ho mai detto. io dico spesso sono italiana.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>[.h] e questo è interessante perché è una cosa che io non ho mai detto. io dico spesso sono italiana.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2622,7 +2622,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a32" TIME_SLOT_REF1="ts62" TIME_SLOT_REF2="ts63">
-				<ANNOTATION_VALUE>h. non so se è (.) per il fatto che io</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>.h non so se è (.) per il fatto che io</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2652,7 +2652,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a40" TIME_SLOT_REF1="ts78" TIME_SLOT_REF2="ts79">
-				<ANNOTATION_VALUE>h. e quindi fanno più fatica a::: addentrarsi diciamo: in questa lingua,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>.h e quindi fanno più fatica a::: addentrarsi diciamo: in questa lingua,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2667,7 +2667,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a44" TIME_SLOT_REF1="ts86" TIME_SLOT_REF2="ts87">
-				<ANNOTATION_VALUE>h.h però ripeto io ho un bellissimo rapporto col tedesco, mi piace molto come li- come lingua, l'ho studiato volentieri,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>.hh però ripeto io ho un bellissimo rapporto col tedesco, mi piace molto come li- come lingua, l'ho studiato volentieri,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2692,12 +2692,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a51" TIME_SLOT_REF1="ts100" TIME_SLOT_REF2="ts101">
-				<ANNOTATION_VALUE>h. però già eh: con la prima laurea, mh diciamo,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>.h però già eh: con la prima laurea, mh diciamo,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a52" TIME_SLOT_REF1="ts102" TIME_SLOT_REF2="ts103">
-				<ANNOTATION_VALUE>ci hanno subito consigliato di andare a imparare una lingua che poi poteva esserci utile in alto adige no? per noi italiani il tedesco, e per i tedeschi l'italiano. quindi senza fare distinzioni in questo.. h</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>ci hanno subito consigliato di andare a imparare una lingua che poi poteva esserci utile in alto adige no? per noi italiani il tedesco, e per i tedeschi l'italiano. quindi senza fare distinzioni in questo. .h</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2747,7 +2747,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a68" TIME_SLOT_REF1="ts134" TIME_SLOT_REF2="ts135">
-				<ANNOTATION_VALUE>io, è s- è molto strano questo. anzi lo (.) mi sembra quasi di non avere difficoltà a capirlo, [h.] io un po' sento che ho</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>io, è s- è molto strano questo. anzi lo (.) mi sembra quasi di non avere difficoltà a capirlo, [.h] io un po' sento che ho</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2767,7 +2767,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a73" TIME_SLOT_REF1="ts144" TIME_SLOT_REF2="ts145">
-				<ANNOTATION_VALUE>h. andare lì a tradu[rre], capire il senso,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>.h andare lì a tradu[rre], capire il senso,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2787,7 +2787,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a80" TIME_SLOT_REF1="ts158" TIME_SLOT_REF2="ts159">
-				<ANNOTATION_VALUE>di=di di nessun tipo. h</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>di=di di nessun tipo .h</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2862,7 +2862,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a104" TIME_SLOT_REF1="ts206" TIME_SLOT_REF2="ts207">
-				<ANNOTATION_VALUE>h. e::: infatti l'idea iniziale era studiare lettere classi[che. qui]ndi: mi s[xx]</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>.h e::: infatti l'idea iniziale era studiare lettere classi[che. qui]ndi: mi s[xx]</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2987,7 +2987,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a137" TIME_SLOT_REF1="ts272" TIME_SLOT_REF2="ts273">
-				<ANNOTATION_VALUE>me lo [sentivo], però, son quelle cose che quasi vuoi un po' nascondere, (e) dire ma no no lasciamo stare che forse,. hh</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>me lo [sentivo], però, son quelle cose che quasi vuoi un po' nascondere, (e) dire ma no no lasciamo stare che forse, .hh</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3032,7 +3032,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a149" TIME_SLOT_REF1="ts296" TIME_SLOT_REF2="ts297">
-				<ANNOTATION_VALUE>delle funzioni neuropsicologiche, in pazienti, post terapia intensiva da co[vid].. h</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>delle funzioni neuropsicologiche, in pazienti, post terapia intensiva da co[vid.] .h</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3042,7 +3042,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a152" TIME_SLOT_REF1="ts302" TIME_SLOT_REF2="ts303">
-				<ANNOTATION_VALUE>h. c'erano un po' (.) eh:: di[ciamo, (.) i vari aspet]ti.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>.h c'erano un po' (.) eh:: di[ciamo, (.) i vari aspet]ti.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3052,7 +3052,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a157" TIME_SLOT_REF1="ts312" TIME_SLOT_REF2="ts313">
-				<ANNOTATION_VALUE>[h.] eh:::m che ho::: ottenuto,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>[.h] eh:::m che ho::: ottenuto,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3097,7 +3097,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a169" TIME_SLOT_REF1="ts336" TIME_SLOT_REF2="ts337">
-				<ANNOTATION_VALUE>ho deviato un po' negli [argomenti, ((sorridendo)) quin]di: però magari (mi) provo a:. h</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>ho deviato un po' negli [argomenti, ((sorridendo)) quin]di: però magari (mi) provo a: .h</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3177,7 +3177,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a193" TIME_SLOT_REF1="ts384" TIME_SLOT_REF2="ts385">
-				<ANNOTATION_VALUE>h. e:: lo vedo no? lei si guarda proprio le serie tivu, con i sottotitoli in inglese.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>.h e:: lo vedo no? lei si guarda proprio le serie tivu, con i sottotitoli in inglese.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3202,7 +3202,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a200" TIME_SLOT_REF1="ts398" TIME_SLOT_REF2="ts399">
-				<ANNOTATION_VALUE>tsk che eh mi arrivi la trama, che mi arrivino le emozioni del film,. h</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>tsk che eh mi arrivi la trama, che mi arrivino le emozioni del film, .h</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3227,7 +3227,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a210" TIME_SLOT_REF1="ts418" TIME_SLOT_REF2="ts419">
-				<ANNOTATION_VALUE>[h.] e allora, lo guardo. per per cogliere le sfumature che mi sono persa. però, dico la verità,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>[.h] e allora, lo guardo. per per cogliere le sfumature che mi sono persa. però, dico la verità,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3267,7 +3267,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a224" TIME_SLOT_REF1="ts446" TIME_SLOT_REF2="ts447">
-				<ANNOTATION_VALUE>tks.. hh</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>tks. .hh</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3292,7 +3292,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a230" TIME_SLOT_REF1="ts458" TIME_SLOT_REF2="ts459">
-				<ANNOTATION_VALUE>h. ed era un inglese, non giudicante.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>.h ed era un inglese, non giudicante.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3322,7 +3322,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a239" TIME_SLOT_REF1="ts476" TIME_SLOT_REF2="ts477">
-				<ANNOTATION_VALUE>h. ma non: non ci si sente sotto esame [no]?</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>.h ma non: non ci si sente sotto esame [no]?</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3357,7 +3357,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a248" TIME_SLOT_REF1="ts494" TIME_SLOT_REF2="ts495">
-				<ANNOTATION_VALUE>h. e noi un po' forse,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>.h e noi un po' forse,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3377,12 +3377,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a252" TIME_SLOT_REF1="ts502" TIME_SLOT_REF2="ts503">
-				<ANNOTATION_VALUE>eh::: io:. h io l'ho imparato per conto mio, e infatti, e questo anche diatribe, non son d'accordo con quello che dico un sacco di persone, mi- soprattutto per questo i linguisti mi dicono su.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>eh::: io: .h io l'ho imparato per conto mio, e infatti, e questo anche diatribe, non son d'accordo con quello che dico un sacco di persone, mi- soprattutto per questo i linguisti mi dicono su.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a253" TIME_SLOT_REF1="ts504" TIME_SLOT_REF2="ts505">
-				<ANNOTATION_VALUE>h. io non sono spesso così attenta alla pronuncia. cioè (.) m'interessa dire le cose bene, con la grammatica: e con: giusta tutta al posto giusto, ma,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>.h io non sono spesso così attenta alla pronuncia. cioè (.) m'interessa dire le cose bene, con la grammatica: e con: giusta tutta al posto giusto, ma,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3402,7 +3402,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a257" TIME_SLOT_REF1="ts512" TIME_SLOT_REF2="ts513">
-				<ANNOTATION_VALUE>h. mescolarmi tra la [fo]lla no? o il francese, (.) però io ho, non: mh:</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>.h mescolarmi tra la [fo]lla no? o il francese, (.) però io ho, non: mh:</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3462,7 +3462,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a275" TIME_SLOT_REF1="ts548" TIME_SLOT_REF2="ts549">
-				<ANNOTATION_VALUE>h.h benissimo. allora dico, eh allora ho vinto. ((ride)) [((ride)) giu]sto?</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>.hh benissimo. allora dico, eh allora ho vinto. ((ride)) [((ride)) giu]sto?</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3502,7 +3502,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a290" TIME_SLOT_REF1="ts578" TIME_SLOT_REF2="ts579">
-				<ANNOTATION_VALUE>quindi sì. all'inizio sicuramente. hhhh</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>quindi sì. all'inizio sicuramente .hhhh</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3602,7 +3602,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a323" TIME_SLOT_REF1="ts644" TIME_SLOT_REF2="ts645">
-				<ANNOTATION_VALUE>e anche leggendolo, (.) intuisco di che cosa si parla. [quin]di. h</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e anche leggendolo, (.) intuisco di che cosa si parla. [quin]di .h</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3627,7 +3627,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a332" TIME_SLOT_REF1="ts662" TIME_SLOT_REF2="ts663">
-				<ANNOTATION_VALUE>alcune sì. tipo ikia casa, e dicom,a dai lo sapevo che ikia vuol dire ca- e adesso me lo ricordo ancora, [c'ho giocato] mesi e mesi fa.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>alcune sì. tipo ikia casa, e dico, ma dai lo sapevo che ikia vuol dire ca- e adesso me lo ricordo ancora, [c'ho giocato] mesi e mesi fa.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3662,7 +3662,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a347" TIME_SLOT_REF1="ts692" TIME_SLOT_REF2="ts693">
-				<ANNOTATION_VALUE>per esempio ero rimasta incantata. h ((ride)) da un video ehm: che: che si trova su youtube, che è, frozen, la canzone [di frozen],</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>per esempio ero rimasta incantata .h ((ride)) da un video ehm: che: che si trova su youtube, che è, frozen, la canzone [di frozen],</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3672,7 +3672,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a351" TIME_SLOT_REF1="ts700" TIME_SLOT_REF2="ts701">
-				<ANNOTATION_VALUE>[h.] hanno fatto un video, dove hanno messo uno a fianco all'altro. le diverse doppiatrici che cantano la canzone più famosa. [di frozen].</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>[.h] hanno fatto un video, dove hanno messo uno a fianco all'altro. le diverse doppiatrici che cantano la canzone più famosa. [di frozen].</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3692,12 +3692,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a357" TIME_SLOT_REF1="ts712" TIME_SLOT_REF2="ts713">
-				<ANNOTATION_VALUE>h. e io adesso, non ascolto neanche più la canzone vera ma ascolto quella, [che mi] piace molto di più.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>.h e io adesso, non ascolto neanche più la canzone vera ma ascolto quella, [che mi] piace molto di più.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a359" TIME_SLOT_REF1="ts716" TIME_SLOT_REF2="ts717">
-				<ANNOTATION_VALUE>h. e lì, ecco sì, questo lo faccio.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>.h e lì, ecco sì, questo lo faccio.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3707,7 +3707,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a362" TIME_SLOT_REF1="ts722" TIME_SLOT_REF2="ts723">
-				<ANNOTATION_VALUE>[mi] piace sentirle anche nelle altre lingue, vedere un attimo e dire, ma qui,. h come l'hanno:: ah: okay però qui l'hanno tradotta diversa, ah non c'entra nulla no?</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>[mi] piace sentirle anche nelle altre lingue, vedere un attimo e dire, ma qui, .h come l'hanno:: ah: okay però qui l'hanno tradotta diversa, ah non c'entra nulla no?</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3727,7 +3727,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a368" TIME_SLOT_REF1="ts734" TIME_SLOT_REF2="ts735">
-				<ANNOTATION_VALUE>h. però</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>.h però</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3777,7 +3777,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a387" TIME_SLOT_REF1="ts772" TIME_SLOT_REF2="ts773">
-				<ANNOTATION_VALUE>[che vergogna. (.) mai cioè:] solo se ero costre[tta.. h]</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>[che vergogna. (.) mai cioè:] solo se ero costre[tta. .h]</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3797,7 +3797,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a394" TIME_SLOT_REF1="ts786" TIME_SLOT_REF2="ts787">
-				<ANNOTATION_VALUE>eh adesso non:. hh</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>eh adesso non: .hh</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3887,7 +3887,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a425" TIME_SLOT_REF1="ts848" TIME_SLOT_REF2="ts849">
-				<ANNOTATION_VALUE>adesso non più tanto. però quando: c'era ancora mia nonna, loro al telefono parlavano in diale[tto.. h]</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>adesso non più tanto. però quando: c'era ancora mia nonna, loro al telefono parlavano in diale[tto. .h]</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -4057,7 +4057,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a481" TIME_SLOT_REF1="ts960" TIME_SLOT_REF2="ts961">
-				<ANNOTATION_VALUE>eh questo è interessante.. h e quindi sì (.) da lei sentivo questo eh:</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>eh questo è interessante. .h e quindi sì (.) da lei sentivo questo eh:</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -4107,12 +4107,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a497" TIME_SLOT_REF1="ts992" TIME_SLOT_REF2="ts993">
-				<ANNOTATION_VALUE>h. e quando sento me, si fa quattro risate. però insomma</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>.h e quando sento me, si fa quattro risate. però insomma</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a498" TIME_SLOT_REF1="ts994" TIME_SLOT_REF2="ts995">
-				<ANNOTATION_VALUE>cioè non lo so, io non è che sono sempre lì con le antenn[e, per ess]ere,. h impeccabile pure nelle mura domestiche ((ridendo)) cioè posso canticchiar[e::]</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>cioè non lo so, io non è che sono sempre lì con le antenn[e, per ess]ere, .h impeccabile pure nelle mura domestiche ((ridendo)) cioè posso canticchiar[e::]</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -4122,7 +4122,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a502" TIME_SLOT_REF1="ts1002" TIME_SLOT_REF2="ts1003">
-				<ANNOTATION_VALUE>no però appunto,. h lei proprio vedo che ha una grande facilità, &lt;ma perché&lt; (.) anche, diciamolo, la motivazione [no? l'int]eresse</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>no però appunto, .h lei proprio vedo che ha una grande facilità, &lt;ma perché&lt; (.) anche, diciamolo, la motivazione [no? l'int]eresse</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -4137,7 +4137,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a507" TIME_SLOT_REF1="ts1012" TIME_SLOT_REF2="ts1013">
-				<ANNOTATION_VALUE>[cioè] lei h proprio la curiosità di capir:e, di fa:re, (.) eh di scrivere in quella lingua, quindi tsk</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>[cioè] lei ha proprio la curiosità di capir:e, di fa:re, (.) eh di scrivere in quella lingua, quindi tsk</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -4182,7 +4182,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a521" TIME_SLOT_REF1="ts1040" TIME_SLOT_REF2="ts1041">
-				<ANNOTATION_VALUE>ma mi viene bene in realtà. [potrei anche fa]rlo senza scherzare ora che ci penso. è che. h non me lo sento mio. quindi non, non riuscirei a parlare in dialetto [coi par]enti.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>ma mi viene bene in realtà. [potrei anche fa]rlo senza scherzare ora che ci penso. è che .h non me lo sento mio. quindi non, non riuscirei a parlare in dialetto [coi par]enti.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -4237,7 +4237,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a541" TIME_SLOT_REF1="ts1080" TIME_SLOT_REF2="ts1081">
-				<ANNOTATION_VALUE>lo capisco abbastanza bene,. h e poi succede che io prenda alcune cose [del dialetto].</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>lo capisco abbastanza bene, .h e poi succede che io prenda alcune cose [del dialetto].</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -4257,7 +4257,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a548" TIME_SLOT_REF1="ts1094" TIME_SLOT_REF2="ts1095">
-				<ANNOTATION_VALUE>h.h &gt;cioè&lt; non, oddio no è che non mi va, mi è indifferente. [sincera]mente.. h però mi ha- mi è successo sì di prendere alcune:: al- non cadenze però,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>.hh &gt;cioè&lt; non, oddio no è che non mi va, mi è indifferente. [sincera]mente. .h però mi ha- mi è successo sì di prendere alcune:: al- non cadenze però,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -4297,7 +4297,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a566" TIME_SLOT_REF1="ts1130" TIME_SLOT_REF2="ts1131">
-				<ANNOTATION_VALUE>[h. e] guarda, ho visto che è incredibile. basta un nulla, e subito lo:=[lo:], ma secondo me è perché lo sentiamo no? [&gt;qui in alto a]dige&lt;,. h e quindi,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>[.h e] guarda, ho visto che è incredibile. basta un nulla, e subito lo:=[lo:], ma secondo me è perché lo sentiamo no? [&gt;qui in alto a]dige,&lt; .h e quindi,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -4307,7 +4307,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a570" TIME_SLOT_REF1="ts1138" TIME_SLOT_REF2="ts1139">
-				<ANNOTATION_VALUE>h. eh ci viene familiare. [ci- e r]ispondiamo così.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>.h eh ci viene familiare. [ci- e r]ispondiamo così.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -4342,7 +4342,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a585" TIME_SLOT_REF1="ts1168" TIME_SLOT_REF2="ts1169">
-				<ANNOTATION_VALUE>sì: [si può anche dire].. h</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>sì: [si può anche dire.] .h</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -4357,7 +4357,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a592" TIME_SLOT_REF1="ts1182" TIME_SLOT_REF2="ts1183">
-				<ANNOTATION_VALUE>e: l'avevo conosciuto da poco, dove lavoravo,. h</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e: l'avevo conosciuto da poco, dove lavoravo, .h</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -4387,7 +4387,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a600" TIME_SLOT_REF1="ts1198" TIME_SLOT_REF2="ts1199">
-				<ANNOTATION_VALUE>h. io,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>.h io,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -4417,7 +4417,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a611" TIME_SLOT_REF1="ts1220" TIME_SLOT_REF2="ts1221">
-				<ANNOTATION_VALUE>divertente no?. h terribile. ((ridendo)) e io, io ero lì che dicevo,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>divertente no? .h terribile. ((ridendo)) e io, io ero lì che dicevo,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -4427,7 +4427,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a615" TIME_SLOT_REF1="ts1228" TIME_SLOT_REF2="ts1229">
-				<ANNOTATION_VALUE>terribile.. h che brutto momento. io penso di non essermi mai vergognata così, sicuramente) sto: arrossendo ancora al ricordo,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>terribile. .h che brutto momento. io penso di non essermi mai vergognata così, sicuramente) sto: arrossendo ancora al ricordo,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -4437,7 +4437,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a618" TIME_SLOT_REF1="ts1234" TIME_SLOT_REF2="ts1235">
-				<ANNOTATION_VALUE>h. allora gliel'ho detto dice eh eh? e lui, sentivo qualcosa che non andava, (e) lui mi ha detto alles gut?</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>.h allora gliel'ho detto dice eh eh? e lui, sentivo qualcosa che non andava, (e) lui mi ha detto alles gut?</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -4462,7 +4462,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a627" TIME_SLOT_REF1="ts1252" TIME_SLOT_REF2="ts1253">
-				<ANNOTATION_VALUE>poi mi è venuto in mente, [però sai l'a]gitazione lì di [(qual è che devo dir]gli ade-) eh ich habe erbrochen, così e lui. hhh oddio oddio siamo scesi giù. ma</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>poi mi è venuto in mente, [però sai l'a]gitazione lì di [(qual è che devo dir]gli ade-) eh ich habe erbrochen, così e lui .hhh oddio oddio siamo scesi giù. ma</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>

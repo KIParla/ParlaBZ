@@ -18,6 +18,7 @@
 | (TEXT)   | hard to understand span                | Stretches of text surrounded by round brackets indicate unclear speech                                                                              |
 | xxx      | non-comprehensible sequence            | Used for unintelligible tokens. The number of `x`s roughly correspond to the number of syllables                                                    |
 | ((TEXT)) | non verbal behavior                    | Double parentheses indicate comments and non verbal behaviours such as laughs, sighs etc.                                                           |
+| .h / .hh | inhalation                            | A standalone `.h` (`.hh`, ...) is an inhalation in Jefferson notation: breathing, not a word. In the verticalized files it is a token of type `nonverbalbehavior` (also inside an overlapping span, `[.h]`); the text stays `.h` |
 | #word    | code-switching/code-mixing (word)      | Placed immediately before a single token to mark that word as belonging to another language or dialect                                              |
 | #\*word  | doubtful code-switching (word)         | Placed immediately before a single token to mark it as *possibly* non-Italian/dialect, when the transcriber is unsure                                |
 | # (unit-initial) | code-switching, not attributable | Placed at the very start of a transcription unit (`# `, followed by a space) to indicate the unit contains code-switching that cannot be attributed to specific words |
