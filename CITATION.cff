@@ -7,8 +7,8 @@ authors:
   given-names: "Daniela"
 - family-names: "Piovan"
   given-names: "Alex"
-version: 1.0.0
-date-released: 2026-10-11
+version: 1.0.1
+date-released: 2026-10-15
 identifiers:
   - description: "The DOI of the work"
     type: doi
