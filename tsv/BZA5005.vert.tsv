@@ -360,8 +360,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 38-3	BZ006	38	3	allora,	allora	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=WeaklyRising	_	_	_	_	_
 38-4	BZ006	38	4	ho	ho	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 38-5	BZ006	38	5	fatto	fatto	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
-38-6	BZ006	38	6	>insomma	insomma	_	_	_	_	_	linguistic	_	ContainsVariation=No	PauseAfter=Yes	_	_	Fast=0-7(0)	_	_
-38-23	BZ006	38	7	<		_	_	_	_	_	error	_	ContainsVariation=No	PauseAfter=Yes	_	_	_	_	_
+38-6	BZ006	38	6	>insomma<	insomma	_	_	_	_	_	linguistic	_	ContainsVariation=No	PauseAfter=Yes	_	_	Fast=0-7(0)	_	_
 38-7	BZ006	38	8	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=No	_	_	_	_	_	_
 38-9	BZ006	38	9	dalle	dalle	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 38-10	BZ006	38	10	elementari	elementari	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
