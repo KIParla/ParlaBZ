@@ -1,5 +1,18 @@
 = Changelog
 
+== v1.1.0 (2026-10-15)
+
+=== What's changed in 1.1.0
+
+* EAF: new layered structure. Each speaker has the tiers `ref@<speaker>` (time-aligned transcription units, value = `tu_id`) and `tx@<speaker>` (enriched transcription, the only text read back). The derived word-level tiers are no longer in the files (they are generated on request). The files are valid against the official EAFv3.0 schema.
+* Stable ids: unit and token ids no longer change when an `.eaf` is edited and synchronized back to the `tsv/` file. Annotations that the `.eaf` cannot carry (lemma, POS, `Language=` labels) are kept.
+* Unidentified speakers: placeholders made only of question marks (`??`, `???`, ...) in order of first appearance in each conversation, each with a row in `metadata/participants.tsv`; empty `form` values are written as `_`.
+* Inhalations: the isolated `h` tokens are Jefferson inhalations (`.h`). The text is restored to `.h` and the token `type` is `nonverbalbehavior` instead of `linguistic` (`nonverbal_tokens.inhalation` in the module configuration); two linguistic `h` (BZA5006 unit 506, BZA5005 unit 188) were checked individually.
+* Corrected unit texts: stray symbols attached to the neighbouring word, glued words and punctuation inside words fixed.
+* Automatic validation of the tables against the CSVW schema on every push.
+
+link:https://github.com/KIParla/ParlaBZ/compare/v1.0.0...v1.1.0[Full Changelog]
+
 == v1.0.0 (2026-10-11)
 
 === First release of ParlaBZ
