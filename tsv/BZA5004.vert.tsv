@@ -307,9 +307,9 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 43-13	BZ005	43	13	tedesco	tedesco	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 43-14	BZ005	43	14	e	e	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 43-15	BZ005	43	15	di	di	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-43-16	BZ005	43	16	inglese	inglese	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	5-7(12)
+43-16	BZ005	43	16	inglese	inglese	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 43-17	BZ005	43	17	[molto:	molto	_	_	_	_	_	linguistic	_	_	_	_	4x1	_	_	0-5(12)
-43-18	BZ005	43	18	xx]	xx	_	_	_	_	_	unknown	_	_	Syllables=2	End=115.165	_	_	_	_
+43-18	BZ005	43	18	xx]	xx	_	_	_	_	_	unknown	_	_	Syllables=2	End=115.165	_	_	_	0-2(12)
 44-0	BZ001	44	0	[ah	ah	_	_	_	_	_	linguistic	_	_	_	Begin=114.448	_	_	_	0-2(12)
 44-1	BZ001	44	1	già	già	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-3(12)
 44-2	BZ001	44	2	all'	all'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	0-4(12)
@@ -830,7 +830,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 129-4	BZ001	129	4	all'	all'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
 129-5	BZ001	129	5	estero?	estero	_	_	_	_	_	linguistic	_	_	Intonation=Rising	End=310.747	_	_	_	_
 130-0	BZ005	130	0	all'	all'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	Begin=311.613	_	_	_	_
-130-1	BZ005	130	1	este[ro	estero	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	3-6(40)
+130-1	BZ005	130	1	este[ro	estero	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	4-6(40)
 130-2	BZ005	130	2	s:-]	s-	_	_	_	_	_	linguistic	_	_	Interrupted=Yes	End=312.935	0x1	_	_	0-2(40)
 131-0	BZ001	131	0	[diciamo	diciamo	_	_	_	_	_	linguistic	_	_	_	Begin=312.253	_	_	_	0-7(40)
 131-1	BZ001	131	1	in	in	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(40)
@@ -1742,7 +1742,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 246-21	BZ005	246	21	notare<	notare	_	_	_	_	_	linguistic	_	_	_	_	_	Fast=0-6(0)	_	_
 246-22	BZ005	246	22	poi	poi	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 246-23	BZ005	246	23	mi	mi	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-246-24	BZ005	246	24	sen[to:]	sento	_	_	_	_	_	linguistic	_	_	_	End=647.285	4x1	_	_	2-5(75)
+246-24	BZ005	246	24	sen[to:]	sento	_	_	_	_	_	linguistic	_	_	_	End=647.285	4x1	_	_	3-5(75)
 247-0	BZ001	247	0	[per	per	_	_	_	_	_	linguistic	_	_	_	Begin=646.501	_	_	_	0-3(75)
 247-1	BZ001	247	1	quello	quello	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-6(75)
 247-2	BZ001	247	2	okay].	okay	_	_	_	_	_	linguistic	_	_	Intonation=Falling	End=647.413	_	_	_	0-4(75)
@@ -2020,7 +2020,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 281-14	BZ001	281	14	ma	ma	_	_	_	_	_	linguistic	_	_	_	_	_	Fast=0-2(0)	_	_
 281-15	BZ001	281	15	anche	anche	_	_	_	_	_	linguistic	_	_	_	_	_	Fast=0-5(0)	_	_
 281-16	BZ001	281	16	il	il	_	_	_	_	_	linguistic	_	_	_	_	_	Fast=0-2(0)	_	_
-281-17	BZ001	281	17	tedesco<,	tedesco	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=747.034	_	Fast=0-6(0)	_	_
+281-17	BZ001	281	17	tedesco<,	tedesco	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=747.034	_	Fast=0-7(0)	_	_
 282-0	BZ001	282	0	lì	lì	_	_	_	_	_	linguistic	_	_	_	Begin=747.401	_	_	_	_
 282-1	BZ001	282	1	invece,	invece	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	_	_	_	_	_
 282-2	BZ001	282	2	se	se	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -2420,7 +2420,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 325-10	BZ001	325	10	dal	dal	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 325-11	BZ001	325	11	francese	francese	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 325-12	BZ001	325	12	[all'	all'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	0-4(86)
-325-13	BZ001	325	13	italiano]?	italiano	_	_	_	_	_	linguistic	_	_	Intonation=Rising	End=889.65	_	_	_	0-7(86)
+325-13	BZ001	325	13	italiano]?	italiano	_	_	_	_	_	linguistic	_	_	Intonation=Rising	End=889.65	_	_	_	0-8(86)
 326-0	BZ005	326	0	[sì],	sì	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	Begin=889.189|End=889.683	_	_	_	0-2(86)
 327-0	BZ001	327	0	qual	qual	_	_	_	_	_	linguistic	_	_	_	Begin=890.519	_	_	_	_
 327-1	BZ001	327	1	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -4319,7 +4319,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 563-9	BZ005	563	9	questo	questo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 563-10	BZ005	563	10	>c'	c'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	Fast=0-2(0)	_	_
 563-11	BZ005	563	11	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	Fast=0-1(0)	_	_
-563-12	BZ005	563	12	questo<	questo	_	_	_	_	_	linguistic	_	_	_	_	_	Fast=0-5(0)	_	_
+563-12	BZ005	563	12	questo<	questo	_	_	_	_	_	linguistic	_	_	_	_	_	Fast=0-6(0)	_	_
 563-13	BZ005	563	13	bilinguismo	bilinguismo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 563-14	BZ005	563	14	italiano	italiano	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 563-15	BZ005	563	15	rumeno	rumeno	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_

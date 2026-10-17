@@ -961,10 +961,10 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 103-6	BZ007	103	6	era	era	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 103-7	BZ007	103	7	studiare	studiare	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 103-8	BZ007	103	8	lettere	lettere	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-103-9	BZ007	103	9	classi[che.	classiche	_	_	_	_	_	linguistic	_	_	Intonation=Falling	_	_	_	_	5-9(29)
+103-9	BZ007	103	9	classi[che.	classiche	_	_	_	_	_	linguistic	_	_	Intonation=Falling	_	_	_	_	6-9(29)
 103-10	BZ007	103	10	qui]ndi:	quindi	_	_	_	_	_	linguistic	_	_	_	_	5x1	_	_	0-3(29)
 103-11	BZ007	103	11	mi	mi	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-103-12	BZ007	103	12	s[xx]	sxx	_	_	_	_	_	linguistic	_	_	_	End=317.661	_	_	_	0-3(30)
+103-12	BZ007	103	12	s[xx]	sxx	_	_	_	_	_	linguistic	_	_	_	End=317.661	_	_	_	1-3(30)
 104-0	BZ001	104	0	[ah.	ah	_	_	_	_	_	linguistic	_	_	Intonation=Falling	Begin=316.272	_	_	_	0-2(29)
 104-1	BZ001	104	1	okay].	okay	_	_	_	_	_	linguistic	_	_	Intonation=Falling	End=316.846	_	_	_	0-4(29)
 105-0	BZ001	105	0	[e	e	_	_	_	_	_	linguistic	_	_	_	Begin=317.28	_	_	_	0-1(30)
@@ -1004,7 +1004,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 109-8	BZ007	109	8	il	il	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 109-9	BZ007	109	9	classico	classico	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 109-10	BZ007	109	10	mette	mette	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-109-11	BZ007	109	11	confusio[ne].	confusione	_	_	_	_	_	linguistic	_	_	Intonation=Falling	End=327.668	_	_	_	7-10(33)
+109-11	BZ007	109	11	confusio[ne].	confusione	_	_	_	_	_	linguistic	_	_	Intonation=Falling	End=327.668	_	_	_	8-10(33)
 110-0	BZ001	110	0	[.hh]	.hh	_	_	_	_	_	nonverbalbehavior	_	_	_	Begin=327.206|End=327.678	_	_	_	X(33)
 111-0	BZ007	111	0	e	e	_	_	_	_	_	linguistic	_	_	_	Begin=327.673	_	_	_	_
 111-1	BZ007	111	1	un	un	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -1325,8 +1325,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 134-9	BZ007	134	9	l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
 134-10	BZ007	134	10	ultima	ultima	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 134-11	BZ007	134	11	laurea	laurea	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-134-12	BZ007	134	12	che	che	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	2-3(37)
-134-13	BZ007	134	13	[pren]devo,	prendevo	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	_	_	_	_	0-3(37)
+134-12	BZ007	134	12	che	che	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+134-13	BZ007	134	13	[pren]devo,	prendevo	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	_	_	_	_	0-4(37)
 134-14	BZ007	134	14	(e)	e	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 134-15	BZ007	134	15	lo	lo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 134-16	BZ007	134	16	sapevo	sapevo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -1445,7 +1445,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 144-18	BZ007	144	18	l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
 144-19	BZ007	144	19	altra	altra	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 144-20	BZ007	144	20	in	in	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-144-21	BZ007	144	21	real[tà].	realtà	_	_	_	_	_	linguistic	_	_	Intonation=Falling	End=475.31	_	_	_	2-5(40)
+144-21	BZ007	144	21	real[tà].	realtà	_	_	_	_	_	linguistic	_	_	Intonation=Falling	End=475.31	_	_	_	4-6(40)
 145-0	BZ001	145	0	[esa]tto.	esatto	_	_	_	_	_	linguistic	_	_	Intonation=Falling	Begin=474.79|End=475.36	_	_	_	0-3(40)
 146-0	BZ007	146	0	e	e	_	_	_	_	_	linguistic	_	_	_	Begin=475.395	_	_	_	_
 146-1	BZ007	146	1	infatti	infatti	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -1503,7 +1503,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 151-4	BZ007	151	4	po'	po'	_	_	_	_	_	linguistic	_	_	PauseAfter=Yes	_	_	_	_	_
 151-5	BZ007	151	5	(.)	(.)	_	_	_	_	_	shortpause	_	_	_	_	_	_	_	_
 151-6	BZ007	151	6	eh::	eh	_	_	_	_	_	linguistic	_	_	_	_	1x2	_	_	_
-151-7	BZ007	151	7	di[ciamo,	diciamo	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising|PauseAfter=Yes	_	_	_	_	1-7(42)
+151-7	BZ007	151	7	di[ciamo,	diciamo	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising|PauseAfter=Yes	_	_	_	_	2-7(42)
 151-8	BZ007	151	8	(.)	(.)	_	_	_	_	_	shortpause	_	_	_	_	_	_	_	X(42)
 151-9	BZ007	151	9	i	i	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-1(42)
 151-10	BZ007	151	10	vari	vari	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-4(42)
@@ -1821,7 +1821,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 189-12	BZ007	189	12	inglese,	inglese	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising|PauseAfter=Yes	_	_	_	_	_
 189-13	BZ007	189	13	[(.)	(.)	_	_	_	_	_	shortpause	_	_	_	_	_	_	_	X(53)
 189-14	BZ007	189	14	va	va	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(53)
-189-15	BZ007	189	15	be]ne,	bene	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	_	_	_	_	0-1(53)
+189-15	BZ007	189	15	be]ne,	bene	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	_	_	_	_	0-2(53)
 189-16	BZ007	189	16	però:	però	_	_	_	_	_	linguistic	_	_	PauseAfter=Yes	_	3x1	_	_	_
 189-17	BZ007	189	17	(.)	(.)	_	_	_	_	_	shortpause	_	_	_	_	_	_	_	_
 189-18	BZ007	189	18	potrei	potrei	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -2146,7 +2146,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 221-20	BZ007	221	20	accademico	accademico	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 221-21	BZ007	221	21	no?	no	_	_	_	_	_	linguistic	_	_	Intonation=Rising	_	_	_	_	_
 221-22	BZ007	221	22	come	come	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-221-23	BZ007	221	23	d[ici	dici	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-4(67)
+221-23	BZ007	221	23	d[ici	dici	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	1-4(67)
 221-24	BZ007	221	24	tu].	tu	_	_	_	_	_	linguistic	_	_	Intonation=Falling	End=710.65	_	_	_	0-2(67)
 222-0	BZ001	222	0	[mh	mh	_	_	_	_	_	linguistic	_	_	ProsodicLink=Yes	Begin=710.288	_	_	_	0-2(67)
 222-1	BZ001	222	1	mh],	mh	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=710.658	_	_	_	0-2(67)
@@ -2945,7 +2945,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 291-14	BZ007	291	14	dei	dei	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 291-15	BZ007	291	15	tirocini,	tirocini	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	_	_	_	_	_
 291-16	BZ007	291	16	in	in	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-291-17	BZ007	291	17	germa[nia],	germania	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=969.38	_	_	_	4-8(84)
+291-17	BZ007	291	17	germa[nia],	germania	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=969.38	_	_	_	5-8(84)
 292-0	BZ001	292	0	[okay],	okay	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	Begin=968.752|End=969.372	_	_	_	0-4(84)
 293-0	BZ007	293	0	tre	tre	_	_	_	_	_	linguistic	_	_	_	Begin=969.432	_	_	_	_
 293-1	BZ007	293	1	mesi,	mesi	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	_	_	_	_	_
@@ -4027,7 +4027,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 424-13	BZ007	424	13	telefono	telefono	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 424-14	BZ007	424	14	parlavano	parlavano	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 424-15	BZ007	424	15	in	in	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-424-16	BZ007	424	16	diale[tto.	dialetto	_	_	_	_	_	linguistic	_	_	Intonation=Falling	_	_	_	_	4-8(139)
+424-16	BZ007	424	16	diale[tto.	dialetto	_	_	_	_	_	linguistic	_	_	Intonation=Falling	_	_	_	_	5-8(139)
 424-17	BZ007	424	17	.h]	.h	_	_	_	_	_	nonverbalbehavior	_	_	_	End=1290.636	_	_	_	X(139)
 425-0	BZ001	425	0	[eh].	eh	_	_	_	_	_	linguistic	_	_	Intonation=Falling	Begin=1290.151|End=1290.631	_	_	_	0-2(139)
 426-0	BZ007	426	0	io	io	_	_	_	_	_	linguistic	_	_	_	Begin=1290.671	_	_	_	_
@@ -5291,7 +5291,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 564-2	BZ001	564	2	interno	interno	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 564-3	BZ001	564	3	delle	delle	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 564-4	BZ001	564	4	competenze	competenze	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-564-5	BZ001	564	5	linguisti[che].	linguistiche	_	_	_	_	_	linguistic	_	_	Intonation=Falling	End=1683.36	_	_	_	8-12(202)
+564-5	BZ001	564	5	linguisti[che].	linguistiche	_	_	_	_	_	linguistic	_	_	Intonation=Falling	End=1683.36	_	_	_	9-12(202)
 565-0	BZ007	565	0	[.h	.h	_	_	_	_	_	nonverbalbehavior	_	_	_	Begin=1683.14	_	_	_	X(202)
 565-1	BZ007	565	1	e]	e	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-1(202)
 565-2	BZ007	565	2	guarda,	guarda	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	_	_	_	_	_
@@ -5565,7 +5565,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 596-5	BZ007	596	5	mal	mal	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 596-6	BZ007	596	6	d'	d'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
 596-7	BZ007	596	7	auto,	auto	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	_	_	_	_	_
-596-8	BZ007	596	8	m[ale:	male	_	_	_	_	_	linguistic	_	_	_	_	3x1	_	_	0-4(215)
+596-8	BZ007	596	8	m[ale:	male	_	_	_	_	_	linguistic	_	_	_	_	3x1	_	_	1-4(215)
 596-9	BZ007	596	9	però]	però	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-4(215)
 596-10	BZ007	596	10	sai,	sai	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	_	_	_	_	_
 596-11	BZ007	596	11	non	non	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -5912,7 +5912,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 640-3	BZ001	640	3	inte]rvista	intervista	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-4(235)
 640-4	BZ001	640	4	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 640-5	BZ001	640	5	molto	molto	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-640-6	BZ001	640	6	in[teressante].	interessante	_	_	_	_	_	linguistic	_	_	Intonation=Falling	End=1874.222	_	_	_	1-12(236)
+640-6	BZ001	640	6	in[teressante].	interessante	_	_	_	_	_	linguistic	_	_	Intonation=Falling	End=1874.222	_	_	_	2-12(236)
 641-0	BZ007	641	0	[volentieri].	volentieri	_	_	_	_	_	linguistic	_	_	Intonation=Falling	Begin=1873.302|End=1874.002	_	_	_	0-10(236)
 642-0	BZ001	642	0	[grazie].	grazie	_	_	_	_	_	linguistic	_	_	Intonation=Falling	Begin=1874.222|End=1874.702	_	_	_	0-6(237)
 643-0	BZ007	643	0	[grazie].	grazie	_	_	_	_	_	linguistic	_	_	Intonation=Falling	Begin=1874.232	_	_	_	0-6(237)
