@@ -653,8 +653,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 101-13	BZ010	101	13	l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
 101-14	BZ010	101	14	altra:	altra	_	_	_	_	_	linguistic	_	_	_	_	4x1	_	_	_
 101-15	BZ010	101	15	l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
-101-16	BZ010	101	16	altra	altra	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	4-5(23)
-101-17	BZ010	101	17	[lingua].	lingua	_	_	_	_	_	linguistic	_	_	Intonation=Falling	End=250.29	_	_	_	0-5(23)
+101-16	BZ010	101	16	altra	altra	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+101-17	BZ010	101	17	[lingua].	lingua	_	_	_	_	_	linguistic	_	_	Intonation=Falling	End=250.29	_	_	_	0-6(23)
 102-0	BZ008	102	0	[sì	sì	_	_	_	_	_	linguistic	_	_	_	Begin=249.782	_	_	_	0-2(23)
 102-1	BZ008	102	1	si]curamente	sicuramente	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(23)
 102-2	BZ008	102	2	che:,	che	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=251.612	2x1	_	_	_
@@ -2321,7 +2321,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 356-14	BZ010	356	14	altro	altro	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-5(85)
 356-15	BZ010	356	15	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-1(85)
 356-16	BZ010	356	16	palese]mente	palesemente	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-6(85)
-356-17	BZ010	356	17	italia[no],	italiano	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=877.585	_	_	_	5-8(86)
+356-17	BZ010	356	17	italia[no],	italiano	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=877.585	_	_	_	6-8(86)
 357-0	BZ008	357	0	[roesch	roesch	_	_	_	_	_	linguistic	_	_	_	Begin=875.682	_	_	_	0-6(85)
 357-1	BZ008	357	1	sì]	sì	_	_	_	_	_	linguistic	_	_	_	End=876.384	_	_	_	0-2(85)
 358-0	BZ008	358	0	[sì],	sì	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	Begin=877.112|End=877.481	_	_	_	0-2(86)
@@ -2343,7 +2343,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 359-15	BZ010	359	15	in	in	_	_	_	_	_	linguistic	_	_	_	_	_	Fast=0-2(0)	_	_
 359-16	BZ010	359	16	mente	mente	_	_	_	_	_	linguistic	_	_	_	_	_	Fast=0-5(0)	_	_
 359-17	BZ010	359	17	sta	sta	_	_	_	_	_	linguistic	_	_	_	_	_	Fast=0-3(0)	_	_
-359-18	BZ010	359	18	cosa<	cosa	_	_	_	_	_	linguistic	_	_	_	_	_	Slow=3-4(0)|Fast=0-4(0)	_	_
+359-18	BZ010	359	18	cosa<	cosa	_	_	_	_	_	linguistic	_	_	_	_	_	Fast=0-4(0)	_	_
 359-19	BZ010	359	19	ma	ma	_	_	_	_	_	linguistic	_	_	_	_	_	Slow=0-2(0)	_	_
 359-20	BZ010	359	20	mh:	mh	_	_	_	_	_	linguistic	_	_	_	_	1x1	Slow=0-2(0)	_	_
 359-21	BZ010	359	21	bo'	bo'	_	_	_	_	_	linguistic	_	_	Truncated=Yes	_	_	Slow=0-3(0)	_	_
@@ -2354,13 +2354,13 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 359-26	BZ010	359	26	dove	dove	_	_	_	_	_	linguistic	_	_	_	_	_	Fast=0-4(1)	_	_
 359-27	BZ010	359	27	l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	Fast=0-2(1)	_	_
 359-28	BZ010	359	28	ho	ho	_	_	_	_	_	linguistic	_	_	_	_	_	Fast=0-2(1)	_	_
-359-29	BZ010	359	29	pescata<	pescata	_	_	_	_	_	linguistic	_	_	_	_	_	Fast=0-6(1)	_	_
+359-29	BZ010	359	29	pescata<	pescata	_	_	_	_	_	linguistic	_	_	_	_	_	Fast=0-7(1)	_	_
 359-30	BZ010	359	30	infatti	infatti	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 359-31	BZ010	359	31	mi	mi	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 359-32	BZ010	359	32	sa	sa	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 359-33	BZ010	359	33	che	che	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 359-34	BZ010	359	34	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-359-35	BZ010	359	35	sba[gliata],	sbagliata	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=887.674	_	_	_	1-8(87)
+359-35	BZ010	359	35	sba[gliata],	sbagliata	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=887.674	_	_	_	3-9(87)
 360-0	BZ008	360	0	[no	no	_	_	_	_	_	linguistic	_	_	_	Begin=887.332	_	_	_	0-2(87)
 360-1	BZ008	360	1	ma	ma	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(87)
 360-2	BZ008	360	2	infa]tti	infatti	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-4(87)
@@ -2484,7 +2484,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 383-7	BZ008	383	7	italiano	italiano	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 383-8	BZ008	383	8	e	e	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 383-9	BZ008	383	9	quello	quello	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-383-10	BZ008	383	10	tedes[co].	tedesco	_	_	_	_	_	linguistic	_	_	Intonation=Falling	End=932.403	_	_	_	4-7(94)
+383-10	BZ008	383	10	tedes[co].	tedesco	_	_	_	_	_	linguistic	_	_	Intonation=Falling	End=932.403	_	_	_	5-7(94)
 384-0	BZ010	384	0	[okay]	okay	_	_	_	_	_	linguistic	_	_	_	Begin=932.144	_	_	_	0-4(94)
 384-1	BZ010	384	1	son	son	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 384-2	BZ010	384	2	sempre	sempre	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -2523,7 +2523,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 389-8	BZ010	389	8	gente	gente	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 389-9	BZ010	389	9	dell'	dell'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
 389-10	BZ010	389	10	altro	altro	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-389-11	BZ010	389	11	grup[po	gruppo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	3-6(99)
+389-11	BZ010	389	11	grup[po	gruppo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	4-6(99)
 389-12	BZ010	389	12	alla	alla	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-4(99)
 389-13	BZ010	389	13	fi]ne	fine	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(99)
 389-14	BZ010	389	14	no?	no	_	_	_	_	_	linguistic	_	_	Intonation=Rising	End=945.243	_	_	_	_
@@ -2971,7 +2971,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 433-15	BZ010	433	15	che	che	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 433-16	BZ010	433	16	imparano	imparano	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 433-17	BZ010	433	17	il	il	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-433-18	BZ010	433	18	te[desco].	tedesco	_	_	_	_	_	linguistic	_	_	Intonation=Falling	End=1085.982	_	_	_	0-6(115)
+433-18	BZ010	433	18	te[desco].	tedesco	_	_	_	_	_	linguistic	_	_	Intonation=Falling	End=1085.982	_	_	_	2-7(115)
 434-0	BZ008	434	0	[ah	ah	_	_	_	_	_	linguistic	_	_	_	Begin=1085.795	_	_	_	0-2(115)
 434-1	BZ008	434	1	quello]	quello	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-6(115)
 434-2	BZ008	434	2	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_

@@ -1191,7 +1191,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 218-2	BZ012	218	2	to-	to-	_	_	_	_	_	linguistic	_	_	Interrupted=Yes	_	_	_	_	0-3(79)
 218-3	BZ012	218	3	l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	0-2(79)
 218-4	BZ012	218	4	hai	hai	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-3(79)
-218-5	BZ012	218	5	toccato]	toccato	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-6(79)
+218-5	BZ012	218	5	toccato]	toccato	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-7(79)
 218-6	BZ012	218	6	con	con	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 218-7	BZ012	218	7	un	un	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 218-8	BZ012	218	8	piede?	piede	_	_	_	_	_	linguistic	_	_	Intonation=Rising	End=474.24	_	_	_	_
@@ -1273,9 +1273,9 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 230-12	BZ009	230	12	mangiare.	mangiare	_	_	_	_	_	linguistic	_	_	Intonation=Falling	_	_	_	_	_
 230-13	BZ009	230	13	stiamo	stiamo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 230-14	BZ009	230	14	giocando	giocando	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-230-15	BZ009	230	15	a	a	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-1(82)
+230-15	BZ009	230	15	a	a	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 230-16	BZ009	230	16	[scarabeo	scarabeo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-8(82)
-230-17	BZ009	230	17	vedi]?	vedi	_	_	_	_	_	linguistic	_	_	Intonation=Rising	End=500.18	_	_	_	0-3(82)
+230-17	BZ009	230	17	vedi]?	vedi	_	_	_	_	_	linguistic	_	_	Intonation=Rising	End=500.18	_	_	_	0-4(82)
 231-0	BZ012	231	0	[(anche)	anche	_	_	_	_	_	linguistic	_	_	_	Begin=499.175	_	_	0-5(0)	0-5(82)
 231-1	BZ012	231	1	perché	perché	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-6(82)
 231-2	BZ012	231	2	ti	ti	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(82)
@@ -1356,7 +1356,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 239-4	BZ012	239	4	abbiamo	abbiamo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 239-5	BZ012	239	5	un	un	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 239-6	BZ012	239	6	cane	cane	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-239-7	BZ012	239	7	vegeta[riano]?	vegetariano	_	_	_	_	_	linguistic	_	_	Intonation=Rising	End=532.253	_	_	_	5-11(85)
+239-7	BZ012	239	7	vegeta[riano]?	vegetariano	_	_	_	_	_	linguistic	_	_	Intonation=Rising	End=532.253	_	_	_	6-11(85)
 240-0	BZ009	240	0	[ma	ma	_	_	_	_	_	linguistic	_	_	_	Begin=532.018	_	_	_	0-2(85)
 240-1	BZ009	240	1	da	da	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(85)
 240-2	BZ009	240	2	quan]do	quando	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-4(85)

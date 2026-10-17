@@ -379,7 +379,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 38-13	BZ009	38	13	alla	alla	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 38-14	BZ009	38	14	scuola	scuola	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 38-15	BZ009	38	15	>di	di	_	_	_	_	_	linguistic	_	_	_	_	_	Fast=0-2(0)	_	_
-38-16	BZ009	38	16	madrel[ingua	madrelingua	_	_	_	_	_	linguistic	_	_	_	_	_	Fast=0-11(0)	_	5-11(2)
+38-16	BZ009	38	16	madrel[ingua	madrelingua	_	_	_	_	_	linguistic	_	_	_	_	_	Fast=0-11(0)	_	6-11(2)
 38-17	BZ009	38	17	tedesca]	tedesca	_	_	_	_	_	linguistic	_	_	_	_	_	Fast=0-7(0)	_	0-7(2)
 38-18	BZ009	38	18	e	e	_	_	_	_	_	linguistic	_	_	_	_	_	Fast=0-1(0)	_	_
 38-19	BZ009	38	19	viceversa<,	viceversa	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=174.85	_	Fast=0-9(0)	_	_
@@ -1667,7 +1667,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 169-25	BZ009	169	25	dall'	dall'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
 169-26	BZ009	169	26	hochdeutsch	hochdeutsch	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 169-27	BZ009	169	27	al	al	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-169-28	BZ009	169	28	dia[letto].	dialetto	_	_	_	_	_	linguistic	_	_	Intonation=Falling	End=669.795	_	_	_	0-6(20)
+169-28	BZ009	169	28	dia[letto].	dialetto	_	_	_	_	_	linguistic	_	_	Intonation=Falling	End=669.795	_	_	_	3-8(20)
 170-0	BZ001	170	0	[mh	mh	_	_	_	_	_	linguistic	_	_	ProsodicLink=Yes	Begin=669.125	_	_	_	0-2(20)
 170-1	BZ001	170	1	mh].	mh	_	_	_	_	_	linguistic	_	_	Intonation=Falling	End=669.605	_	_	_	0-2(20)
 171-0	BZ009	171	0	quindi	quindi	_	_	_	_	_	linguistic	_	_	_	Begin=670.3	_	_	_	_
@@ -1891,7 +1891,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 186-13	BZ009	186	13	magari	magari	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 186-14	BZ009	186	14	come	come	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 186-15	BZ009	186	15	in	in	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-186-16	BZ009	186	16	i[talia],	italia	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=746.275	_	_	_	0-6(23)
+186-16	BZ009	186	16	i[talia],	italia	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=746.275	_	_	_	1-6(23)
 187-0	BZ001	187	0	[mh].	mh	_	_	_	_	_	linguistic	_	_	Intonation=Falling	Begin=745.67|End=746.24	_	_	_	0-2(23)
 188-0	BZ009	188	0	però	però	_	_	_	_	_	linguistic	_	_	_	Begin=746.55	_	_	_	_
 188-1	BZ009	188	1	preferisco,	preferisco	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising|PauseAfter=Yes	_	_	_	_	_
@@ -2059,7 +2059,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 207-33	BZ009	207	33	[ma	ma	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(29)
 207-34	BZ009	207	34	come	come	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-4(29)
 207-35	BZ009	207	35	un'	un'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	0-3(29)
-207-36	BZ009	207	36	op]portunità.	opportunità	_	_	_	_	_	linguistic	_	_	Intonation=Falling	End=802.32	_	_	_	0-1(29)
+207-36	BZ009	207	36	op]portunità.	opportunità	_	_	_	_	_	linguistic	_	_	Intonation=Falling	End=802.32	_	_	_	0-2(29)
 208-0	BZ001	208	0	[okay],	okay	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	Begin=800.857|End=801.327	_	_	_	0-4(29)
 209-0	BZ001	209	0	mh,	mh	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising|PauseAfter=Yes	Begin=802.277	_	_	_	_
 209-1	BZ001	209	1	(.)	(.)	_	_	_	_	_	shortpause	_	_	_	_	_	_	_	_
@@ -2728,8 +2728,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 280-23	BZ009	280	23	tra	tra	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 280-24	BZ009	280	24	parigi	parigi	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 280-25	BZ009	280	25	le	le	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-280-26	BZ009	280	26	havre	havre	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	4-5(41)
-280-27	BZ009	280	27	[dove],	dove	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=1054.622	_	_	_	0-3(41)
+280-26	BZ009	280	26	havre	havre	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+280-27	BZ009	280	27	[dove],	dove	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=1054.622	_	_	_	0-4(41)
 281-0	BZ001	281	0	[((ride))]	((ride))	_	_	_	_	_	nonverbalbehavior	_	_	_	Begin=1046.867|End=1047.957	_	_	_	X(40)
 282-0	BZ001	282	0	[mh	mh	_	_	_	_	_	linguistic	_	_	ProsodicLink=Yes	Begin=1053.907	_	_	_	0-2(41)
 282-1	BZ001	282	1	mh],	mh	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=1054.647	_	_	_	0-2(41)
@@ -3051,13 +3051,13 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 319-4	BZ009	319	4	tatuaggio	tatuaggio	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 319-5	BZ009	319	5	tra	tra	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 319-6	BZ009	319	6	l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
-319-7	BZ009	319	7	al[tro,	altro	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	_	_	_	_	1-5(52)
+319-7	BZ009	319	7	al[tro,	altro	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	_	_	_	_	2-5(52)
 319-8	BZ009	319	8	par]liamo	parliamo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-3(52)
 319-9	BZ009	319	9	ormai	ormai	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 319-10	BZ009	319	10	di	di	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 319-11	BZ009	319	11	[vent'	vent'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	0-5(53)
 319-12	BZ009	319	12	anni	anni	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-4(53)
-319-13	BZ009	319	13	fa],	fa	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=1163.942	_	_	_	0-1(53)
+319-13	BZ009	319	13	fa],	fa	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=1163.942	_	_	_	0-2(53)
 320-0	BZ001	320	0	[ah].	ah	_	_	_	_	_	linguistic	_	_	Intonation=Falling	Begin=1162.012|End=1162.602	_	_	_	0-2(52)
 321-0	BZ001	321	0	[((ride))]	((ride))	_	_	_	_	_	nonverbalbehavior	_	_	_	Begin=1163.252|End=1163.872	_	_	_	X(53)
 322-0	BZ009	322	0	eh::	eh	_	_	_	_	_	linguistic	_	_	_	Begin=1164.297	1x2	_	_	_
@@ -3309,7 +3309,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 353-14	BZ009	353	14	e	e	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 353-15	BZ009	353	15	all'	all'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
 353-16	BZ009	353	16	esercito	esercito	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-353-17	BZ009	353	17	america[no	americano	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	6-9(69)
+353-17	BZ009	353	17	america[no	americano	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	7-9(69)
 353-18	BZ009	353	18	perché	perché	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-6(69)
 353-19	BZ009	353	19	fos]si	fossi	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-3(69)
 353-20	BZ009	353	20	lì,	lì	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=1259.147	_	_	_	_
