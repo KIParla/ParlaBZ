@@ -348,10 +348,9 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 36-2	BZ006	36	2	studi	studi	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 36-3	BZ006	36	3	sulle	sulle	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 36-4	BZ006	36	4	lin[gue.	lingue	_	_	_	_	_	linguistic	_	_	Intonation=Falling	_	_	_	_	3-6(9)
-36-5	BZ006	36	5	mi	mi	_	_	_	_	_	linguistic	_	_	ProsodicLink=Yes	_	_	_	_	0-2(9)
-36-6	BZ006	36	6	]	_	_	_	_	_	_	error	_	_	_	_	_	_	_	_
-36-7	BZ006	36	7	mi	mi	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-36-8	BZ006	36	8	piaceva,	piaceva	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=136.93	_	_	_	_
+36-5	BZ006	36	5	mi]	mi	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(9)
+36-7	BZ006	36	6	mi	mi	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+36-8	BZ006	36	7	piaceva,	piaceva	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=136.93	_	_	_	_
 37-0	BZ001	37	0	[mh	mh	_	_	_	_	_	linguistic	_	_	ProsodicLink=Yes	Begin=135.625	_	_	_	0-2(9)
 37-1	BZ001	37	1	mh],	mh	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=136.045	_	_	_	0-2(9)
 38-0	BZ006	38	0	eh::	eh	_	_	_	_	_	linguistic	_	_	_	Begin=137.317	1x2	_	_	_
