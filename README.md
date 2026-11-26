@@ -66,7 +66,7 @@ Metadata is to be interpreted as follows:
    - Additionally, the [`metadata/conversations.tsv`](metadata/conversations.tsv) also contains a `participants` field that recaps the codes of the participants to that conversation
 
 [^1]: `abruzzo`, `basilicata`, `calabria`, `campania`, `emilia-romagna`, `friuli-venezia-giulia`, `lazio`, `liguria`, `lombardia`, `marche`, `molise`, `piemonte`, `puglia`, `sardegna`, `sicilia`, `toscana`, `trentino-alto-adige`, `umbria`, `valle-d-aosta`, `veneto`
-[^3]: `elementary-school`, `liceo-diploma`, `middle-school`, `phd`,  `technical-vocational-diploma`, `university-degree`, `university-degree-ongoing`
+[^3]: `primary-school`, `liceo-diploma`, `middle-school`, `phd`,  `technical-vocational-diploma`, `university-degree`, `university-degree-ongoing`
 
 ## CSVW metadata
 
