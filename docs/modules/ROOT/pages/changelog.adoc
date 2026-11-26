@@ -1,5 +1,13 @@
 = Changelog
 
+== v2.0.1 (2026-11-26)
+
+=== What's Changed
+* Release 2.0.1: BZ004 study level primary-school by @ellepannitto in https://github.com/KIParla/ParlaBZ/pull/15
+
+
+link:https://github.com/KIParla/ParlaBZ/compare/v2.0.0...v2.0.1[Full Changelog]
+
 == v2.0.0 (2026-10-18)
 
 === What's changed in 2.0.0
